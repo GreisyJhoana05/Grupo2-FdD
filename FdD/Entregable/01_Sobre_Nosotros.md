@@ -1,1 +1,6 @@
 ![](https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Presntaci%C3%B3n.jpg)
+![](https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Milena.jpg)
+![](https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Greisy.jpg)
+![](https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Marco.jpg)
+![](https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Angie.jpg)
+![](https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Slim.jpg)
