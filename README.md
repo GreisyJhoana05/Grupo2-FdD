@@ -13,3 +13,14 @@
   <p>Según el estudio World Air Quality Report 2023 de la firma privada IQAir, Perú tiene la calidad del aire más baja en América Latina. De esta manera, con 18.8 μg/m³, nuestra nación ocupa el puesto 51 entre 134 países. https://www.iqair.com/es/world-air-quality-report</p>
 </blockquote>
 
+<h2>Tabla de contenidos:</h2>
+<ul>
+<li><a href="#Mision">Misión</a></li>
+<li><a href="#Vision">Visión</a></li>
+<li><a href="#somos">¿Quiénes somos?</a></li>
+<li><a href="#impulsa">¿Qué es lo que nos impulsa?</a></li>
+<li><a href="#ODS">¿Cúal es nuestro ODS?</a></li>
+<li><a href="#haremos">¿Qué haremos?</a></li>
+<li><a href="#Referencias">Referencias bibliográficas</a></li>
+</ul>
+<h2 id="Mision">Misión:</h2>
