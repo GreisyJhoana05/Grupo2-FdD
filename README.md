@@ -73,3 +73,17 @@ Somos estudiantes en busca de crear soluciones innovadoras a través de la combi
 <p>Para mayor información sobre nosotros y los roles que desempeñamo haz click <a href="FdD/Entregable/01_Sobre_Nosotros.md">aqui</a></p>
 <br>
 
+<h2 id="Mision">Misión:</h2>
+
+Nuestra misión es proteger el aire que respiramos, no solo para nosotros, sino también para las futuras generaciones. Recopilamos datos sobre la calidad del aire a nivel mundial, nacional y departamental, con enfoque en las PM2.5. Utilizamos esta información para desarrollar filtros de limpieza amigables con el medio ambiente y tecnológicamente avanzados. Trabajamos para crear un mundo en el que cada respiración sea pura y saludable, donde todos puedan disfrutar de un aire limpio y fresco.
+
+<h2 id="vision">Visión</h2>
+
+Nuestra visión es procurar un mundo en el que nuestras tecnologías se adopten ampliamente, creando comunidades más saludables y sostenibles en todo el mundo. Queremos dejar una herencia de aire limpio y puro para las generaciones venideras, permitiéndoles florecer y prosperar en un entorno más seguro y limpio.
+
+<h2 id="impulsa">¿Qué es lo que nos impulsa?</h2>
+
+<p>Nos sentimos motivados por el deseo de generar un impacto positivo en nuestro ambiente y en la vida de las personas, promoviendo el cambio hacia un futuro más limpio y sostenible para todos.Creemos firmemente que cada pequeña acción es importante y puede marcar la diferencia en la lucha contra la contaminación del aire, lo cual nos motiva. 
+</p>
+<p>Si desea conocer más información de la problemática que vamos a abordar haga click <a href="/FdD/Entregable/02_Definición_del_problema.md">aqui</p>
+
