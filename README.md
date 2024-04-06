@@ -24,6 +24,10 @@
 <li><a href="#Referencias">Referencias bibliográficas</a></li>
 </ul>
 <h2 id="somos">¿Quiénes somos?</h2>
+<p align="justify">
+Somos estudiantes en busca de crear soluciones innovadoras a través de la combinación de conocimientos y habilidades, formando un equipo diverso y apasionado. Nos unimos con determinación para aprovechar nuestra diversidad para promover la creatividad y la excelencia en cada proyecto.A continuación podrás observar una imagen del equipo y una tabla con el rol que cada uno cumple en este proyecto.
+</p>
+
 
 <table>
     <thead>
