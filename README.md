@@ -15,12 +15,49 @@
 
 <h2>Tabla de contenidos:</h2>
 <ul>
+<li><a href="#somos">¿Quiénes somos?</a></li>
 <li><a href="#Mision">Misión</a></li>
 <li><a href="#Vision">Visión</a></li>
-<li><a href="#somos">¿Quiénes somos?</a></li>
 <li><a href="#impulsa">¿Qué es lo que nos impulsa?</a></li>
 <li><a href="#ODS">¿Cúal es nuestro ODS?</a></li>
 <li><a href="#haremos">¿Qué haremos?</a></li>
 <li><a href="#Referencias">Referencias bibliográficas</a></li>
 </ul>
-<h2 id="Mision">Misión:</h2>
+<h2 id="somos">¿Quiénes somos?</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>NOMBRE</th>
+            <th>CORREO</th>
+            <th>ROL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Milena Nicol Yalli Espinoza</td>
+            <td><a href="mailto:milena.yalli@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">milena.yalli@upch.pe</td>
+            <td>COORDINADORA GENERAL</td>
+        </tr>
+        <tr>
+            <td>Jose Nilson Cueva Ramos</td>
+            <td><a href="mailto:jose.cueva@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">jose.cueva@upch.pe</a></td>
+            <td>COORDINADOR DE SOFTWARE Y MANUFACTURA</td>
+        </tr>
+        <tr>
+            <td>Meyli Flores Huaman</td>
+            <td><a href="mailto:meyli.flores@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">meyli.flores@upch.pe</a></td>
+            <td>COORDINADOR DE MODELADO 3D</td>
+        </tr>
+        <tr>
+            <td>Iory Estefani Huarca Astete</td>
+            <td><a href="mailto:iory.huarca@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">iory.huarca@upch.pe</a></td>
+            <td>COORDINADOR DE DISEÑO Y BOCETOS</td>
+        </tr>
+        <tr>
+            <td>Romina Perez Amado</td>
+            <td><a href="mailto:romina.perez@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">romina.perez@upch.pe</a></td>
+            <td>COORDINADOR GENERAL E INVESTIGACION</td>
+        </tr>
+    </tbody>
+</table>
