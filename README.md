@@ -48,24 +48,24 @@ Somos estudiantes en busca de crear soluciones innovadoras a través de la combi
             <td>COORDINADORA GENERAL</td>
         </tr>
         <tr>
-            <td>Jose Nilson Cueva Ramos</td>
-            <td><a href="mailto:jose.cueva@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">jose.cueva@upch.pe</a></td>
-            <td>COORDINADOR DE SOFTWARE Y MANUFACTURA</td>
+            <td>Greisy Jhoana Delgado Gaona</td>
+            <td><a href="mailto:greisy.delgao@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">greisy.delgao@upch.pe</a></td>
+            <td>ENCARGADA DE DESARROLLO TECNOLÓGICOS Y PROTOTIPADO</td>
         </tr>
         <tr>
-            <td>Meyli Flores Huaman</td>
-            <td><a href="mailto:meyli.flores@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">meyli.flores@upch.pe</a></td>
-            <td>COORDINADOR DE MODELADO 3D</td>
+            <td>Marco Antonio Mendoza Canaza</td>
+            <td><a href="mailto:marco.mendoza.canaza@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">marco.mendoza.canaza@upch.pe</a></td>
+            <td>COORDINADOR DE DISEÑO Y MODELADO 3D</td>
         </tr>
         <tr>
-            <td>Iory Estefani Huarca Astete</td>
-            <td><a href="mailto:iory.huarca@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">iory.huarca@upch.pe</a></td>
-            <td>COORDINADOR DE DISEÑO Y BOCETOS</td>
+            <td>Angie Ysabel Nashely Rodriguez Rios</td>
+            <td><a href="mailto:angie.rodriguez@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">angie.rodriguez@upch.pe</a></td>
+            <td>COORDINADORA DE INVESTIGACIÓN Y PÁGINA WEB</td>
         </tr>
         <tr>
-            <td>Romina Perez Amado</td>
-            <td><a href="mailto:romina.perez@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">romina.perez@upch.pe</a></td>
-            <td>COORDINADOR GENERAL E INVESTIGACION</td>
+            <td>Slim Max Aspur Mendoza</td>
+            <td><a href="mailto:slim.aspur@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">slim.aspur@upch.pe</a></td>
+            <td>COORDINADOR DE MANUFACTURA DIGITAL</td>
         </tr>
     </tbody>
 </table>
