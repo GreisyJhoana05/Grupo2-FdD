@@ -88,5 +88,25 @@ Nuestra visión es procurar un mundo en el que nuestras tecnologías se adopten 
 <p>Si desea conocer más información de la problemática que vamos a abordar haga click <a href="/FdD/Entregable/02_Definición_del_problema.md">aqui</p>
 
 <h2 id="ODS">¿Cúal es nuestro ODS?</h2>
+
 <img src="https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2018/07/S_SDG-goals_icons-individual-rgb-11.png" alt ="ODS_13">
+<p>Nuestro Objetivo de Desarrollo Sostenible (ODS) principal es el número 11: Nos centramos en este ODS, "Ciudades y comunidades sostenibles", porque creemos que la calidad del aire es fundamental para la creación de entornos urbanos saludables y habitables. Además, nuestra iniciativa también contribuye indirectamente a otros ODS relacionados con la salud, el medio ambiente y la innovación tecnológica.</p>
+
+<h2 id="haremos">¿Qué haremos?</h2>
+
+<h3>Objetivo general:</h3>
+<p>Se busca desarrollar e implementar un filtro de limpieza eco amigable y tecnológico para reducir la concentración de PM2.5 en el aire contribuyendo así a mejorar la calidad del aire y promover entornos más saludables y sostenibles.</p>
+
+<h3>Objetivos específicos:</h3>
+<ul>
+<li>Recopilación detallada de datos sobre la calidad del aire a nivel mundial, nacional y departamental enfocándonos en la PM2.5.</li>
+<li>Análisis de los datos recopilados para identificar las áreas con mayor concentración de PM2.5 en y creación de diagramas para la mayor comprensión de la magnitud del problema.</li>
+<li>Investigación y desarrollo de un filtro de limpieza innovador y tecnológicamente avanzado, que sea capaz de capturar y eliminar eficientemente las partículas de PM2.5 del aire.</li>
+<li>Uso de software de modelado 3D para diseñar el aparato o dispositivo que ayudará a abordar el problema identificado. Asegurando considerar las especificaciones técnicas, la funcionalidad y la estética del diseño.</li>
+<li>Ensamblaje de las partes impresas en 3D junto con otros componentes necesarios para construir el aparato completo. Esto puede incluir la instalación de sensores, dispositivos electrónicos, filtros u otros elementos según el diseño del dispositivo.</li>
+<li>Realizar pruebas del aparato construido para asegurar de que funcione según lo previsto y finalmente hacer los ajustes necesarios en el diseño o la construcción según los resultados de las pruebas.</li>
+</ul>
+
+
+
 
