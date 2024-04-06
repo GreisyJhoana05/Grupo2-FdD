@@ -88,5 +88,5 @@ Nuestra visión es procurar un mundo en el que nuestras tecnologías se adopten 
 <p>Si desea conocer más información de la problemática que vamos a abordar haga click <a href="/FdD/Entregable/02_Definición_del_problema.md">aqui</p>
 
 <h2 id="ODS">¿Cúal es nuestro ODS?</h2>
-<img src="[https://pactoglobal-ecuador.org/wp-content/uploads/2020/09/banner-ods13.jpg](https://creativialab.agency/wp-content/uploads/2021/06/ODS_Iconos_Positivo_11-min-1024x1024.png)" alt ="ODS_13">
+<img src="https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2018/07/S_SDG-goals_icons-individual-rgb-11.png" alt ="ODS_13">
 
