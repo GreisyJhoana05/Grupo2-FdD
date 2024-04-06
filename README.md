@@ -69,3 +69,7 @@ Somos estudiantes en busca de crear soluciones innovadoras a través de la combi
         </tr>
     </tbody>
 </table>
+
+<p>Para mas informacion sobre los roles y participantes click <a href="FdD/Entregable/01_Sobre_Nosotros.md">aqui</a></p>
+<br>
+
