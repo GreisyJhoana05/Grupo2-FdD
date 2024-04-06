@@ -1,4 +1,4 @@
-![](https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Presntaci%C3%B3n.jpg)
+#Conoce a cerca de nosotros
 ![](https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Milena.jpg)
 ![](https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Greisy.jpg)
 ![](https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Marco.jpg)
