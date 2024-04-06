@@ -28,6 +28,10 @@
 Somos estudiantes en busca de crear soluciones innovadoras a través de la combinación de conocimientos y habilidades, formando un equipo diverso y apasionado. Nos unimos con determinación para aprovechar nuestra diversidad para promover la creatividad y la excelencia en cada proyecto.A continuación podrás observar una imagen del equipo y una tabla con el rol que cada uno cumple en este proyecto.
 </p>
 
+<p align="center">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Imagen%20grupal.jpeg?raw=true" width="600" style="margin: auto;">
+</p>
+
 
 <table>
     <thead>
