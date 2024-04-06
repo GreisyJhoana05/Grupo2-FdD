@@ -4,7 +4,7 @@
 <br>
 <a href="Informes/README.md">Enlace al README  de Informes</a>
 <br>
-<a href="Hitos/README.md">Enlace al README  de Informes</a>
+<a href="Hitos/README.md">Enlace al README  de Hitos</a>
 <br>
 <hr>
 <br>
