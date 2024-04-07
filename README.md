@@ -32,43 +32,15 @@ Somos estudiantes en busca de crear soluciones innovadoras a través de la combi
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Imagen%20grupal.jpeg?raw=true" width="600" style="margin: auto;">
 </p>
 
+|            NOMBRE            |            CORREO          |           ROL        |
+|------------------------------|----------------------------|----------------------|
+| Milena Nicol Yalli Espinoza  | milena.yali@upch.pe        | COORDINADORA GENERAL |
+| Greisy Jhoana Delgado        | greisy.delgado@upch.pe     | ENCARGADA DE DESARROLLO TECNOLÓGICOS Y PROTOTIPADO |
+| Marco Antoni Mendoza Canaza | marco.mendoza.canaza@upch.pe | CORDINADOR DE DISEÑO Y MODELADO 3D |
+| Angie Ysabel Nashely Rodriguez Rios | angie.rodriguez@upch.pe | COORDINADORA DE INVESTIGACIÓN Y PÁGINA WEB |
+| Slim Max Aspur Mendoza | slim.aspur@upch.pe | COORDINADOR DE MANUFACTURA DIGITAL |
 
-<table>
-    <thead>
-        <tr>
-            <th>NOMBRE</th>
-            <th>CORREO</th>
-            <th>ROL</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Milena Nicol Yalli Espinoza</td>
-            <td><a href="mailto:milena.yalli@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">milena.yalli@upch.pe</td>
-            <td>COORDINADORA GENERAL</td>
-        </tr>
-        <tr>
-            <td>Greisy Jhoana Delgado Gaona</td>
-            <td><a href="mailto:greisy.delgao@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">greisy.delgao@upch.pe</a></td>
-            <td>ENCARGADA DE DESARROLLO TECNOLÓGICOS Y PROTOTIPADO</td>
-        </tr>
-        <tr>
-            <td>Marco Antonio Mendoza Canaza</td>
-            <td><a href="mailto:marco.mendoza.canaza@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">marco.mendoza.canaza@upch.pe</a></td>
-            <td>COORDINADOR DE DISEÑO Y MODELADO 3D</td>
-        </tr>
-        <tr>
-            <td>Angie Ysabel Nashely Rodriguez Rios</td>
-            <td><a href="mailto:angie.rodriguez@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">angie.rodriguez@upch.pe</a></td>
-            <td>COORDINADORA DE INVESTIGACIÓN Y PÁGINA WEB</td>
-        </tr>
-        <tr>
-            <td>Slim Max Aspur Mendoza</td>
-            <td><a href="mailto:slim.aspur@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">slim.aspur@upch.pe</a></td>
-            <td>COORDINADOR DE MANUFACTURA DIGITAL</td>
-        </tr>
-    </tbody>
-</table>
+
 
 <p>Para mayor información sobre nosotros y los roles que desempeñamo haz click <a href="FdD/Entregable/01_Sobre_Nosotros.md">aqui</a></p>
 <br>
