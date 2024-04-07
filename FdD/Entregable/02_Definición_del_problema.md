@@ -3,10 +3,10 @@
  <h1 align="center">Definición Del Problema</h1>
 </p>
 
-- **Problemática:** 
-- **Ubicación de estudio:** 
-- **Departamento:** 
-- **Provincia:** 
-- **Distrito:**
+- **Problemática:** Falta de calidad de aire a causa del PM 2.5 en el parque de Ceres ubicado en el distrito de Ate.
+- **Ubicación de estudio:** Parque Culrural de Ceres
+- **Departamento:**Lima
+- **Provincia:**Lima
+- **Distrito:**Ate
 
 ## Definición Formal del Problema
