@@ -29,7 +29,7 @@ Somos estudiantes en busca de crear soluciones innovadoras a través de la combi
 </p>
 
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Imagen%20grupal.jpeg?raw=true" width="600" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Imagenes_de_Nosotros/E01Imagen06.jpg">
 </p>
 
 |            NOMBRE            |            CORREO          |           ROL        |
