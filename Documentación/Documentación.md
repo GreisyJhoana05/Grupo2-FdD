@@ -4,5 +4,4 @@
 </p>
 
 ## Links de Entregables en Canva
-- **Entregable 1:**
-![](https://www.canva.com/design/DAGBYD5C7B8/WzYUPpgKsyyUkzfm-W_o0w/edit)
+- **Entregable 1:**<br>https://www.canva.com/design/DAGBYD5C7B8/WzYUPpgKsyyUkzfm-W_o0w/edit
