@@ -12,9 +12,8 @@
 ## Impacto social por la contaminación del aire PM 2.5
 ## 1. **A Nivel Mundial**
 <p align="justify">
- En las Américas, 93 000 defunciones anuales en países de ingresos bajos y medios (LMIC) y 44 000 en países de ingresos altos (HI) son atribuibles a la contaminación atmosférica, siendo las muertes por habitante 18 por 100 000 en los países LMIC y 7 por 100 000 en los países de HI.
- 
- La contaminación del aire en los hogares (HAP), que proviene principalmente de cocinar en estufas tradicionales a fuego abierto, es responsable del 12% de la contaminación global por partículas finas ambientales (PM2.5) 
+ En las Américas, se registran anualmente 93,000 muertes en países de ingresos bajos y medios (LMIC) y 44,000 en países de ingresos altos (HI) debido a la contaminación atmosférica. La tasa de mortalidad por contaminación atmosférica es de 18 por cada 100,000 habitantes en los países LMIC y de 7 por cada 100,000 habitantes en los países de HI.
+La contaminación del aire en los hogares (HAP), que proviene principalmente de cocinar en estufas tradicionales a fuego abierto, contribuye en un 12% a la contaminación global por partículas finas ambientales (PM2.5).
  </p>
  <p align="center">
 <img src="
