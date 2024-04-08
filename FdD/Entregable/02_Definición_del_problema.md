@@ -17,6 +17,7 @@ La contaminación del aire en los hogares (HAP), que proviene principalmente de 
  </p>
  <p align="center">
 <img src="
+![image](https://github.com/GreisyJhoana05/Grupo2-FdD/assets/165920846/8c69a426-ca6d-497b-b85b-f199678aa4f7)
 
 ## Definición Formal del Problema
 <h3 align="center"> "La contaminación del PM 2.5 en el aire ubicado en el parque cultural de Ceres- Ate"
