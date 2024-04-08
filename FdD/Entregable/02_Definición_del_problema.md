@@ -12,8 +12,8 @@ https://www.iqair.com/es/air-quality-map
 - **Distrito:** Ate
 # Contexto social 
 ## 1. Impacto social por la contaminación del aire PM 2.5
-## 1.1 **A Nivel Mundial**
-## 1.2 **A Nivel Regional**
+### 1.1 **A Nivel Mundial**
+### 1.2 **A Nivel Regional**
 ## 
 
 
