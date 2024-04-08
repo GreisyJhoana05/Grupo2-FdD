@@ -14,6 +14,11 @@ https://www.iqair.com/es/air-quality-map
 ## 1. Impacto social 
 ### 1.1 **A Nivel Mundial**
 ### 1.2 **A Nivel Regional**
-##
+### 1.3 **A Nivel Nacional**
+## 2. Contexto Económico
+### 2.1 **A Nivel Mundial**
+### 2.2 **A Nivel Regional**
+### 2.3 **A Nivel Nacional**
+
 
 
