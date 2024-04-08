@@ -4,7 +4,7 @@
 </p>
 
 <p align="justify">
-  ¡Bienvenidos al repositorio del Grupo 2! Estamos emocionados de compartir con ustedes el fruto de nuestro arduo trabajo y dedicación. Este repositorio es el resultado de nuestras ideas, colaboración y pasión por la innovación. En este espacio <a href="FdD/README.md">"Fundamentos de Diseño"</a> (enlace a carpeta FdD), encontrarán una colección organizada y estructurada de todos los elementos que conforman nuestro proyecto.
+  ¡Bienvenidos al repositorio del Grupo 2! Estamos felices de compartir con ustedes el producto de nuestro gran compromiso y dedicación en este proyecto. Este repositorio es el paso a paso de como en conjunto nuestras ideas se han materializado en un fin. En este espacio <a href="FdD/README.md">"Fundamentos de Diseño"</a> (enlace a carpeta FdD), encontrarán una colección organizada y estructurada de todos los elementos que conforman nuestro proyecto.
 </p>
 <p align="center">
   <img src="https://aap.org.pe/wp-content/uploads/2022/03/aire-1140x763.jpeg" width="750" style="margin: auto;">
@@ -25,7 +25,7 @@
 </ul>
 <h2 id="somos">¿Quiénes somos?</h2>
 <p align="justify">
-Somos estudiantes en busca de crear soluciones innovadoras a través de la combinación de conocimientos y habilidades, formando un equipo diverso y apasionado. Nos unimos con determinación para aprovechar nuestra diversidad para promover la creatividad y la excelencia en cada proyecto.A continuación podrás observar una imagen del equipo y una tabla con el rol que cada uno cumple en este proyecto.
+Somos un grupo de estudiantes que buscan remediar a través de la combinación de nuestros conocimientos y habilidades la contaminación generada por PM2.5. A continuación podrás observar una imagen del equipo y una tabla con el rol que cada uno cumple en este proyecto.
 </p>
 
 <p align="center">
@@ -41,8 +41,7 @@ Somos estudiantes en busca de crear soluciones innovadoras a través de la combi
 | Slim Max Aspur Mendoza | slim.aspur@upch.pe | COORDINADOR DE MANUFACTURA DIGITAL |
 
 
-
-<p>Para mayor información sobre nosotros y los roles que desempeñamo haz click <a href="FdD/Entregable/01_Sobre_Nosotros.md">aqui</a></p>
+<p>Para mayor información sobre nosotros y los roles que desempeñamos haz click <a href="FdD/Entregable/01_Sobre_Nosotros.md">aqui</a></p>
 <br>
 
 <h2 id="Mision">Misión:</h2>
