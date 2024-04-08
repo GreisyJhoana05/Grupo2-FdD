@@ -19,6 +19,11 @@ https://www.iqair.com/es/air-quality-map
 ### 2.1 **A Nivel Mundial**
 ### 2.2 **A Nivel Regional**
 ### 2.3 **A Nivel Nacional**
+## 3. Diagrama de Ishikawa - Causa y efecto
+## 4. Mapa de Empatía 
+## 5. Mapa de Viaje del cliente
+## 6. Definición formal del problema
+## 7. Características resaltadas de la zona
 
 
 
