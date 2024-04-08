@@ -10,10 +10,10 @@ https://www.iqair.com/es/air-quality-map
 - **Departamento:** Lima
 - **Provincia:** Lima
 - **Distrito:** Ate
-# Contexto social 
-## 1. Impacto social por la contaminación del aire PM 2.5
+# Contexto social y Economico  
+## 1. Impacto social 
 ### 1.1 **A Nivel Mundial**
 ### 1.2 **A Nivel Regional**
-## 
+##
 
 
