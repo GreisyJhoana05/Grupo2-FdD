@@ -25,7 +25,9 @@ Investigaciones a nivel mundial revelan la significativa influencia que la calid
 La Organización para la Cooperación y el Desarrollo Económicos (OCDE), a través de investigaciones que abarcan los costos de los mercados, tales como los gastos en el sistema de salud, la productividad laboral y la disminución de la producción agrícola, presenta hallazgos que anticipan un aumento en el impacto económico de la contaminación atmosférica. Este impacto se proyecta que aumente del 0.3% al 1% del Producto Interno Bruto (PIB) para el año 2060.
 </p>
 
-IMAGEN
+<p align="center">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E03Imagen05.jpg" width="600" style="margin: auto;">
+</p>
 
 <p align="justify">
 Por su parte, el Banco Mundial y el Instituto para la Métrica y la Evaluación de la Salud (IHME) estiman que el impacto económico de las muertes relacionadas con la mala calidad del aire ascenderá a aproximadamente US$225 billones en pérdida de horas laborales a nivel mundial.
@@ -40,7 +42,10 @@ De acuerdo con el Plan Integral de Saneamiento Atmosférico (PISA), cerca del 90
 Además, el crecimiento anual del parque automotor en Lima Metropolitana, que se sitúa en un promedio del 7%, podría agravar los problemas en el futuro, ya que la falta de mantenimiento de los vehículos y la ausencia de inspecciones técnicas dificultan el control de las emisiones de gases contaminantes (El Comercio, 2005).
 </p>
 
-IMAGEN
+<p align="center">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E03Imagen06.jpg" width="600" style="margin: auto;">
+</p>
+
 
 <p align="justify">
 El costo estimado utilizando la metodología "evaluación integrada" alcanzó los US$ 329 millones, lo que equivale al 0.4% del Producto Bruto Interno (PBI) nacional. Sin embargo, al compararlo con el PBI de Lima, este porcentaje se duplica, llegando al 0.8%. 
