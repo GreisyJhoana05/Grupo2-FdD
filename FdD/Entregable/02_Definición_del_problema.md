@@ -17,8 +17,7 @@ https://www.iqair.com/es/air-quality-map
 ### 1.3 **A Nivel Nacional**
 ## 2. Contexto Económico
 ### 2.1 **A Nivel Mundial**
-### 2.2 **A Nivel Regional**
-### 2.3 **A Nivel Nacional**
+### 2.2 **A Nivel Nacional y  Regional**
 ## 3. Diagrama de Ishikawa - Causa y efecto
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen01.jpg" width="800" style="margin: auto;">
