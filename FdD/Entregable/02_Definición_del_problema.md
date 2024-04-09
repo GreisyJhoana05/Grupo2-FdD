@@ -28,7 +28,6 @@ La Organización para la Cooperación y el Desarrollo Económicos (OCDE), a trav
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E03Imagen05.jpg" width="600" style="margin: auto;">
 </p>
-
 <p align="justify">
 Por su parte, el Banco Mundial y el Instituto para la Métrica y la Evaluación de la Salud (IHME) estiman que el impacto económico de las muertes relacionadas con la mala calidad del aire ascenderá a aproximadamente US$225 billones en pérdida de horas laborales a nivel mundial.
 </p>
@@ -41,7 +40,6 @@ De acuerdo con el Plan Integral de Saneamiento Atmosférico (PISA), cerca del 90
 
 Además, el crecimiento anual del parque automotor en Lima Metropolitana, que se sitúa en un promedio del 7%, podría agravar los problemas en el futuro, ya que la falta de mantenimiento de los vehículos y la ausencia de inspecciones técnicas dificultan el control de las emisiones de gases contaminantes (El Comercio, 2005).
 </p>
-
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E03Imagen06.jpg" width="600" style="margin: auto;">
 </p>
