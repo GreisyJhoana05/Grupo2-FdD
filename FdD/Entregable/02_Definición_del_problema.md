@@ -14,9 +14,7 @@ https://www.iqair.com/es/air-quality-map
 ## 1. Impacto social 
 ### 1.1 **A Nivel Mundial**
 <p align="justify">
-A medida que el planeta se calienta y aumenta la población, las personas continúan emitiendo emisiones sucias, y la mitad del mundo no cuenta con combustibles o tecnologías limpias (por ejemplo, autos, lámparas y estufas). Y eso genera que el aire que respiramos se está volviendo aún más peligroso para nuestra salud.
-Nueve de cada diez personas respiran aire contaminado (OMS, 2021)
-La Organización Mundial de la Salud (OMS), según su base datos, estima que cerca de siete millones de personas mueren cada año por la exposición a las partículas finas (PM2.5) contenidas en el aire de mala calidad(contaminado), por consecuencia penetra profundamente en los pulmones y el sistema cardiovascular por lo cual provoca enfermedades como cardiopatías, cáncer de pulmón, e infecciones respiratorias, por ejemplo, neumonía.
+Cada vez que inhalamos, aspiramos diminutas partículas que pueden causar daños a nuestros pulmones, corazón y cerebro, así como ocasionar una variedad de diversos problemas de salud. Las más perjudiciales de estas partículas, que pueden abarcar desde hollín y polvo del suelo hasta sulfatos, son las partículas finas con un diámetro de 2,5 micrómetros o menos, conocidas como PM2.5 (UNEP, 2021).
 
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E03Imagen01.jpg" width="600" style="margin: auto;">
