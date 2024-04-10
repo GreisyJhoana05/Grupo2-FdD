@@ -19,12 +19,43 @@ Nueve de cada diez personas respiran aire contaminado (OMS, 2021)
 La Organización Mundial de la Salud (OMS), según su base datos, estima que cerca de siete millones de personas mueren cada año por la exposición a las partículas finas (PM2.5) contenidas en el aire de mala calidad(contaminado), por consecuencia penetra profundamente en los pulmones y el sistema cardiovascular por lo cual provoca enfermedades como cardiopatías, cáncer de pulmón, e infecciones respiratorias, por ejemplo, neumonía.
 
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E03Imagen05.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E03Imagen01.jpg" width="600" style="margin: auto;">
 </p>
 
- 
-### 1.2 **A Nivel Regional**
-### 1.3 **A Nivel Nacional**
+<p align="justify">
+ Las partículas pequeñas que polucionan nuestra atmósfera se originan principalmente de actividades humanas, como la quema de combustibles fósiles para la producción de energía, el transporte, la incineración de desechos, las prácticas agrícolas (que liberan metano y amoníaco) y las operaciones en las industrias química y minera.
+La combustión de combustibles fósiles, en particular el carbón, la gasolina y el diésel, constituye una significativa fuente de partículas finas en la atmósfera (PM2.5) y es un elemento esencial que contribuye a la carga global de enfermedades y muertes (Vohra et al, 2021)
+
+ <p align="center">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E03Imagen02.jpg" width="600" style="margin: auto;">
+</p>
+
+<p align="justify">
+El informe de la UNEP sobre acciones para mejorar la calidad del aire ofrece un análisis exhaustivo de las políticas implementadas por gobiernos de todo el mundo con el objetivo de mejorar la calidad del aire. 
+Esta evaluación abarca diversas áreas clave que contribuyen a la contaminación del aire, como las emisiones industriales (mediante incentivos para una producción más limpia), el transporte (mediante estándares de calidad de combustible y emisiones vehiculares), la gestión de residuos sólidos (a través de regulaciones sobre la quema de residuos a cielo abierto), la contaminación del aire doméstico (mediante incentivos para el uso de energías limpias en cocinas y calefacción residencial) y la agricultura (a través de prácticas agrícolas sostenibles). 
+
+### 1.2 **A Nivel Nacional**
+
+### 1.3 **A Nivel Regional**
+<p align="justify">
+ Según IQAir, Lima ocupa el puesto número 4 en la clasificación de las ciudades más contaminadas basada en la concentración media anual de PM2.5 (μg/m³) en Perú; a pesar de tener un índice de calidad del aire (AQI) de 53 entra dentro del rango moderado; sin embargo, su concentración de PM2.5 es actualmente 2.6 veces superior al valor guía anual de calidad del aire de la OMS, considerándose de esta manera su contaminante principal. 
+
+ <p align="center">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E03Imagen04.jpg" width="600" style="margin: auto;">
+</p>
+
+<p align="justify">
+El parque automovilístico antiguo, la alta concentración de actividades industriales en Lima, junto con factores climáticos y una legislación débil y un tanto precaria sobre la calidad del aire, causan los peores niveles de PM2.5 en el país. En el área de Lima Metropolitana, el comportamiento de los vientos es un factor decisivo a nivel natural, por lo que la contaminación se transporta hacia la parte alta de Lima Este gracias a estos vientos que suelen venir del mar, de manera que se entiende sería una de las zonas más contaminadas.
+
+ <p align="justify">
+  En adición, el SENAMHI realiza la vigilancia de la calidad del aire en el Área Metropolitana de Lima y Callao (AMLC) - MAYO 2023, por lo que cuenta con una Red de Monitoreo Automático de la Calidad del Aire (REMCA), la función de la red es medir las concentraciones horarias de ciertos contaminantes entre ellos el PM 2.5.
+
+  <p align="center">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E03Imagen04.jpg" width="600" style="margin: auto;">
+</p>
+
+## 1.4 **A Nivel Distrital**
+
 ## 2. Contexto Económico
 ### 2.1 **A Nivel Mundial**
 <p align="justify">
