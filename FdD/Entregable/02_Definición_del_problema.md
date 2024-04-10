@@ -51,9 +51,12 @@ El parque automovilístico antiguo, la alta concentración de actividades indust
   En adición, el SENAMHI realiza la vigilancia de la calidad del aire en el Área Metropolitana de Lima y Callao (AMLC) - MAYO 2023, por lo que cuenta con una Red de Monitoreo Automático de la Calidad del Aire (REMCA), la función de la red es medir las concentraciones horarias de ciertos contaminantes entre ellos el PM 2.5.
 
   <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E03Imagen04.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E03Imagen05%20.jpg" width="600" style="margin: auto;">
 </p>
 
+ <p align="justify">
+Gracias a esta red de monitoreo se pueden hacer mediciones constantes para determinar la presencia de material particulado y sus concentraciones en el aire, pero también se determinó que en Lima Metropolitana hay grandes niveles de contaminación por PM 2.5 y la Ley N° 28611 - Ley General del Ambiente define al estándar de calidad ambiental (ECA) como "la medida que establece el nivel de concentración o del grado de elementos, sustancias o parámetros físicos, químicos y biológicos presentes en el aire, agua y suelo en su condición de cuerpo receptor, que no representa riesgo significativo para la salud de las personas ni al ambiente". Por lo tanto, para el caso de los contaminantes del aire, las concentraciones de cada uno de estos no deben superar su respectivo Estándar de Calidad Ambiental para Aire (ECA-aire) a fin de evitar problemas en la salud de las personas y el ambiente. Asimismo, los valores de los ECA-aire son establecidos por el Ministerio del Ambiente (MINAM) y estipulados en el D.S. N° 003-2017-MINAM.
+  
 ## 1.4 **A Nivel Distrital**
 
 ## 2. Contexto Económico
