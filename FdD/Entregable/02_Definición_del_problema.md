@@ -60,6 +60,7 @@ Gracias a esta red de monitoreo se pueden hacer mediciones constantes para deter
 ## 1.4 **A Nivel Distrital**
 
 ## 2. Contexto Económico
+
 ### 2.1 **A Nivel Mundial**
 <p align="justify">
 La contaminación del aire no solo representa un riesgo inminente para la salud humana, sino también un obstáculo para el progreso y desarrollo humano. Pues, al ser responsable de enfermedades y muertes prematuras, la polución del aire afecta y reduce la calidad de vida.  Sumado a esto, al provocar la disminución de mano de obra productiva, también genera un impacto negativo en los ingresos de los países
