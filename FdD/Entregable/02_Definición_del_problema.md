@@ -2,7 +2,8 @@
 <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="200">
  <h1 align="center">Definición Del Problema</h1>
 </p>
-¿Qué son las PM2,5?
+**¿Qué son las PM2,5?**
+
 Las PM2,5 (partículas suspendidas en el aire con un tamaño igual o menor a 2.5 micrómetros) son el principal indicador de calidad de los 6 contaminantes que mide el ICA (índice de calidad del aire).
 Los contaminantes que son medidos por el ICA son:
 - Material particulado con un diámetro menor a 10 micras (PM10).
