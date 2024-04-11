@@ -82,24 +82,30 @@ De acuerdo con la clasificación regional a nivel de Sudamérica es nuestra naci
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen05.jpg" width="600" style="margin: auto;">
 </p>
+
 Mapa de contaminación del aire por PM2,5 en Sudamérica
 Fuente: IQAir 2023
 PERÚ
 En el país de Perú con concentración media de PM2,5 en 2023 en Perú 3.4 veces el valor guía anual de calidad del aire de la OMS con un valor de 17µg/m³.
+
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen06.jpg" width="600" style="margin: auto;">
 </p>
+
 Mapa de contaminación del aire por PM2,5 en tiempo real en Perú 
 Fuente: IQAir 2023
 CHILE
 En el país de Chile con concentración media de PM2,5 en 2023 en Chile 3.7 veces el valor guía anual de calidad del aire de la OMS con un valor de 18,6 μg/m³.
+
  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen07.jpg" width="600" style="margin: auto;">
+ 
 Mapa de contaminación del aire por PM2,5 en tiempo real en Chile
 Fuente: IQAir 2023
 De dicho país es la ciudad de Temuco de la región de la Araucanía con una concentración media de PM2,5 de 44 μg/m³ que es 8.8 veces superior a la guía anual de la calidad del aire de la OMS.
 COLOMBIA
 Es el país de Chile con concentración media de PM2,5 en 2023 en Chile 2,8 veces el valor guía anual de calidad del aire de la OMS con un valor de 14,1 μg/m³.
 Mapa de contaminación del aire por PM2,5 en tiempo real en Colombia
+
  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen08.jpg" width="600" style="margin: auto;">
 Fuente: IQAir 2023
 De dicho país es la ciudad de Bogotá con una concentración media de PM2,5 de 21,3 μg/m³ que es 4,3 veces superior a la guía anual de la calidad del aire de la OMS.
