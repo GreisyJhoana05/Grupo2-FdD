@@ -59,11 +59,14 @@ Esta evaluación abarca diversas áreas clave que contribuyen a la contaminació
 <p align="justify">
 Según el último reporte de IQAir 2023, Lima es la ciudad más contaminada del Perú y además uno de los seis contaminantes medidos por el ICA que impacta más para el resultado son las PM2,5 con una concentración 17,1 μg/m³.
 </p>
-Gráfica comparativa de los ICA en Lima
+IMAGEN: Gráfica comparativa de los ICA en Lima
+
 <p align="justify">
 El parque automovilístico antiguo, la alta concentración de actividades industriales en Lima, junto con factores climáticos y una legislación débil y un tanto precaria sobre la calidad del aire, causan los peores niveles de PM2.5 en el país. En el área de Lima Metropolitana, el comportamiento de los vientos es un factor decisivo a nivel natural, por lo que la contaminación se transporta hacia la parte alta de Lima Este gracias a estos vientos que suelen venir del mar, de manera que se entiende sería una de las zonas más contaminadas.
 </p>
-Tabla 02.
+
+IMAGEN:Tabla 02.
+
 <p align="justify">
 En adición, el SENAMHI realiza la vigilancia de la calidad del aire en el Área Metropolitana de Lima y Callao (AMLC) - MAYO 2023, por lo que cuenta con una Red de Monitoreo Automático de la Calidad del Aire (REMCA), la función de la red es medir las concentraciones horarias de ciertos contaminantes entre ellos el PM 2.5. 
 Gracias a esta red de monitoreo se pueden hacer mediciones constantes para determinar la presencia de material particulado y sus concentraciones en el aire, pero también se determinó que en Lima Metropolitana hay grandes niveles de contaminación por PM 2.5 y la Ley N° 28611.
