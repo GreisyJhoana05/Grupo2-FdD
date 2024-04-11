@@ -29,7 +29,6 @@ La combustión de combustibles fósiles, en particular el carbón, la gasolina y
  <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E03Imagen02.jpg" width="600" style="margin: auto;">
 </p>
-
 <p align="justify">
 El informe de la UNEP sobre acciones para mejorar la calidad del aire ofrece un análisis exhaustivo de las políticas implementadas por gobiernos de todo el mundo con el objetivo de mejorar la calidad del aire. 
 Esta evaluación abarca diversas áreas clave que contribuyen a la contaminación del aire, como las emisiones industriales (mediante incentivos para una producción más limpia), el transporte (mediante estándares de calidad de combustible y emisiones vehiculares), la gestión de residuos sólidos (a través de regulaciones sobre la quema de residuos a cielo abierto), la contaminación del aire doméstico (mediante incentivos para el uso de energías limpias en cocinas y calefacción residencial) y la agricultura (a través de prácticas agrícolas sostenibles). 
