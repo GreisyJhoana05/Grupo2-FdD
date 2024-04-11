@@ -39,7 +39,9 @@ Estas partículas pueden originarse por una variedad de fuentes, ya sean de orig
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen01.jpg" width="600" style="margin: auto;">
 </p>
 
-Nota: LI = países de bajos ingresos; LMI = países de ingresos medianos bajos; UMI = países de ingresos medianos altos; y HI = países de altos ingresos. PM2.5 = partículas finas. Fuente: Cálculos originales de esta publicación. OCDE = Organización para la Cooperación y el Desarrollo Económico. Asignación de países a categorías basadas en la clasificación de ingresos del Banco Mundial. Las cifras pueden no coincidir debido al redondeo. 
+Nota: EAP = Asia Oriental y el Pacífico; ECA = Europa y Asia Central; ALC = América Latina y
+Caribe; MNA = Oriente Medio y Norte de África, NA = América del Norte; Sudáfrica = Sur de Asia;
+SSA = África subsahariana. Las cifras pueden no coincidir debido al redondeo.
 Fuente: The Global Health Cost of PM2.5 Air Pollution 
 Del costo total estimado para la salud mundial por la contaminación del aire por PM2,5 , alrededor del 85 por ciento se debe a la mortalidad prematura y el 15 por ciento a la morbilidad. 
 
