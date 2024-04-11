@@ -118,6 +118,7 @@ Gráfica comparativa de los ICA en Lima
  
  <p align="center">
  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen09.jpg" width="600" style="margin: auto;">
+  
  La concentración de PM2,5 en Lima es actualmente 3.4 veces superior al valor guía anual de calidad del aire de la OMS. Fuente: IQAir 2023
 
 <p align="justify">
