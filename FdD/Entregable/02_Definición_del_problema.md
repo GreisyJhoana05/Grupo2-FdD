@@ -21,7 +21,7 @@ Los contaminantes que son medidos por el ICA son:
 
 Estas partículas pueden originarse por una variedad de fuentes, ya sean de origen natural (tormentas de polvo, incendios forestales, tormentas de arena, etc.) o antropogénico (motores de combustión, procesos industriales, generación de energía, quema de carbón y madera, actividades agrícolas y construcción), son una preocupación significativa por su importante impacto en la salud humana debido a su capacidad para penetrar profundamente en los pulmones y provocar varios problemas respiratorios y cardiovasculares.
 
-Para ver la cantidad actual de PM2,5 en el mundo ingresa al siguiente enlace: https://www.iqair.com/es/air-quality-map
+-Para ver la cantidad actual de PM2,5 en el mundo ingresa al siguiente enlace: https://www.iqair.com/es/air-quality-map
 
 - **Problemática:** Mayor susceptibilidad a problemas de salud como resultado del aumento de la concentración de PM2.5 en el parque cívico cultural Ceres de Ate
 
@@ -139,6 +139,8 @@ Además, si suponemos que no se implementara ninguna medida de política ambient
 </p>
 
 ## 7. Características resaltadas de la zona
+
+## REFERENCIAS BIBLIOGRÁFICAS 
 
 
 
