@@ -32,6 +32,18 @@ Estas partículas pueden originarse por una variedad de fuentes, ya sean de orig
 - **Provincia:** Lima
 
 - **Distrito:** Ate
+
+  Costo anual de los daños a la salud causados por la exposición a PM2,5 , como porcentaje del PIB por grupo de ingresos, 2019
+  
+<p align="center">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen01.jpg" width="600" style="margin: auto;">
+</p>
+
+Nota: LI = países de bajos ingresos; LMI = países de ingresos medianos bajos; UMI = países de ingresos medianos altos; y HI = países de altos ingresos. PM2.5 = partículas finas. Fuente: Cálculos originales de esta publicación. OCDE = Organización para la Cooperación y el Desarrollo Económico. Asignación de países a categorías basadas en la clasificación de ingresos del Banco Mundial. Las cifras pueden no coincidir debido al redondeo. 
+Fuente: The Global Health Cost of PM2.5 Air Pollution 
+Del costo total estimado para la salud mundial por la contaminación del aire por PM2,5 , alrededor del 85 por ciento se debe a la mortalidad prematura y el 15 por ciento a la morbilidad. 
+
+
 # Contexto social y Económico  
 ## 1. Impacto social 
 ### 1.1 **A Nivel Mundial**
@@ -41,7 +53,11 @@ Las partículas pequeñas que polucionan nuestra atmósfera se originan principa
 La combustión de combustibles fósiles, en particular el carbón, la gasolina y el diésel, constituye una significativa fuente de partículas finas en la atmósfera (PM2.5) y es un elemento esencial que contribuye a la carga global de enfermedades y muertes (Vohra et al, 2021).
 
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E03Imagen01.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen02.jpg" width="600" style="margin: auto;">
+</p>
+
+<p align="center">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen03.jpg" width="600" style="margin: auto;">
 </p>
 
 <p align="justify">
@@ -49,17 +65,19 @@ La combustión de combustibles fósiles, en particular el carbón, la gasolina y
 La combustión de combustibles fósiles, en particular el carbón, la gasolina y el diésel, constituye una significativa fuente de partículas finas en la atmósfera (PM2.5) y es un elemento esencial que contribuye a la carga global de enfermedades y muertes (Vohra et al, 2021)
 
  <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E03Imagen02.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen04.jpg" width="600" style="margin: auto;">
 </p>
 <p align="justify">
 El informe de la UNEP sobre acciones para mejorar la calidad del aire ofrece un análisis exhaustivo de las políticas implementadas por gobiernos de todo el mundo con el objetivo de mejorar la calidad del aire. 
 Esta evaluación abarca diversas áreas clave que contribuyen a la contaminación del aire, como las emisiones industriales (mediante incentivos para una producción más limpia), el transporte (mediante estándares de calidad de combustible y emisiones vehiculares), la gestión de residuos sólidos (a través de regulaciones sobre la quema de residuos a cielo abierto), la contaminación del aire doméstico (mediante incentivos para el uso de energías limpias en cocinas y calefacción residencial) y la agricultura (a través de prácticas agrícolas sostenibles). 
 
-### 1.2 **A Nivel Nacional**
+### 1.2 **A Nivel Regional**
 <p align="justify">
-Según el último reporte de IQAir 2023, Lima es la ciudad más contaminada del Perú y además uno de los seis contaminantes medidos por el ICA que impacta más para el resultado son las PM2,5 con una concentración 17,1 μg/m³.
+De acuerdo con la clasificación regional a nivel de Sudamérica es nuestra nación quien ocupa el primer lugar con una concentración por PM2,5 media anual para el año 2023 de 18,8 μg/m³ que es 3,8 veces el valor de guía anual de calidad del aire de la OMS.<
+
+<p align="center">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen05.jpg" width="600" style="margin: auto;">
 </p>
-IMAGEN: Gráfica comparativa de los ICA en Lima
 
 <p align="justify">
 El parque automovilístico antiguo, la alta concentración de actividades industriales en Lima, junto con factores climáticos y una legislación débil y un tanto precaria sobre la calidad del aire, causan los peores niveles de PM2.5 en el país. En el área de Lima Metropolitana, el comportamiento de los vientos es un factor decisivo a nivel natural, por lo que la contaminación se transporta hacia la parte alta de Lima Este gracias a estos vientos que suelen venir del mar, de manera que se entiende sería una de las zonas más contaminadas.
