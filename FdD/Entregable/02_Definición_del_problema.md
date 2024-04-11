@@ -212,6 +212,8 @@ Además, si suponemos que no se implementara ninguna medida de política ambient
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen17.jpg?raw=true" width="950" style="margin: auto;">
 </p>
 
+Mayor susceptibilidad a problemas de salud como resultado del aumento de la concentración de PM2.5 en el parque cívico cultural Ceres de Ate
+
 ## 6. Mapa de Empatía 
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen18.jpg?raw=true" width="800" style="margin: auto;">
