@@ -16,6 +16,8 @@ https://www.iqair.com/es/air-quality-map
 <p align="justify">
 Cada vez que inhalamos, aspiramos diminutas partículas que pueden causar daños a nuestros pulmones, corazón y cerebro, así como ocasionar una variedad de diversos problemas de salud. Las más perjudiciales de estas partículas, que pueden abarcar desde hollín y polvo del suelo hasta sulfatos, son las partículas finas con un diámetro de 2,5 micrómetros o menos, conocidas como PM2.5 (UNEP, 2021).
 
+La exposición a estas partículas se ha vinculado directamente con problemas de salud, contribuyendo a un elevado número de muertes prematuras y afectando a la salud cardiovascular y respiratoria (Patel et al, 2021).
+
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E03Imagen01.jpg" width="600" style="margin: auto;">
 </p>
