@@ -5,8 +5,8 @@
 
 https://www.iqair.com/es/air-quality-map 
 
-- **Problemática:** Contaminación del aire del PM 2.5 en el parque cultural de Ceres ubicado en el distrito de Ate.
-- **Ubicación de estudio:** Parque Cultural de Ceres
+- **Problemática:** Contaminación del aire del PM 2.5 en el parque cívico cultural Ceres de Ate ubicado en el distrito de Ate.
+- **Ubicación de estudio:** Parque cívico cultural Ceres de Ate
 - **Departamento:** Lima
 - **Provincia:** Lima
 - **Distrito:** Ate
