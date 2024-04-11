@@ -48,26 +48,30 @@ Del costo total estimado para la salud mundial por la contaminación del aire po
 ## 1. Impacto social 
 ### 1.1 **A Nivel Mundial**
 <p align="justify">
-Las partículas pequeñas que polucionan nuestra atmósfera se originan principalmente de actividades humanas, como la quema de combustibles fósiles para la producción de energía, el transporte, la incineración de desechos, las prácticas agrícolas (que liberan metano y amoníaco) y las operaciones en las industrias química y minera.
- 
-La combustión de combustibles fósiles, en particular el carbón, la gasolina y el diésel, constituye una significativa fuente de partículas finas en la atmósfera (PM2.5) y es un elemento esencial que contribuye a la carga global de enfermedades y muertes (Vohra et al, 2021).
+Cada vez que inhalamos, aspiramos diminutas partículas que pueden causar daños a nuestros pulmones, corazón y cerebro, así como ocasionar una variedad de diversos problemas de salud. Las más perjudiciales de estas partículas, que pueden abarcar desde hollín y polvo del suelo hasta sulfatos, son las partículas finas con un diámetro de 2,5 micrómetros o menos, conocidas como PM2.5 (UNEP, 2021).
+La exposición a estas partículas se ha vinculado directamente con problemas de salud, contribuyendo a un elevado número de muertes prematuras y afectando a la salud cardiovascular y respiratoria (Patel et al, 2021).
 
+Tabla 01. Marco de visualización del Informe Mundial sobre la Calidad del Aire 2023
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen02.jpg" width="600" style="margin: auto;">
 </p>
+Fuente: World Air Quality Report, 2023.
+Mapa global de 2023 codificado por colores según la concentración media anual de PM2,5.
 
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen03.jpg" width="600" style="margin: auto;">
 </p>
-
+Fuente: World Air Quality Report, 2023.
 <p align="justify">
- Las partículas pequeñas que polucionan nuestra atmósfera se originan principalmente de actividades humanas, como la quema de combustibles fósiles para la producción de energía, el transporte, la incineración de desechos, las prácticas agrícolas (que liberan metano y amoníaco) y las operaciones en las industrias química y minera.
-La combustión de combustibles fósiles, en particular el carbón, la gasolina y el diésel, constituye una significativa fuente de partículas finas en la atmósfera (PM2.5) y es un elemento esencial que contribuye a la carga global de enfermedades y muertes (Vohra et al, 2021)
+Las partículas pequeñas que polucionan nuestra atmósfera se originan principalmente de actividades humanas, como la quema de combustibles fósiles para la producción de energía, el transporte, la incineración de desechos, las prácticas agrícolas (que liberan metano y amoníaco) y las operaciones en las industrias química y minera.
+La combustión de combustibles fósiles, en particular el carbón, la gasolina y el diésel, constituye una significativa fuente de partículas finas en la atmósfera (PM2.5) y es un elemento esencial que contribuye a la carga global de enfermedades y muertes (Vohra et al, 2021).
+Exceso estimado de muertes anuales debido a la exposición a PM2.5 ambiental generada por la quema de combustibles fósiles.
 
  <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen04.jpg" width="600" style="margin: auto;">
 </p>
 <p align="justify">
+ Fuente: Environmental Research, 2021
 El informe de la UNEP sobre acciones para mejorar la calidad del aire ofrece un análisis exhaustivo de las políticas implementadas por gobiernos de todo el mundo con el objetivo de mejorar la calidad del aire. 
 Esta evaluación abarca diversas áreas clave que contribuyen a la contaminación del aire, como las emisiones industriales (mediante incentivos para una producción más limpia), el transporte (mediante estándares de calidad de combustible y emisiones vehiculares), la gestión de residuos sólidos (a través de regulaciones sobre la quema de residuos a cielo abierto), la contaminación del aire doméstico (mediante incentivos para el uso de energías limpias en cocinas y calefacción residencial) y la agricultura (a través de prácticas agrícolas sostenibles). 
 
@@ -78,6 +82,29 @@ De acuerdo con la clasificación regional a nivel de Sudamérica es nuestra naci
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen05.jpg" width="600" style="margin: auto;">
 </p>
+Mapa de contaminación del aire por PM2,5 en Sudamérica
+Fuente: IQAir 2023
+PERÚ
+En el país de Perú con concentración media de PM2,5 en 2023 en Perú 3.4 veces el valor guía anual de calidad del aire de la OMS con un valor de 17µg/m³.
+<p align="center">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen06.jpg" width="600" style="margin: auto;">
+</p>
+Mapa de contaminación del aire por PM2,5 en tiempo real en Perú 
+Fuente: IQAir 2023
+CHILE
+En el país de Chile con concentración media de PM2,5 en 2023 en Chile 3.7 veces el valor guía anual de calidad del aire de la OMS con un valor de 18,6 μg/m³.
+ <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen07.jpg" width="600" style="margin: auto;">
+Mapa de contaminación del aire por PM2,5 en tiempo real en Chile
+Fuente: IQAir 2023
+De dicho país es la ciudad de Temuco de la región de la Araucanía con una concentración media de PM2,5 de 44 μg/m³ que es 8.8 veces superior a la guía anual de la calidad del aire de la OMS.
+COLOMBIA
+Es el país de Chile con concentración media de PM2,5 en 2023 en Chile 2,8 veces el valor guía anual de calidad del aire de la OMS con un valor de 14,1 μg/m³.
+Mapa de contaminación del aire por PM2,5 en tiempo real en Colombia
+ <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen08.jpg" width="600" style="margin: auto;">
+Fuente: IQAir 2023
+De dicho país es la ciudad de Bogotá con una concentración media de PM2,5 de 21,3 μg/m³ que es 4,3 veces superior a la guía anual de la calidad del aire de la OMS.
+A NIVEL NACIONAL:
+Según el último reporte de IQAir 2023, Lima es la ciudad más contaminada del Perú y además uno de los seis contaminantes medidos por el ICA que impacta más para el resultado son las PM2,5 con una concentración 17,1 μg/m³.
 
 <p align="justify">
 El parque automovilístico antiguo, la alta concentración de actividades industriales en Lima, junto con factores climáticos y una legislación débil y un tanto precaria sobre la calidad del aire, causan los peores niveles de PM2.5 en el país. En el área de Lima Metropolitana, el comportamiento de los vientos es un factor decisivo a nivel natural, por lo que la contaminación se transporta hacia la parte alta de Lima Este gracias a estos vientos que suelen venir del mar, de manera que se entiende sería una de las zonas más contaminadas.
