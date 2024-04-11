@@ -46,15 +46,15 @@ Somos un grupo de estudiantes que buscan remediar a través de la combinación d
 
 <h2 id="Mision">Misión:</h2>
 
-Nuestra misión es proteger el aire que respiramos, no solo para nosotros, sino también para las futuras generaciones. Recopilamos datos sobre la calidad del aire a nivel mundial, regional y nacional, con enfoque en las PM2.5. Utilizamos esta información para desarrollar filtros de limpieza amigables con el medio ambiente y tecnológicamente avanzados. Trabajamos para crear un mundo en el que cada respiración sea pura y saludable, donde todos puedan disfrutar de un aire limpio y fresco.
+Nos enfocamos en proteger el aire que respiramos, no solo para nosotros, sino también para las futuras generaciones. Recopilamos datos sobre la calidad del aire a nivel mundial, nacional y departamental, con enfoque en las PM 2,5. Utilizamos esta información para desarrollar filtros de limpieza amigables con el medio ambiente y tecnológicamente avanzados. Trabajamos para crear un mundo en el que cada respiración sea pura y saludable, donde todos puedan disfrutar de un aire limpio y fresco.
 
 <h2 id="vision">Visión</h2>
 
-Nuestra visión es procurar un mundo en el que nuestras tecnologías se adopten ampliamente, creando comunidades más saludables y sostenibles en todo el mundo. Queremos dejar una herencia de aire limpio y puro para las generaciones venideras, permitiéndoles florecer y prosperar en un entorno más seguro y limpio.
+Imaginamos un futuro en el cual el aire que respiramos sea considerado como un tesoro invaluable y no como una preocupación constante. Utilizando la ciencia y la innovación, nos posicionamos como líderes en la lucha contra la contaminación del aire para encontrar soluciones efectivas y accesibles. Imaginamos un mundo en el que nuestras tecnologías se adopten ampliamente, creando comunidades más saludables y sostenibles en todo el mundo. Queremos dejar una herencia de aire limpio y puro para las generaciones venideras, permitiéndoles florecer y prosperar en un entorno más seguro y limpio.
 
 <h2 id="impulsa">¿Qué es lo que nos impulsa?</h2>
 
-<p>Nos sentimos motivados por el deseo de generar un impacto positivo en nuestro ambiente y en la vida de las personas, promoviendo el cambio hacia un futuro más limpio y sostenible para todos.Creemos firmemente que cada pequeña acción es importante y puede marcar la diferencia en la lucha contra la contaminación del aire, lo cual nos motiva. 
+<p>Nos sentimos motivados por el deseo de generar un impacto positivo en nuestro ambiente y en la vida de las personas, promoviendo el cambio hacia un futuro más limpio y sostenible para todos.Creemos firmemente que cada pequeña acción es importante y puede marcar la diferencia en la lucha contra la contaminación del aire, lo cual nos motiva.  
 </p>
 <p>Si desea conocer más información de la problemática que vamos a abordar haga click <a href="/FdD/Entregable/02_Definición_del_problema.md">aqui</p>
 
@@ -66,7 +66,7 @@ Nuestra visión es procurar un mundo en el que nuestras tecnologías se adopten 
 <h2 id="haremos">¿Qué haremos?</h2>
 
 <h3>Objetivo general:</h3>
-<p>Se busca desarrollar e implementar un filtro de limpieza eco amigable y tecnológico para reducir la concentración de PM2.5 en el aire contribuyendo así a mejorar la calidad del aire y promover entornos más saludables y sostenibles.</p>
+<p>Desarrollar e implementar un filtro de limpieza eco amigable y tecnológico para reducir la concentración de PM2.5 en el aire a nivel mundial, nacional y departamental, contribuyendo así a mejorar la calidad del aire y promover entornos más saludables y sostenibles.</p>
 
 <h3>Objetivos específicos:</h3>
 <ul>
@@ -77,6 +77,11 @@ Nuestra visión es procurar un mundo en el que nuestras tecnologías se adopten 
 <li>Ensamblaje de las partes impresas en 3D junto con otros componentes necesarios para construir el aparato completo. Esto puede incluir la instalación de sensores, dispositivos electrónicos, filtros u otros elementos según el diseño del dispositivo.</li>
 <li>Realizar pruebas del aparato construido para asegurar de que funcione según lo previsto y finalmente hacer los ajustes necesarios en el diseño o la construcción según los resultados de las pruebas.</li>
 </ul>
+
+## Referencias bibliográficas 
+
+1. (S/f). Iqair.com. Recuperado el 6 de abril de 2024, de https://www.iqair.com/dl/2023_World_Air_Quality_Report.pdf?utm_source=pdf&utm_medium=download&utm_campaign=waqr23&utm_id=waqr23&utm_term=ft#msdynmkt_trackingcontext=7da1f782-67b2-41bd-9ceb-3cb1606275be
+
 
 
 
