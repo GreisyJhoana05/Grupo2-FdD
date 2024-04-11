@@ -46,7 +46,7 @@ Somos un grupo de estudiantes que buscan remediar a través de la combinación d
 
 <h2 id="Mision">Misión:</h2>
 
-Nuestra misión es proteger el aire que respiramos, no solo para nosotros, sino también para las futuras generaciones. Recopilamos datos sobre la calidad del aire a nivel mundial, nacional y departamental, con enfoque en las PM2.5. Utilizamos esta información para desarrollar filtros de limpieza amigables con el medio ambiente y tecnológicamente avanzados. Trabajamos para crear un mundo en el que cada respiración sea pura y saludable, donde todos puedan disfrutar de un aire limpio y fresco.
+Nuestra misión es proteger el aire que respiramos, no solo para nosotros, sino también para las futuras generaciones. Recopilamos datos sobre la calidad del aire a nivel mundial, regional y nacional, con enfoque en las PM2.5. Utilizamos esta información para desarrollar filtros de limpieza amigables con el medio ambiente y tecnológicamente avanzados. Trabajamos para crear un mundo en el que cada respiración sea pura y saludable, donde todos puedan disfrutar de un aire limpio y fresco.
 
 <h2 id="vision">Visión</h2>
 
