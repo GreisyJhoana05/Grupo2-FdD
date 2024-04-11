@@ -2,10 +2,21 @@
 <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="200">
  <h1 align="center">Definición Del Problema</h1>
 </p>
+¿Qué son las PM2,5?
+Las PM2,5 (partículas suspendidas en el aire con un tamaño igual o menor a 2.5 micrómetros) son el principal indicador de calidad de los 6 contaminantes que mide el ICA (índice de calidad del aire).
+Los contaminantes que son medidos por el ICA son:
+- Material particulado con un diámetro menor a 10 micras (PM10).
+- Material particulado con un diámetro menor a 2.5 micras (PM2.5).
+- Monóxido de carbono (CO).D
+- Dióxido de azufre (SO2).
+- Dióxido de nitrógeno (NO2).
+- Ozono (O3).
 
-https://www.iqair.com/es/air-quality-map 
+Estas partículas pueden originarse por una variedad de fuentes, ya sean de origen natural (tormentas de polvo, incendios forestales, tormentas de arena, etc.) o antropogénico (motores de combustión, procesos industriales, generación de energía, quema de carbón y madera, actividades agrícolas y construcción), son una preocupación significativa por su importante impacto en la salud humana debido a su capacidad para penetrar profundamente en los pulmones y provocar varios problemas respiratorios y cardiovasculares.
 
-- **Problemática:** Contaminación del aire del PM 2.5 en el parque cívico cultural Ceres de Ate ubicado en el distrito de Ate.
+Para ver la cantidad actual de PM2,5 en el mundo ingresa al siguiente enlace: https://www.iqair.com/es/air-quality-map
+
+- **Problemática:** Mayor susceptibilidad a problemas de salud como resultado del aumento de la concentración de PM2.5 en el parque cívico cultural Ceres de Ate
 - **Ubicación de estudio:** Parque cívico cultural Ceres de Ate
 - **Departamento:** Lima
 - **Provincia:** Lima
