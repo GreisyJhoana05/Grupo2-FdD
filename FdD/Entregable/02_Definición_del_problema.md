@@ -1,4 +1,4 @@
-<p align="left"> .
+![image](https://github.com/GreisyJhoana05/Grupo2-FdD/assets/119763499/5b5ff6e7-3219-4cb1-b7b2-38ec21d5b8f4)![image](https://github.com/GreisyJhoana05/Grupo2-FdD/assets/119763499/5e78a48d-ab88-40bb-ad79-fa2ab7c4b808)<p align="left"> .
 <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="200">
  <h1 align="center">Definición Del Problema</h1>
 </p>
@@ -105,41 +105,35 @@ Fuente: IQAir 2023
 De dicho país es la ciudad de Bogotá con una concentración media de PM2,5 de 21,3 μg/m³ que es 4,3 veces superior a la guía anual de la calidad del aire de la OMS.
 A NIVEL NACIONAL:
 Según el último reporte de IQAir 2023, Lima es la ciudad más contaminada del Perú y además uno de los seis contaminantes medidos por el ICA que impacta más para el resultado son las PM2,5 con una concentración 17,1 μg/m³.
+Gráfica comparativa de los ICA en Lima 
+ <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen09.jpg" width="600" style="margin: auto;">
+ La concentración de PM2,5 en Lima es actualmente 3.4 veces superior al valor guía anual de calidad del aire de la OMS. Fuente: IQAir 2023
 
 <p align="justify">
 El parque automovilístico antiguo, la alta concentración de actividades industriales en Lima, junto con factores climáticos y una legislación débil y un tanto precaria sobre la calidad del aire, causan los peores niveles de PM2.5 en el país. En el área de Lima Metropolitana, el comportamiento de los vientos es un factor decisivo a nivel natural, por lo que la contaminación se transporta hacia la parte alta de Lima Este gracias a estos vientos que suelen venir del mar, de manera que se entiende sería una de las zonas más contaminadas.
 </p>
+Tabla 02. Zonas, nombres y ubicación de las estaciones de monitoreo de la calidad del aire.
+<img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen10.jpg?raw=true" width="600" style="margin: auto;">
+Fuente: BOLETÍN DE VIGILANCIA DE CALIDAD DEL AIRE 
+ Área metropolitana de Lima y Callao - Mayo 2023
+Ubicación de las estaciones de monitoreo de la calidad del aire en el AMLC.
+<img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen11.jpg" width="600" style="margin: auto;">
+Fuente: BOLETÍN DE VIGILANCIA DE CALIDAD DEL AIRE 
+ Área metropolitana de Lima y Callao - Mayo 2023
 
-IMAGEN:Tabla 02.
 
 <p align="justify">
 En adición, el SENAMHI realiza la vigilancia de la calidad del aire en el Área Metropolitana de Lima y Callao (AMLC) - MAYO 2023, por lo que cuenta con una Red de Monitoreo Automático de la Calidad del Aire (REMCA), la función de la red es medir las concentraciones horarias de ciertos contaminantes entre ellos el PM 2.5. 
 Gracias a esta red de monitoreo se pueden hacer mediciones constantes para determinar la presencia de material particulado y sus concentraciones en el aire, pero también se determinó que en Lima Metropolitana hay grandes niveles de contaminación por PM 2.5 y la Ley N° 28611.
 “Ley General del Ambiente define al estándar de calidad ambiental (ECA) como "la medida que establece el nivel de concentración o del grado de elementos, sustancias o parámetros físicos, químicos y biológicos presentes en el aire, agua y suelo en su condición de cuerpo receptor, que no representa riesgo significativo para la salud de las personas ni al ambiente". Por lo tanto, para el caso de los contaminantes del aire, las concentraciones de cada uno de estos no deben superar su respectivo Estándar de Calidad Ambiental para Aire (ECA-aire) a fin de evitar problemas en la salud de las personas y el ambiente. Asimismo, los valores de los ECA-aire son establecidos por el Ministerio del Ambiente (MINAM) y estipulados en el D.S. N° 003-2017-MINAM.” (Ley N.° 28611, s. f.)
+ Dentro de Lima podemos visualizar como en el mapa a continuación en el distrito de Ate la estación de Ceres registra la mayor contaminación por PM2,5 con una concentración 46.7µg/m³.
+
+
+
 </p>
-
-### 1.3 **A Nivel Regional**
-<p align="justify">
- Según IQAir, Lima ocupa el puesto número 4 en la clasificación de las ciudades más contaminadas basada en la concentración media anual de PM2.5 (μg/m³) en Perú; a pesar de tener un índice de calidad del aire (AQI) de 53 entra dentro del rango moderado; sin embargo, su concentración de PM2.5 es actualmente 2.6 veces superior al valor guía anual de calidad del aire de la OMS, considerándose de esta manera su contaminante principal. 
-
- <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E03Imagen04.jpg" width="600" style="margin: auto;">
-</p>
-
-<p align="justify">
-El parque automovilístico antiguo, la alta concentración de actividades industriales en Lima, junto con factores climáticos y una legislación débil y un tanto precaria sobre la calidad del aire, causan los peores niveles de PM2.5 en el país. En el área de Lima Metropolitana, el comportamiento de los vientos es un factor decisivo a nivel natural, por lo que la contaminación se transporta hacia la parte alta de Lima Este gracias a estos vientos que suelen venir del mar, de manera que se entiende sería una de las zonas más contaminadas.
-
- <p align="justify">
-  En adición, el SENAMHI realiza la vigilancia de la calidad del aire en el Área Metropolitana de Lima y Callao (AMLC) - MAYO 2023, por lo que cuenta con una Red de Monitoreo Automático de la Calidad del Aire (REMCA), la función de la red es medir las concentraciones horarias de ciertos contaminantes entre ellos el PM 2.5.
-
-  <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E03Imagen05%20.jpg" width="600" style="margin: auto;">
-</p>
-
- <p align="justify">
-Gracias a esta red de monitoreo se pueden hacer mediciones constantes para determinar la presencia de material particulado y sus concentraciones en el aire, pero también se determinó que en Lima Metropolitana hay grandes niveles de contaminación por PM 2.5 y la Ley N° 28611 - Ley General del Ambiente define al estándar de calidad ambiental (ECA) como "la medida que establece el nivel de concentración o del grado de elementos, sustancias o parámetros físicos, químicos y biológicos presentes en el aire, agua y suelo en su condición de cuerpo receptor, que no representa riesgo significativo para la salud de las personas ni al ambiente". Por lo tanto, para el caso de los contaminantes del aire, las concentraciones de cada uno de estos no deben superar su respectivo Estándar de Calidad Ambiental para Aire (ECA-aire) a fin de evitar problemas en la salud de las personas y el ambiente. Asimismo, los valores de los ECA-aire son establecidos por el Ministerio del Ambiente (MINAM) y estipulados en el D.S. N° 003-2017-MINAM.
-  
-## 1.4 **A Nivel Distrital**
+Mapa de contaminación del aire por PM2,5 en los distritos de Lima en tiempo real
+<img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen12.jpg" width="600" style="margin: auto;">
+Fuente: IQAir 2023
 
 ## 2. Contexto Económico
 
@@ -152,12 +146,15 @@ Investigaciones a nivel mundial revelan la significativa influencia que la calid
 La Organización para la Cooperación y el Desarrollo Económicos (OCDE), a través de investigaciones que abarcan los costos de los mercados, tales como los gastos en el sistema de salud, la productividad laboral y la disminución de la producción agrícola, presenta hallazgos que anticipan un aumento en el impacto económico de la contaminación atmosférica. Este impacto se proyecta que aumente del 0.3% al 1% del Producto Interno Bruto (PBI) para el año 2060.
 
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E03Imagen05.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen13.jpg?raw=true" width="600" style="margin: auto;">
 </p>
+Cambios en el PIB mundial debido a impactos en los mercados por la contaminación atmosférica. Fuente: Consecuencias económicas de la contaminación atmosférica, OECD, 2016.
+
 <p align="justify">
 Por su parte, el Banco Mundial y el Instituto para la Métrica y la Evaluación de la Salud (IHME) estiman que el impacto económico de las muertes relacionadas con la mala calidad del aire ascenderá a aproximadamente US$225 billones en pérdida de horas laborales a nivel mundial.
 
 </p>
+
 
 ### 2.2 **A Nivel Nacional y  Regional**
 <p align="justify">
@@ -169,7 +166,7 @@ Además, el crecimiento anual del parque automotor en Lima Metropolitana, que se
 
 </p>
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E03Imagen06.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen14.jpg?raw=true" width="600" style="margin: auto;">
 </p>
 
 
@@ -181,25 +178,23 @@ Además, si suponemos que no se implementara ninguna medida de política ambient
 
 ## 3. Diagrama de Ishikawa - Causa y efecto
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen01.jpg" width="800" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen15.jpg?raw=true" width="800" style="margin: auto;">
 </p>
 
-## 4. Mapa de Empatía 
+## 4. Mapa de Viaje del cliente
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen02.jpg" width="800" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen16.jpg?raw=true" width="800" style="margin: auto;">
 </p>
 
-## 5. Mapa de Viaje del cliente
+## 5. Definición formal del problema
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen03.jpg" width="800" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen17.jpg?raw=true" width="950" style="margin: auto;">
 </p>
 
-## 6. Definición formal del problema
+## 6. Mapa de Empatía 
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen04%20.jpg" width="950" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen18.jpg?raw=true" width="800" style="margin: auto;">
 </p>
-
-## 7. Características resaltadas de la zona
 
 ## REFERENCIAS BIBLIOGRÁFICAS 
 
