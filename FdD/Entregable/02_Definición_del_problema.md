@@ -42,7 +42,9 @@ Estas partículas pueden originarse por una variedad de fuentes, ya sean de orig
 Nota: EAP = Asia Oriental y el Pacífico; ECA = Europa y Asia Central; ALC = América Latina y
 Caribe; MNA = Oriente Medio y Norte de África, NA = América del Norte; Sudáfrica = Sur de Asia;
 SSA = África subsahariana. Las cifras pueden no coincidir debido al redondeo.
+
 Fuente: The Global Health Cost of PM2.5 Air Pollution 
+
 Del costo total estimado para la salud mundial por la contaminación del aire por PM2,5 , alrededor del 85 por ciento se debe a la mortalidad prematura y el 15 por ciento a la morbilidad. 
 
 
