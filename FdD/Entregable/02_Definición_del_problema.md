@@ -24,9 +24,13 @@ Estas partículas pueden originarse por una variedad de fuentes, ya sean de orig
 Para ver la cantidad actual de PM2,5 en el mundo ingresa al siguiente enlace: https://www.iqair.com/es/air-quality-map
 
 - **Problemática:** Mayor susceptibilidad a problemas de salud como resultado del aumento de la concentración de PM2.5 en el parque cívico cultural Ceres de Ate
+
 - **Ubicación de estudio:** Parque cívico cultural Ceres de Ate
+
 - **Departamento:** Lima
+
 - **Provincia:** Lima
+
 - **Distrito:** Ate
 # Contexto social y Económico  
 ## 1. Impacto social 
