@@ -56,6 +56,19 @@ El informe de la UNEP sobre acciones para mejorar la calidad del aire ofrece un 
 Esta evaluación abarca diversas áreas clave que contribuyen a la contaminación del aire, como las emisiones industriales (mediante incentivos para una producción más limpia), el transporte (mediante estándares de calidad de combustible y emisiones vehiculares), la gestión de residuos sólidos (a través de regulaciones sobre la quema de residuos a cielo abierto), la contaminación del aire doméstico (mediante incentivos para el uso de energías limpias en cocinas y calefacción residencial) y la agricultura (a través de prácticas agrícolas sostenibles). 
 
 ### 1.2 **A Nivel Nacional**
+<p align="justify">
+Según el último reporte de IQAir 2023, Lima es la ciudad más contaminada del Perú y además uno de los seis contaminantes medidos por el ICA que impacta más para el resultado son las PM2,5 con una concentración 17,1 μg/m³.
+</p>
+Gráfica comparativa de los ICA en Lima
+<p align="justify">
+El parque automovilístico antiguo, la alta concentración de actividades industriales en Lima, junto con factores climáticos y una legislación débil y un tanto precaria sobre la calidad del aire, causan los peores niveles de PM2.5 en el país. En el área de Lima Metropolitana, el comportamiento de los vientos es un factor decisivo a nivel natural, por lo que la contaminación se transporta hacia la parte alta de Lima Este gracias a estos vientos que suelen venir del mar, de manera que se entiende sería una de las zonas más contaminadas.
+</p>
+Tabla 02.
+<p align="justify">
+En adición, el SENAMHI realiza la vigilancia de la calidad del aire en el Área Metropolitana de Lima y Callao (AMLC) - MAYO 2023, por lo que cuenta con una Red de Monitoreo Automático de la Calidad del Aire (REMCA), la función de la red es medir las concentraciones horarias de ciertos contaminantes entre ellos el PM 2.5. 
+Gracias a esta red de monitoreo se pueden hacer mediciones constantes para determinar la presencia de material particulado y sus concentraciones en el aire, pero también se determinó que en Lima Metropolitana hay grandes niveles de contaminación por PM 2.5 y la Ley N° 28611.
+“Ley General del Ambiente define al estándar de calidad ambiental (ECA) como "la medida que establece el nivel de concentración o del grado de elementos, sustancias o parámetros físicos, químicos y biológicos presentes en el aire, agua y suelo en su condición de cuerpo receptor, que no representa riesgo significativo para la salud de las personas ni al ambiente". Por lo tanto, para el caso de los contaminantes del aire, las concentraciones de cada uno de estos no deben superar su respectivo Estándar de Calidad Ambiental para Aire (ECA-aire) a fin de evitar problemas en la salud de las personas y el ambiente. Asimismo, los valores de los ECA-aire son establecidos por el Ministerio del Ambiente (MINAM) y estipulados en el D.S. N° 003-2017-MINAM.” (Ley N.° 28611, s. f.)
+</p>
 
 ### 1.3 **A Nivel Regional**
 <p align="justify">
