@@ -1,4 +1,4 @@
-![image](https://github.com/GreisyJhoana05/Grupo2-FdD/assets/119763499/5b5ff6e7-3219-4cb1-b7b2-38ec21d5b8f4)![image](https://github.com/GreisyJhoana05/Grupo2-FdD/assets/119763499/5e78a48d-ab88-40bb-ad79-fa2ab7c4b808)<p align="left"> .
+
 <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="200">
  <h1 align="center">Definición Del Problema</h1>
 </p>
