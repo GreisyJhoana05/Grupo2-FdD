@@ -96,6 +96,7 @@ Mapa de contaminación del aire por PM2,5 en tiempo real en Perú
 Fuente: IQAir 2023
 CHILE
 En el país de Chile con concentración media de PM2,5 en 2023 en Chile 3.7 veces el valor guía anual de calidad del aire de la OMS con un valor de 18,6 μg/m³.
+
 <p align="center">
  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen07.jpg" width="600" style="margin: auto;">
  
@@ -105,8 +106,10 @@ De dicho país es la ciudad de Temuco de la región de la Araucanía con una con
 COLOMBIA
 Es el país de Chile con concentración media de PM2,5 en 2023 en Chile 2,8 veces el valor guía anual de calidad del aire de la OMS con un valor de 14,1 μg/m³.
 Mapa de contaminación del aire por PM2,5 en tiempo real en Colombia
+
 <p align="center">
  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen08.jpg" width="600" style="margin: auto;">
+ 
 Fuente: IQAir 2023
 De dicho país es la ciudad de Bogotá con una concentración media de PM2,5 de 21,3 μg/m³ que es 4,3 veces superior a la guía anual de la calidad del aire de la OMS.
 A NIVEL NACIONAL:
@@ -121,13 +124,17 @@ Gráfica comparativa de los ICA en Lima
 El parque automovilístico antiguo, la alta concentración de actividades industriales en Lima, junto con factores climáticos y una legislación débil y un tanto precaria sobre la calidad del aire, causan los peores niveles de PM2.5 en el país. En el área de Lima Metropolitana, el comportamiento de los vientos es un factor decisivo a nivel natural, por lo que la contaminación se transporta hacia la parte alta de Lima Este gracias a estos vientos que suelen venir del mar, de manera que se entiende sería una de las zonas más contaminadas.
 </p>
 Tabla 02. Zonas, nombres y ubicación de las estaciones de monitoreo de la calidad del aire.
+
 <p align="center">
 <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen10.jpg?raw=true" width="600" style="margin: auto;">
+ 
 Fuente: BOLETÍN DE VIGILANCIA DE CALIDAD DEL AIRE 
  Área metropolitana de Lima y Callao - Mayo 2023
 Ubicación de las estaciones de monitoreo de la calidad del aire en el AMLC.
+
  <p align="center">
 <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen11.jpg" width="600" style="margin: auto;">
+  
 Fuente: BOLETÍN DE VIGILANCIA DE CALIDAD DEL AIRE 
  Área metropolitana de Lima y Callao - Mayo 2023
 
@@ -142,6 +149,7 @@ Gracias a esta red de monitoreo se pueden hacer mediciones constantes para deter
 
 </p>
 Mapa de contaminación del aire por PM2,5 en los distritos de Lima en tiempo real
+<p align="center">
 <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen12.jpg" width="600" style="margin: auto;">
 Fuente: IQAir 2023
 
