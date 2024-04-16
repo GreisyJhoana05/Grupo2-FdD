@@ -5,12 +5,3 @@
 
 
 
-| Color      | Código    |
-|------------|-----------|
-| Azul       | `#0000FF` |
-| Verde      | `#008000` |
-| Amarillo   | `#FFFF00` |
-| Naranja    | `#FFA500` |
-| Rojo       | `#FF0000` |
-| Púrpura    | `#800080` |
-| Granate    | `#800000` |
