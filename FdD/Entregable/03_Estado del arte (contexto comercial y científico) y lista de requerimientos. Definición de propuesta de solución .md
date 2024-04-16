@@ -5,8 +5,9 @@
 
 
 # **Contexto Científico**
- 
-# **Patentes de Invención**
+
+# **Contexto Comercial**
+## **Patentes de Invención**
 
 | <center> Patente 1 </center> |
 | ------------ |
