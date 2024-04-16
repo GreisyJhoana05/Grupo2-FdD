@@ -3,6 +3,7 @@
  <h1 align="center">Estado del Arte</h1>
 </p
  <h2 id="somos">Contexto Científico</h2>
+ 
 ## **Patentes de Invención**
 
 | <center> Patente 1 </center> |
