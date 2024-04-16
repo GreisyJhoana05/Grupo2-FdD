@@ -2,7 +2,7 @@
 <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="200">
  <h1 align="center">Estado del Arte</h1>
 </p
- 
+ <h2 id="somos">Contexto Científico</h2>
 ## **Patentes de Invención**
 
 | <center> Patente 1 </center> |
