@@ -3,6 +3,7 @@
  <h1 align="center">Estado del Arte</h1>
 </p>
 ## Patentes de Invención
+
 | <center> Patente 1 </center> |
 | ------------ |
 | <p align="justify">**US20200376424A1** - Sistema de filtración de aire de partículas de alta eficiencia.<br>**Fecha de Publicación:** 03/12/2020<br>**Inventor(es):** Craig Morse, Ross Trzcinski<br></p><p align="center"><img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen02.jpg" width="550" style="margin: auto;"></p></p><p align="justify">Este sistema de filtración de aire está diseñado para controlar la liberación de aire filtrado mediante un filtro altamente eficiente de partículas, con el objetivo de reducir la perturbación de las partículas ya depositadas, como los contaminantes irritantes o peligrosos, en el entorno circundante.
