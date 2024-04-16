@@ -56,18 +56,27 @@ Cada vez que inhalamos, aspiramos diminutas partículas que pueden causar daños
 La exposición a estas partículas se ha vinculado directamente con problemas de salud, contribuyendo a un elevado número de muertes prematuras y afectando a la salud cardiovascular y respiratoria (Patel et al, 2021).
 
 Tabla 01. Marco de visualización del Informe Mundial sobre la Calidad del Aire 2023
-<p align="center">
+
  |           Código             |            Puntos de cortes anuales de PM2.5 según la OMS 
  directriz anual de PM2.5 y objetivos provisionales            |            PM2.5          |           Color        |           Niveles de la OMS        |
+ 
 |------------------------------|------------------------------|----------------------------|----------------------|----------------------|
+
 |  <span style="color:#0000FF;">#0000FF</span> | Cumple con la directriz PM2.5 de la OMS  |      0-5 (µg/m³)    | Azul |      Directriz de la calidad de aire    |
+
 |        <span style="color:#008000;">#008000</span>  | Supera la directriz PM2.5 de la OMS entre 1 y 2 veces  |     5.1-10 (µg/m³)    | Verde |      Objetivo provisional 4    |
+
 |             <span style="color:#FFFF00;">#FFFF00</span>     | Supera la directriz PM2.5 de la OMS de 2 a 3 veces  |      10.1-15 (µg/m³)    | Amarillo |      Objetivo provisional 3    |
+
 |        <span style="color:#FFA500;">#FFA500</span>   | Supera la directriz PM2.5 de la OMS de 3 a 5 veces  |      15.1-25 (µg/m³)    | Naranja |      Objetivo provisional 2    |
+
 |    <span style="color:#FF0000;">#FF0000</span>     | Supera la directriz PM2.5 de la OMS entre 5 y 7 veces  |      25.1-35 (µg/m³)    | Rojo |      Objetivo provisional 1    |
+
 |   <span style="color:#800080 ;">#800080 </span>  | Supera la directriz PM2.5 de la OMS entre 7 y 10 veces  |      35.1-50 (µg/m³)    | Púrpura |      Supera los niveles objetivo    |
+
 |         <span style="color:#800000 ;">#800000 </span>    | Supera la directriz PM2.5 de la OMS en más de 10 veces  |      >50 (µg/m³)    | Granate |      Supera los niveles objetivo    |
-</p>
+
+
 Fuente: World Air Quality Report, 2023.
 Mapa global de 2023 codificado por colores según la concentración media anual de PM2,5.
 
