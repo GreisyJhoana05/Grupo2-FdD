@@ -57,7 +57,16 @@ La exposición a estas partículas se ha vinculado directamente con problemas de
 
 Tabla 01. Marco de visualización del Informe Mundial sobre la Calidad del Aire 2023
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen02.jpg" width="600" style="margin: auto;">
+ |                                  |            Puntos de cortes anuales de PM2.5 según la OMS 
+ directriz anual de PM2.5 y objetivos provisionales            |            PM2.5          |           Código de color        |           Niveles de la OMS        |
+|------------------------------|------------------------------|----------------------------|----------------------|----------------------|
+|           #0000FF              | Cumple con la directriz PM2.5 de la OMS  |      0-5 (µg/m³)    | Azul |      Directriz de la calidad de aire    |
+|            #008000          | Supera la directriz PM2.5 de la OMS entre 1 y 2 veces  |     5.1-10 (µg/m³)    | Verde |      Objetivo provisional 4    |
+|            #FFFF00          | Supera la directriz PM2.5 de la OMS de 2 a 3 veces  |      10.1-15 (µg/m³)    | Amarillo |      Objetivo provisional 3    |
+|         #FFA500        | Supera la directriz PM2.5 de la OMS de 3 a 5 veces  |      15.1-25 (µg/m³)    | Naranja |      Objetivo provisional 2    |
+|          #FF0000        | Supera la directriz PM2.5 de la OMS entre 5 y 7 veces  |      25.1-35 (µg/m³)    | Rojo |      Objetivo provisional 1    |
+|           #800080          | Supera la directriz PM2.5 de la OMS entre 7 y 10 veces  |      35.1-50 (µg/m³)    | Púrpura |      Supera los niveles objetivo    |
+|           #800000        | Supera la directriz PM2.5 de la OMS en más de 10 veces  |      >50 (µg/m³)    | Granate |      Supera los niveles objetivo    |
 </p>
 Fuente: World Air Quality Report, 2023.
 Mapa global de 2023 codificado por colores según la concentración media anual de PM2,5.
