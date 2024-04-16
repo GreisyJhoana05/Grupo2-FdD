@@ -7,6 +7,7 @@
 # **Contexto Científico**
 
 ## **Recent Insights into Particulate Matter (PM2.5)-Mediated Toxicity in Humans: An Overview  (Conocimientos recientes sobre la toxicidad mediada por partículas (PM2.5) en humanos: una descripción general)**
+El informe detalla cómo la exposición a partículas finas (PM2.5) en el aire puede impactar negativamente la salud respiratoria. PM2.5, al tener un diámetro aerodinámico reducido, puede ingresar al cuerpo humano a través de la respiración, alcanzando los alvéolos pulmonares y, eventualmente, la circulación sanguínea. Una vez en el organismo, estas partículas desencadenan estrés oxidativo y promueven la generación de mediadores inflamatorios en los pulmones. Esta respuesta inflamatoria puede contribuir al desarrollo de enfermedades respiratorias como asma, infecciones pulmonares y otras afecciones pulmonares crónicas. La exposición crónica a PM2.5 se asocia con un mayor riesgo de padecer enfermedades respiratorias, lo que subraya la importancia de abordar la calidad del aire para proteger la salud pulmonar de la población.
 
 # **Contexto Comercial**
 
