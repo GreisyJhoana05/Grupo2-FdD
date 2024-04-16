@@ -11,10 +11,12 @@ El informe detalla cómo la exposición a partículas finas (PM2.5) en el aire p
 
 ## **Efficacy of HEPA Air Cleaner on Improving Indoor Particulate Matter 2.5 Concentration** 
 **(Eficacia del filtro de aire HEPA para mejorar la concentración de partículas en interiores 2.5)**
+
 El estudio comparó la eficacia de los filtros HEPA con otros filtros en la reducción de la concentración de PM2.5 en interiores. Se encontró que los filtros HEPA demostraron una mejora significativa en la limpieza de PM2.5 en comparación con otros filtros debido a su capacidad para capturar partículas pequeñas con alta eficiencia. La filtración HEPA es efectiva para eliminar partículas de PM2.5, lo que resulta en una mejora notable en la calidad del aire interior. Esta eficacia superior de los filtros HEPA los posiciona como una opción preferida para la limpieza de la concentración de PM2.5 y la mejora de la calidad del aire en entornos cerrados.
 
 ## **Improved PM2.5 concentration estimates from low-cost sensors using calibration models categorized by relative humidity**
 **(Estimaciones mejoradas de la concentración de PM 2,5 a partir de sensores de bajo costo que utilizan modelos de calibración categorizados por humedad relativa)**
+
 El artículo científico publicado en la revista "Aerosol Science and Technology" destaca la importancia de utilizar sensores de bajo costo con modelos de calibración categorizados por humedad relativa para mejorar las estimaciones de concentración de PM2.5. Estos modelos, como el lineal y GAM, permiten una mayor precisión en las mediciones en condiciones secas y húmedas. La calibración específica según la humedad relativa es esencial para obtener resultados precisos, especialmente al considerar la respuesta no lineal en las mediciones de PM2.5 por encima del 75% de humedad relativa. En resumen, la aplicación de estos modelos de calibración mejora la calidad de los datos y su concordancia con las mediciones de referencia al abordar la influencia de la humedad relativa en los sensores de bajo costo.
 
 
