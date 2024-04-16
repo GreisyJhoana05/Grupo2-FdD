@@ -9,6 +9,10 @@
 
 El informe detalla cómo la exposición a partículas finas (PM2.5) en el aire puede impactar negativamente la salud respiratoria. PM2.5, al tener un diámetro aerodinámico reducido, puede ingresar al cuerpo humano a través de la respiración, alcanzando los alvéolos pulmonares y, eventualmente, la circulación sanguínea. Una vez en el organismo, estas partículas desencadenan estrés oxidativo y promueven la generación de mediadores inflamatorios en los pulmones. Esta respuesta inflamatoria puede contribuir al desarrollo de enfermedades respiratorias como asma, infecciones pulmonares y otras afecciones pulmonares crónicas. La exposición crónica a PM2.5 se asocia con un mayor riesgo de padecer enfermedades respiratorias, lo que subraya la importancia de abordar la calidad del aire para proteger la salud pulmonar de la población.
 
+
+<p align="center"><img src="FdD/Imagenes/Estado_del_Arte/E03Imagen01.jpg" width="550" style="margin: auto;"></p></p>
+
+
 ## **Efficacy of HEPA Air Cleaner on Improving Indoor Particulate Matter 2.5 Concentration** 
 **(Eficacia del filtro de aire HEPA para mejorar la concentración de partículas en interiores 2.5)**
 
