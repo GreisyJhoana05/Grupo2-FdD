@@ -47,4 +47,8 @@ El artículo científico publicado en la revista "Aerosol Science and Technology
 # Lista de requerimientos
 ## Funcionales
 
+## No Funcionales
+
+
+
 
