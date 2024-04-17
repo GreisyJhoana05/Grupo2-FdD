@@ -44,6 +44,7 @@ El artículo científico publicado en la revista "Aerosol Science and Technology
 | ------------ |
 | <p align="justify">**US10982869B2** - Sistema de detección inteligente para análisis de la calidad del aire interior.<br>**Fecha de Publicación:** 20/04/2021<br>**Inventor(es):** Mi Zhang, Biyi FANG, Taiwoo Park.<br></p><p align="center"><img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen04.jpg" width="550" style="margin: auto;"></p></p><p align="justify">Las tecnologías actuales de supervisión de la calidad del aire interior se centran en mediciones que aumentan la conciencia del público sobre la calidad del aire, pero a menudo carecen de la capacidad para identificar las fuentes específicas de contaminación, lo que resulta en recomendaciones genéricas y poco variadas. Esta divulgación presenta un sistema de análisis de la calidad del aire interior que puede detectar eventos de contaminación e identificar sus fuentes en tiempo real.  Además, el sistema tiene la capacidad de predecir la exposición personal a la contaminación del aire y proporcionar recomendaciones prácticas para mejorar la calidad del aire en interiores.<br><br><br></p>|
 
-
+# Lista de requerimientos
+## Funcionales
 
 
