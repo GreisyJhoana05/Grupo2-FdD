@@ -1,9 +1,10 @@
 
 <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="200">
  <h1 align="center">Estado del Arte</h1>
-</p
+</p>
 
-# **Contexto Científico **
+# **Contexto Científico**
+
 ## *Recent Insights into Particulate Matter (PM2.5)-Mediated Toxicity in Humans: An Overview*
 **(Conocimientos recientes sobre la toxicidad mediada por partículas (PM2.5) en humanos: una descripción general)**
 
@@ -13,7 +14,9 @@ El informe detalla cómo la exposición a partículas finas (PM2.5) en el aire p
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen01.jpg" width="600" style="margin: auto;">
 </p>
 <br><br>
+
 ## **Efficacy of HEPA Air Cleaner on Improving Indoor Particulate Matter 2.5 Concentration** 
+
 **(Eficacia del filtro de aire HEPA para mejorar la concentración de partículas en interiores 2.5)**
 
 El estudio comparó la eficacia de los filtros HEPA con otros filtros en la reducción de la concentración de PM2.5 en interiores. Se encontró que los filtros HEPA demostraron una mejora significativa en la limpieza de PM2.5 en comparación con otros filtros debido a su capacidad para capturar partículas pequeñas con alta eficiencia. La filtración HEPA es efectiva para eliminar partículas de PM2.5, lo que resulta en una mejora notable en la calidad del aire interior. Esta eficacia superior de los filtros HEPA los posiciona como una opción preferida para la limpieza de la concentración de PM2.5 y la mejora de la calidad del aire en entornos cerrados.<br><br>
