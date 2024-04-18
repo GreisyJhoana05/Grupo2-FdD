@@ -1,5 +1,5 @@
 
-<img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="200">                     <p align="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/ODS/E00Imagen03.jpg?raw=true" width="200">
+<img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="200">                     <p align="right">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/ODS/E00Imagen03.jpg?raw=true" width="200">
 </p>
  <h1 align="center">Estado del Arte</h1>
 </p>
