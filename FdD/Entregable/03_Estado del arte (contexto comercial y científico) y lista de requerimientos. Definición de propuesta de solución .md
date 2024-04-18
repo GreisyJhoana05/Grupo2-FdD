@@ -48,6 +48,12 @@ El artículo científico publicado en la revista "Aerosol Science and Technology
 ## Funcionales
 
 ## No Funcionales
+- Duradero:Nuestro producto debe mantener un buen funcionamiento durante mucho tiempo
+- Práctico:Nuestro producto debe ser fácil y sencillo de utilizar.
+- Preciso:Nuestro producto debe dar buenos y precisos resultados al brindar dicha información.
+- Eficiente:Nuestro producto debe ser capaz de tener una alta eficiencia.
+- Accesible:Nuestro producto debe estar accesible económicamente para nuestros futuros usuarios.
+- Seguro:Nuestro producto debe contar con una estructura sólida que ayude prevenir posibles riesgos.
 
 ## Estrategia de solución
 
