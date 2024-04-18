@@ -82,7 +82,7 @@ Filtro Hepa es el nombre para designar a los filtros que son capaces de atrapar 
 Este es uno de los mejores purificadores de aire AVERA PHEPA01, mantiene un ambiente saludable y está diseñado especialmente para ciudades muy contaminadas (Filtro Hepa y filtro de carbón activado). Ayuda a limpiar el aire de virus, bacterias, alérgenos,etc. La verdader tecnología HEPA se diseñó en Europa y China, para un funcionamiento eficaz reemplaza regularmente el repuesto del filtro para mantener tu filtro fresco y limpio.
 
 ### ***El filtro tiene un costo de $109.241 dólares estadounidenses equivale actualmente A/.459.847 en Perú***
-. Información del procuto ingrese al singuiete link:
+. Para mayor información del producto, ingrese al siguiente link:
 - https://www.purioperu.com/que-es-un-filtro-hepa/
 - https://avera.mx/products/purificador-de-aire-inteligente-wifi
 
@@ -129,12 +129,12 @@ Está disponible en profundidades de 1, 2, 4 y 5  pulgadas, tiene un tamaño est
   <img src="https://raw.githubusercontent.com/GreisyJhoana05/Grupo2-FdD/main/FdD/Imagenes/Estado_del_Arte/E03Imagen10.jpg" width="950" style="margin: auto;">
 </p>
 
-## Estrategia de solución
+# Estrategia de solución
 <p align="justify">
 Nuestra propuesta de solución tiene como objetivo el desarrollo de un dispositivo que contará con un sensor el cual será capaz de medir la concentración de PM 2.5 presente en el aire y recopilar la información que obtenga para almacenarla en un database. Adicionalmente tendrá un filtro High Efficiency Particulate Air (HEPA) que permita la remoción y purificación de partículas contaminantes encontradas en el aire, en nuestro caso las PM 2.5. El uso de este dispositivo estará dirigido para las personas que residan a los alrededores de la Plaza Cultural de Ceres en Ate, puesto que es el lugar con más presencia del contaminante en Lima Metropolitana.
 </p>
 
-## BIBLIOGRAFÍA: 
+# BIBLIOGRAFÍA: 
 
 - Chen, C. F., Hsu, C. H., Chang, Y. J., Lee, C. H., & Lee, D. L. (2022). Efficacy of HEPA air cleaner on improving indoor particulate matter 2.5 concentration. International Journal of Environmental Research and Public Health, 19(18), 11517.
 
