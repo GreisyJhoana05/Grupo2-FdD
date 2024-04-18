@@ -50,6 +50,8 @@ El artículo científico publicado en la revista "Aerosol Science and Technology
 Los filtros Hepa son una variedad de sistemas con una capacidad de retención de partículas presentes en el aire, generalmente están fabricados con una fibra de vidrio.
 <br><br>
 
+### ***Costo actual es de euros 2.569,00 € a soles peruanos son  S/ 10.226,42.***
+
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen05.jpg" width="950" style="margin: auto;">
 </p>
@@ -58,8 +60,6 @@ Los filtros Hepa son una variedad de sistemas con una capacidad de retención de
 
 <br>
 K7 700 HEPA OH· FC Es la nueva generación de purificación y desinfección de aire y superficies gracias a la triple tecnología para mejorar la calidad de aire, presenta dos tipos de tecnología de purificación: la activa y pasiva capaces de actuar sobre partículas finas PM10, PM2.5 y PM1. No necesita estar conectado al circuito de ventilación, por lo que su instalación es rápida y sencilla. 
-
-### ***Costo actual es de euros 2.569,00 € a soles peruanos son  S/ 10.226,42.***
 
 . Información del procuto ingrese al singuiete link:
 
@@ -72,6 +72,8 @@ K7 700 HEPA OH· FC Es la nueva generación de purificación y desinfección de 
 Filtro Hepa es el nombre para designar a los filtros que son capaces de atrapar el 99.99% las partículas.
 <br><br>
 
+### ***El filtro tiene un costo de $109.241 dólares estadounidenses equivale actualmente A/.459.847 en Perú***
+
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen06.jpg" width="950" style="margin: auto;">
 </p>
@@ -81,7 +83,6 @@ Filtro Hepa es el nombre para designar a los filtros que son capaces de atrapar 
 <br>
 Este es uno de los mejores purificadores de aire AVERA PHEPA01, mantiene un ambiente saludable y está diseñado especialmente para ciudades muy contaminadas (Filtro Hepa y filtro de carbón activado). Ayuda a limpiar el aire de virus, bacterias, alérgenos,etc. La verdader tecnología HEPA se diseñó en Europa y China, para un funcionamiento eficaz reemplaza regularmente el repuesto del filtro para mantener tu filtro fresco y limpio.
 
-### ***El filtro tiene un costo de $109.241 dólares estadounidenses equivale actualmente A/.459.847 en Perú***
 . Para mayor información del producto, ingrese al siguiente link:
 - https://www.purioperu.com/que-es-un-filtro-hepa/
 - https://avera.mx/products/purificador-de-aire-inteligente-wifi
@@ -91,13 +92,14 @@ Este es uno de los mejores purificadores de aire AVERA PHEPA01, mantiene un ambi
 Los filtros de carbón activado PM2.5. Es un protector facial reemplazable  PM2.5  filtra el polvo y las partículas más finas, contiene una filtración multicapa, el filtro se compone de 2 capas de tela tejida , 2 capas de paño fundido , 1 capa de carbón activado. Contiene eficazmente alejado de PM2.5 y una gama de contaminantes transportados por el aire.
 <br><br>
 
+### ***El filtro tiene un precio en bolívares venezolanos Bs.49.00 a soles peruanos aproximadamente de s/5.04.***
+
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen07.jpg" width="950" style="margin: auto;">
 </p>
 
 ### ***Fuente*** : *Filtros de carbón activado SKU FCAPM25*
 
-### ***El filtro tiene un precio en bolívares venezolanos Bs.49.00 a soles peruanos aproximadamente de s/5.04.***
 . Información del producto ingrese al singuiete link:
 - https://tienda.lifeprobolivia.com/product/filtros-de-carbon-activado-pm2-5-paquete-de-10-unidades-precios-en-bolivianos/
   
@@ -107,13 +109,14 @@ Los filtros de carbón activado PM2.5. Es un protector facial reemplazable  PM2.
 Está disponible en profundidades de 1, 2, 4 y 5  pulgadas, tiene un tamaño estándar y personalizado. Medios de aire sintético avanzados de doble componente, Las fibras son cargas por lo que atrapan los contaminantes de inmediato, promueve una gran tasa de filtrado durante todo el ciclo de  vida así como la eficiencia con una profundidad 
 <br><br>
 
+### ***Costo actual es de euros 17.00 € a soles peruanos son  S/ 67.67.***
+
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen08.jpg" width="950" style="margin: auto;">
 </p>
 
 ### ***Fuente*** : *Filtro de Green Pleat ERV 13*
 
-### ***Costo actual es de euros 17.00 € a soles peruanos son  S/ 67.67.***
 . Información del producto ingrese al singuiete link:
 - https://www.filtrationgroupiaq.com/wp-content/uploads/2021/02/FG-IAQ-_-GreenPleat-_-EN-ESLA.pdf
 - https://www.limelighst.shop/product/grupo-de-filtracion-iaq-filtro-plisado-12-x-24-x-2-merv-13/
