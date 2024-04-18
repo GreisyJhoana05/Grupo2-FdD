@@ -30,7 +30,7 @@ El artículo científico publicado en la revista "Aerosol Science and Technology
 
 # **Contexto Comercial**
 
-### **Patentes de Invención**
+## **Patentes de Invención**
 
 | <center> Patente 1 </center> |
 | ------------ |
@@ -44,10 +44,9 @@ El artículo científico publicado en la revista "Aerosol Science and Technology
 | ------------ |
 | <p align="justify">**US10982869B2** - Sistema de detección inteligente para análisis de la calidad del aire interior.<br>**Fecha de Publicación:** 20/04/2021<br>**Inventor(es):** Mi Zhang, Biyi FANG, Taiwoo Park.<br></p><p align="center"><img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen04.jpg" width="550" style="margin: auto;"></p></p><p align="justify">Las tecnologías actuales de supervisión de la calidad del aire interior se centran en mediciones que aumentan la conciencia del público sobre la calidad del aire, pero a menudo carecen de la capacidad para identificar las fuentes específicas de contaminación, lo que resulta en recomendaciones genéricas y poco variadas. Esta divulgación presenta un sistema de análisis de la calidad del aire interior que puede detectar eventos de contaminación e identificar sus fuentes en tiempo real.  Además, el sistema tiene la capacidad de predecir la exposición personal a la contaminación del aire y proporcionar recomendaciones prácticas para mejorar la calidad del aire en interiores.<br><br><br></p>|
 
-# **Contexto Comercial**
 ## ***Productos***
 ### **Producto 01**: ***Cassette purificación y desinfección de aire y superficies con filtro HEPA***
-<br><br>
+<br>
 Los filtros Hepa son una variedad de sistemas con una capacidad de retención de partículas presentes en el aire, generalmente están fabricados con una fibra de vidrio.
 <br><br>
 
@@ -55,12 +54,12 @@ Los filtros Hepa son una variedad de sistemas con una capacidad de retención de
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen05.jpg" width="950" style="margin: auto;">
 </p>
 
-### **Fuente**:Purificadores de aire filtro Hepa K7 700 HEPA OH· FC
+### ***Fuente*** : *Purificadores de aire filtro Hepa K7 700 HEPA OH· FC*
 
-<br><br>
+<br>
 K7 700 HEPA OH· FC Es la nueva generación de purificación y desinfección de aire y superficies gracias a la triple tecnología para mejorar la calidad de aire, presenta dos tipos de tecnología de purificación: la activa y pasiva capaces de actuar sobre partículas finas PM10, PM2.5 y PM1. No necesita estar conectado al circuito de ventilación, por lo que su instalación es rápida y sencilla. 
 
-### **Costo actual aproximado de 2.569,00 € a soles peruanos son  S/ 10.226,42.**
+### ***Costo actual aproximado de 2.569,00 € a soles peruanos son  S/ 10.226,42.***
 
 ### **Producto 02**: ***Purificador de aire inteligente WiFi Hepa***
 <br><br>
