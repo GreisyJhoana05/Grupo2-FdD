@@ -14,8 +14,8 @@ El informe detalla cómo la exposición a partículas finas (PM2.5) en el aire p
 Figura 1:
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen01.jpg" width="600" style="margin: auto;">
-</p>
 Fuente: Elaboración propia
+</p>
 <br><br>
 
 ## Artículo 2: *Efficacy of HEPA Air Cleaner on Improving Indoor Particulate Matter 2.5 Concentration* 
