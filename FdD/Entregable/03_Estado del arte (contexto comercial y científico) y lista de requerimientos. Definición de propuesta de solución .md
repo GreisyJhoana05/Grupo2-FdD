@@ -125,12 +125,9 @@ Está disponible en profundidades de 1, 2, 4 y 5  pulgadas, tiene un tamaño est
 </p>
 
 ## No Funcionales
-- Duradero:Nuestro producto debe mantener un buen funcionamiento durante mucho tiempo
-- Práctico:Nuestro producto debe ser fácil y sencillo de utilizar.
-- Preciso:Nuestro producto debe dar buenos y precisos resultados al brindar dicha información.
-- Eficiente:Nuestro producto debe ser capaz de tener una alta eficiencia.
-- Accesible:Nuestro producto debe estar accesible económicamente para nuestros futuros usuarios.
-- Seguro:Nuestro producto debe contar con una estructura sólida que ayude prevenir posibles riesgos.
+<p align="center">
+(https://raw.githubusercontent.com/GreisyJhoana05/Grupo2-FdD/main/FdD/Imagenes/Estado_del_Arte/E03Imagen10.jpg)
+
 
 ## Estrategia de solución
 <p align="justify">
