@@ -135,7 +135,7 @@ Nuestra propuesta de solución tiene como objetivo el desarrollo de un dispositi
 </p>
 <br>
 
-# Bibliografia
+# Bibliografía
 
 - Chen, C. F., Hsu, C. H., Chang, Y. J., Lee, C. H., & Lee, D. L. (2022). Efficacy of HEPA air cleaner on improving indoor particulate matter 2.5 concentration. International Journal of Environmental Research and Public Health, 19(18), 11517.
 
