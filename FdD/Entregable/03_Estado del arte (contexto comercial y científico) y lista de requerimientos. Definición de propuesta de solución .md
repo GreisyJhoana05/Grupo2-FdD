@@ -17,6 +17,7 @@ Figura 1:
 
 Fuente: Elaboración propia
 </p>
+
 <br><br>
 
 ## Artículo 2: *Efficacy of HEPA Air Cleaner on Improving Indoor Particulate Matter 2.5 Concentration* 
