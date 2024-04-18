@@ -98,7 +98,7 @@ Los filtros de carbón activado PM2.5. Es un protector facial reemplazable  PM2.
 ### ***Fuente*** : *Filtros de carbón activado SKU FCAPM25*
 
 ### ***El filtro tiene un precio en bolívares venezolanos Bs.49.00 a soles peruanos aproximadamente de s/5.04.***
-. Información del procuto ingrese al singuiete link:
+. Información del producto ingrese al singuiete link:
 - https://tienda.lifeprobolivia.com/product/filtros-de-carbon-activado-pm2-5-paquete-de-10-unidades-precios-en-bolivianos/
   
 ## **Producto 04**: *Filtro Green Pleat* 
@@ -114,7 +114,7 @@ Está disponible en profundidades de 1, 2, 4 y 5  pulgadas, tiene un tamaño est
 ### ***Fuente*** : *Filtro de Green Pleat ERV 13*
 
 ### ***Costo actual es de euros 17.00 € a soles peruanos son  S/ 67.67.***
-. Información del procuto ingrese al singuiete link:
+. Información del producto ingrese al singuiete link:
 - https://www.filtrationgroupiaq.com/wp-content/uploads/2021/02/FG-IAQ-_-GreenPleat-_-EN-ESLA.pdf
 - https://www.limelighst.shop/product/grupo-de-filtracion-iaq-filtro-plisado-12-x-24-x-2-merv-13/
   
