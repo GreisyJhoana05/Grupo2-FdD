@@ -125,9 +125,9 @@ Nuestra propuesta de solución tiene como objetivo el desarrollo de un dispositi
 </p>
 
 ## BIBLIOGRAFÍA: 
--
--
--
+-Chen, C. F., Hsu, C. H., Chang, Y. J., Lee, C. H., & Lee, D. L. (2022). Efficacy of HEPA air cleaner on improving indoor particulate matter 2.5 concentration. International Journal of Environmental Research and Public Health, 19(18), 11517.
+-Craig Morse, Ross Trzcinski (2020). High efficiency particulate air filtration system (U.S. Patent No. US 20200376424A1). ProMedica Health System , Inc. 
+-Hua, J., Zhang, Y., de Foy, B., Mei, X., Shang, J., Zhang, Y., … Zhou, D. (2021). Improved PM2.5 concentration estimates from low-cost sensors using calibration models categorized by relative humidity. Aerosol Science and Technology, 55(5), 600–613. 
 -
 -
 
