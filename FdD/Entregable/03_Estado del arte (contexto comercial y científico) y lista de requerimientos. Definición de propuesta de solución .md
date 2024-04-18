@@ -1,5 +1,5 @@
 
-<img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="200">
+<img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="200">         <img src="FdD/Imagenes/ODS/E00Imagen03.jpg" width="200">
  <h1 align="center">Estado del Arte</h1>
 </p>
 
