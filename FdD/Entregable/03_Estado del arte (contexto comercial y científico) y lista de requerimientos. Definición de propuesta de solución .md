@@ -60,7 +60,7 @@ Los filtros Hepa son una variedad de sistemas con una capacidad de retención de
 
 <br>
 K7 700 HEPA OH· FC Es la nueva generación de purificación y desinfección de aire y superficies gracias a la triple tecnología para mejorar la calidad de aire, presenta dos tipos de tecnología de purificación: la activa y pasiva capaces de actuar sobre partículas finas PM10, PM2.5 y PM1. No necesita estar conectado al circuito de ventilación, por lo que su instalación es rápida y sencilla. 
-
+<br>
 Información del producto ingrese al siguiente link:
 
 - https://www.airtecnics.com/es/noticias/el-cassette-purificador-de-aire-definitivo-k7-700-hepa-oh-fc
