@@ -126,8 +126,8 @@ Está disponible en profundidades de 1, 2, 4 y 5  pulgadas, tiene un tamaño est
 
 ## No Funcionales
 <p align="center">
-(https://raw.githubusercontent.com/GreisyJhoana05/Grupo2-FdD/main/FdD/Imagenes/Estado_del_Arte/E03Imagen10.jpg)
-
+  <img src="https://raw.githubusercontent.com/GreisyJhoana05/Grupo2-FdD/main/FdD/Imagenes/Estado_del_Arte/E03Imagen10.jpg" width="950" style="margin: auto;">
+</p>
 
 ## Estrategia de solución
 <p align="justify">
