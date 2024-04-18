@@ -59,7 +59,7 @@ Los filtros Hepa son una variedad de sistemas con una capacidad de retención de
 <br>
 K7 700 HEPA OH· FC Es la nueva generación de purificación y desinfección de aire y superficies gracias a la triple tecnología para mejorar la calidad de aire, presenta dos tipos de tecnología de purificación: la activa y pasiva capaces de actuar sobre partículas finas PM10, PM2.5 y PM1. No necesita estar conectado al circuito de ventilación, por lo que su instalación es rápida y sencilla. 
 
-### ***Costo actual aproximado de 2.569,00 € a soles peruanos son  S/ 10.226,42.***
+### ***Costo actual es de euros 2.569,00 € a soles peruanos son  S/ 10.226,42.***
 
 . Información del procuto ingrese al singuiete link:
 
@@ -113,7 +113,7 @@ Está disponible en profundidades de 1, 2, 4 y 5  pulgadas, tiene un tamaño est
 
 ### ***Fuente*** : *Filtro de Green Pleat ERV 13*
 
-### ***Costo actual aproximado de 17.00 € a soles peruanos son  S/ 67.67.***
+### ***Costo actual es de euros 17.00 € a soles peruanos son  S/ 67.67.***
 . Información del procuto ingrese al singuiete link:
 - https://www.filtrationgroupiaq.com/wp-content/uploads/2021/02/FG-IAQ-_-GreenPleat-_-EN-ESLA.pdf
 - https://www.limelighst.shop/product/grupo-de-filtracion-iaq-filtro-plisado-12-x-24-x-2-merv-13/
