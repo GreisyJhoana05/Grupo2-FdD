@@ -46,6 +46,9 @@ El artículo científico publicado en la revista "Aerosol Science and Technology
 
 # Lista de requerimientos
 ## Funcionales
+<p align="center">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen09.jpg" width="950" style="margin: auto;">
+</p>
 
 ## No Funcionales
 - Duradero:Nuestro producto debe mantener un buen funcionamiento durante mucho tiempo
