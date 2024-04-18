@@ -8,7 +8,7 @@
 ## Artículo 1 : *Recent Insights into Particulate Matter (PM2.5)-Mediated Toxicity in Humans: An Overview*
 ***(Conocimientos recientes sobre la toxicidad mediada por partículas (PM2.5) en humanos: una descripción general)***
 <br><br>
-El informe detalla cómo la exposición a partículas finas (PM2.5) en el aire puede impactar negativamente la salud respiratoria. PM2.5, al tener un diámetro aerodinámico reducido, puede ingresar al cuerpo humano a través de la respiración, alcanzando los alvéolos pulmonares y, eventualmente, la circulación sanguínea. Una vez en el organismo, estas partículas desencadenan estrés oxidativo y promueven la generación de mediadores inflamatorios en los pulmones. Esta respuesta inflamatoria puede contribuir al desarrollo de enfermedades respiratorias como asma, infecciones pulmonares y otras afecciones pulmonares crónicas. La exposición crónica a PM2.5 se asocia con un mayor riesgo de padecer enfermedades respiratorias, lo que subraya la importancia de abordar la calidad del aire para proteger la salud pulmonar de la población.
+El informe detalla cómo la exposición a partículas finas (PM2.5) en el aire puede impactar negativamente la salud respiratoria. Las PM2.5, al tener un diámetro aerodinámico reducido, puede ingresar al cuerpo humano a través de la respiración, alcanzando los alvéolos pulmonares y, eventualmente, la circulación sanguínea. Una vez en el organismo, estas partículas desencadenan estrés oxidativo y promueven la generación de mediadores inflamatorios en los pulmones. Esta respuesta inflamatoria puede contribuir al desarrollo de enfermedades respiratorias como asma, infecciones pulmonares y otras afecciones pulmonares crónicas. La exposición crónica a PM2.5 se asocia con un mayor riesgo de padecer enfermedades respiratorias, lo que subraya la importancia de abordar la calidad del aire para proteger la salud pulmonar de la población.
 <br><br>
 
 Figura 1:
@@ -40,11 +40,11 @@ El artículo científico publicado en la revista "Aerosol Science and Technology
 
 | <center> Patente 2 </center> |
 | ------------ |
-| <p align="justify">**US 20220233986A1** - Conjunto de filtro de aire para partículas de alta eficiencia.<br>**Fecha de Publicación:** 28/07/2022<br>**Inventor(es):** Ralph David Brown.<br></p><p align="center"><img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen03.jpg" width="550" style="margin: auto;"></p></p><p align="justify">Se presenta un conjunto de filtros altamente eficientes para purificar el aire que entra en un sistema de purificación de aire. Este conjunto consta de un filtro principal diseñado para filtrar partículas de aire, una carcasa específicamente configurada para ser utilizada en el sistema de purificación de aire, un primer prefiltro ubicado antes del filtro de partículas de aire y un sustrato electrostáticamente cargado situado después del filtro de partículas de aire. Además, el conjunto de filtros puede incluir un segundo prefiltro que consta de varias capas, como papel, carbono, zeolita, malla y espuma.<br><br><br></p>|
+| <p align="justify">**US 20220233986A1** - Conjunto de filtro de aire para partículas de alta eficiencia.<br>**Fecha de Publicación:** 28/07/2022<br>**Inventor(es):** Ralph David Brown.<br></p>Figura 3:<p align="center"><img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen03.jpg" width="550" style="margin: auto;"></p></p><p align="justify">Se presenta un conjunto de filtros altamente eficientes para purificar el aire que entra en un sistema de purificación de aire. Este conjunto consta de un filtro principal diseñado para filtrar partículas de aire, una carcasa específicamente configurada para ser utilizada en el sistema de purificación de aire, un primer prefiltro ubicado antes del filtro de partículas de aire y un sustrato electrostáticamente cargado situado después del filtro de partículas de aire. Además, el conjunto de filtros puede incluir un segundo prefiltro que consta de varias capas, como papel, carbono, zeolita, malla y espuma.<br><br><br></p>|
 
 | <center> Patente 3 </center> |
 | ------------ |
-| <p align="justify">**US10982869B2** - Sistema de detección inteligente para análisis de la calidad del aire interior.<br>**Fecha de Publicación:** 20/04/2021<br>**Inventor(es):** Mi Zhang, Biyi FANG, Taiwoo Park.<br></p><p align="center"><img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen04.jpg" width="550" style="margin: auto;"></p></p><p align="justify">Las tecnologías actuales de supervisión de la calidad del aire interior se centran en mediciones que aumentan la conciencia del público sobre la calidad del aire, pero a menudo carecen de la capacidad para identificar las fuentes específicas de contaminación, lo que resulta en recomendaciones genéricas y poco variadas. Esta divulgación presenta un sistema de análisis de la calidad del aire interior que puede detectar eventos de contaminación e identificar sus fuentes en tiempo real.  Además, el sistema tiene la capacidad de predecir la exposición personal a la contaminación del aire y proporcionar recomendaciones prácticas para mejorar la calidad del aire en interiores.<br><br><br></p>|
+| <p align="justify">**US10982869B2** - Sistema de detección inteligente para análisis de la calidad del aire interior.<br>**Fecha de Publicación:** 20/04/2021<br>**Inventor(es):** Mi Zhang, Biyi FANG, Taiwoo Park.<br></p>Figura 4:<p align="center"><img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen04.jpg" width="550" style="margin: auto;"></p></p><p align="justify">Las tecnologías actuales de supervisión de la calidad del aire interior se centran en mediciones que aumentan la conciencia del público sobre la calidad del aire, pero a menudo carecen de la capacidad para identificar las fuentes específicas de contaminación, lo que resulta en recomendaciones genéricas y poco variadas. Esta divulgación presenta un sistema de análisis de la calidad del aire interior que puede detectar eventos de contaminación e identificar sus fuentes en tiempo real.  Además, el sistema tiene la capacidad de predecir la exposición personal a la contaminación del aire y proporcionar recomendaciones prácticas para mejorar la calidad del aire en interiores.<br><br><br></p>|
 
 # ***Productos***
 ## **Producto 01**: ***Cassette purificación y desinfección de aire y superficies con filtro HEPA***
@@ -54,6 +54,7 @@ Los filtros Hepa son una variedad de sistemas con una capacidad de retención de
 
 ### ***Costo actual es de euros 2.569,00 € a soles peruanos son  S/ 10.226,42.***
 
+Figura 5:
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen05.jpg" width="950" style="margin: auto;">
 </p>
@@ -76,6 +77,7 @@ Filtro Hepa es el nombre para designar a los filtros que son capaces de atrapar 
 
 ### ***El filtro tiene un costo de $109.241 dólares estadounidenses equivale actualmente S/.459.847 en Perú***
 
+Figura 6:
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen06.jpg" width="950" style="margin: auto;">
 </p>
@@ -97,6 +99,7 @@ Los filtros de carbón activado PM2.5. Es un protector facial reemplazable  PM2.
 
 ### ***El filtro tiene un precio en bolívares venezolanos Bs.49.00 y a soles peruanos es aproximadamente S/5.04.***
 
+Figura 7:
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen07.jpg" width="950" style="margin: auto;">
 </p>
@@ -114,6 +117,7 @@ Está disponible en profundidades de 1, 2, 4 y 5  pulgadas, tiene un tamaño est
 
 ### ***Costo actual en euros es 17.00 € y a soles peruanos actualmente es de S/ 67.67.***
 
+Figura 8:
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen08.jpg" width="950" style="margin: auto;">
 </p>
@@ -126,11 +130,14 @@ Información del producto ingrese al siguiente link:
   
 # Lista de requerimientos
 ## Funcionales
+
+Mapa mental 1:
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen09.jpg" width="950" style="margin: auto;">
 </p>
 
 ## No Funcionales
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/GreisyJhoana05/Grupo2-FdD/main/FdD/Imagenes/Estado_del_Arte/E03Imagen10.jpg" width="950" style="margin: auto;">
 </p>
