@@ -124,4 +124,11 @@ Está disponible en profundidades de 1, 2, 4 y 5  pulgadas, tiene un tamaño est
 Nuestra propuesta de solución tiene como objetivo el desarrollo de un dispositivo que contará con un sensor el cual será capaz de medir la concentración de PM 2.5 presente en el aire y recopilar la información que obtenga para almacenarla en un database. Adicionalmente tendrá un filtro High Efficiency Particulate Air (HEPA) que permita la remoción y purificación de partículas contaminantes encontradas en el aire, en nuestro caso las PM 2.5. El uso de este dispositivo estará dirigido para las personas que residan a los alrededores de la Plaza Cultural de Ceres en Ate, puesto que es el lugar con más presencia del contaminante en Lima Metropolitana.
 </p>
 
+## BIBLIOGRAFÍA: 
+-
+-
+-
+-
+-
+
 
