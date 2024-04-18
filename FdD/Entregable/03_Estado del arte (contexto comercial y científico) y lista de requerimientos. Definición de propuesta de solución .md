@@ -130,8 +130,14 @@ Nuestra propuesta de solución tiene como objetivo el desarrollo de un dispositi
 
 - Craig Morse, Ross Trzcinski (2020). High efficiency particulate air filtration system (U.S. Patent No. US 20200376424A1). ProMedica Health System , Inc. 
 
-- Hua, J., Zhang, Y., de Foy, B., Mei, X., Shang, J., Zhang, Y., … Zhou, D. (2021). Improved PM2.5 concentration estimates from low-cost sensors using calibration models categorized by relative humidity. Aerosol Science and Technology, 55(5), 600–613. 
--
--
+- Hua, J., Zhang, Y., de Foy, B., Mei, X., Shang, J., Zhang, Y., … Zhou, D. (2021). Improved PM2.5 concentration estimates from low-cost sensors using calibration models categorized by relative humidity. Aerosol Science and Technology, 55(5), 600–613.
+  
+- Mi Zhang, Biyi FANG, Taiwoo Park (2021). Intelligent sensing system for indoor air quality analytics (U.S. Patent No. US10982869B2). Board of Trustees of Michigan State University. 
+
+- Ralph David Brown (2022). High - Efficiency particulate air filter assembly (U.S. Patent No. US20220233986A1). Vironaire Inc. U.S. 
+
+- Thangavel, P., Park, D., & Lee, Y. C. (2022). Recent insights into particulate matter (PM2. 5)-mediated toxicity in humans: an overview. International journal of environmental research and public health, 19(12), 7511.
+
+
 
 
