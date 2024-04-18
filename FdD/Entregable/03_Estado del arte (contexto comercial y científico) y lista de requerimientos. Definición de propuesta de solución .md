@@ -44,8 +44,8 @@ El artículo científico publicado en la revista "Aerosol Science and Technology
 | ------------ |
 | <p align="justify">**US10982869B2** - Sistema de detección inteligente para análisis de la calidad del aire interior.<br>**Fecha de Publicación:** 20/04/2021<br>**Inventor(es):** Mi Zhang, Biyi FANG, Taiwoo Park.<br></p><p align="center"><img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen04.jpg" width="550" style="margin: auto;"></p></p><p align="justify">Las tecnologías actuales de supervisión de la calidad del aire interior se centran en mediciones que aumentan la conciencia del público sobre la calidad del aire, pero a menudo carecen de la capacidad para identificar las fuentes específicas de contaminación, lo que resulta en recomendaciones genéricas y poco variadas. Esta divulgación presenta un sistema de análisis de la calidad del aire interior que puede detectar eventos de contaminación e identificar sus fuentes en tiempo real.  Además, el sistema tiene la capacidad de predecir la exposición personal a la contaminación del aire y proporcionar recomendaciones prácticas para mejorar la calidad del aire en interiores.<br><br><br></p>|
 
-## ***Productos***
-### **Producto 01**: ***Cassette purificación y desinfección de aire y superficies con filtro HEPA***
+# ***Productos***
+## **Producto 01**: ***Cassette purificación y desinfección de aire y superficies con filtro HEPA***
 <br>
 Los filtros Hepa son una variedad de sistemas con una capacidad de retención de partículas presentes en el aire, generalmente están fabricados con una fibra de vidrio.
 <br><br>
@@ -60,9 +60,10 @@ Los filtros Hepa son una variedad de sistemas con una capacidad de retención de
 K7 700 HEPA OH· FC Es la nueva generación de purificación y desinfección de aire y superficies gracias a la triple tecnología para mejorar la calidad de aire, presenta dos tipos de tecnología de purificación: la activa y pasiva capaces de actuar sobre partículas finas PM10, PM2.5 y PM1. No necesita estar conectado al circuito de ventilación, por lo que su instalación es rápida y sencilla. 
 
 ### ***Costo actual aproximado de 2.569,00 € a soles peruanos son  S/ 10.226,42.***
-
-### **Producto 02**: ***Purificador de aire inteligente WiFi Hepa***
 <br><br>
+
+## **Producto 02**: ***Purificador de aire inteligente WiFi Hepa***
+<br>
 Filtro Hepa es el nombre para designar a los filtros que son capaces de atrapar el 99.99% las partículas.
 <br><br>
 
@@ -70,15 +71,15 @@ Filtro Hepa es el nombre para designar a los filtros que son capaces de atrapar 
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen06.jpg" width="950" style="margin: auto;">
 </p>
 
-### **Fuente**:Purificador de aire inteligente Wifi PHEPA01
+### ***Fuente*** : *Purificador de aire inteligente Wifi PHEPA01*
 
-<br><br>
+<br>
 Este es uno de los mejores purificadores de aire AVERA PHEPA01, mantiene un ambiente saludable y está diseñado especialmente para ciudades muy contaminadas (Filtro Hepa y filtro de carbón activado). Ayuda a limpiar el aire de virus, bacterias, alérgenos,etc. La verdader tecnología HEPA se diseñó en Europa y China, para un funcionamiento eficaz reemplaza regularmente el repuesto del filtro para mantener tu filtro fresco y limpio.
 
-### **El filtro tiene un costo de $109.241 dólares estadounidenses equivale actualmente A/.459.847 en Perú**
-
-### **Producto 03**: ***Los filtro de carbón activado PM 2.5***
+### ***El filtro tiene un costo de $109.241 dólares estadounidenses equivale actualmente A/.459.847 en Perú***
 <br><br>
+## **Producto 03**: ***Los filtro de carbón activado PM 2.5***
+<br>
 Los filtros de carbón activado PM2.5. Es un protector facial reemplazable  PM2.5  filtra el polvo y las partículas más finas, contiene una filtración multicapa, el filtro se compone de 2 capas de tela tejida , 2 capas de paño fundido , 1 capa de carbón activado. Contiene eficazmente alejado de PM2.5 y una gama de contaminantes transportados por el aire.
 <br><br>
 
@@ -86,13 +87,13 @@ Los filtros de carbón activado PM2.5. Es un protector facial reemplazable  PM2.
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen07.jpg" width="950" style="margin: auto;">
 </p>
 
-### **Fuente**:Filtros de carbón activado SKU FCAPM25
+### ***Fuente*** : *Filtros de carbón activado SKU FCAPM25*
 
-### **El filtro tiene un precio en bolívares venezolanos Bs.49.00 a soles peruanos aproximadamente de s/5.04.**
-
-### **Producto 04**: Filtro Green Pleat 
-
+### ***El filtro tiene un precio en bolívares venezolanos Bs.49.00 a soles peruanos aproximadamente de s/5.04.***
 <br><br>
+## **Producto 04**: *Filtro Green Pleat* 
+
+<br>
 Está disponible en profundidades de 1, 2, 4 y 5  pulgadas, tiene un tamaño estándar y personalizado. Medios de aire sintético avanzados de doble componente, Las fibras son cargas por lo que atrapan los contaminantes de inmediato, promueve una gran tasa de filtrado durante todo el ciclo de  vida así como la eficiencia con una profundidad 
 <br><br>
 
@@ -100,10 +101,10 @@ Está disponible en profundidades de 1, 2, 4 y 5  pulgadas, tiene un tamaño est
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen08.jpg" width="950" style="margin: auto;">
 </p>
 
-### **Fuente**:Filtro de Green Pleat ERV 13
+### ***Fuente*** : *Filtro de Green Pleat ERV 13*
 
-### **Costo actual aproximado de 17.00 € a soles peruanos son  S/ 67.67.**
-
+### ***Costo actual aproximado de 17.00 € a soles peruanos son  S/ 67.67.***
+<br><br>
 # Lista de requerimientos
 ## Funcionales
 <p align="center">
