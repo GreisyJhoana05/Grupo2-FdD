@@ -81,11 +81,12 @@ Filtro Hepa es el nombre para designar a los filtros que son capaces de atrapar 
 ### ***Fuente*** : *Purificador de aire inteligente Wifi PHEPA01*
 
 <br>
-Este es uno de los mejores purificadores de aire AVERA PHEPA01, mantiene un ambiente saludable y está diseñado especialmente para ciudades muy contaminadas (Filtro Hepa y filtro de carbón activado). Ayuda a limpiar el aire de virus, bacterias, alérgenos,etc. La verdadera tecnología HEPA se diseñó en Europa y China, para un funcionamiento eficaz reemplaza regularmente el repuesto del filtro para mantener tu filtro fresco y limpio.
-<br>
+Este es uno de los mejores purificadores de aire AVERA PHEPA01, mantiene un ambiente saludable y está diseñado especialmente para ciudades muy contaminadas (Filtro Hepa y filtro de carbón activado). Ayuda a limpiar el aire de virus, bacterias, alérgenos,etc. La verdadera tecnología HEPA se diseñó en Europa y China, para un funcionamiento eficaz reemplaza regularmente el repuesto del filtro para mantener tu filtro fresco y limpio.<br><br>
 Para mayor información del producto, ingrese al siguiente link:
+
 - https://www.purioperu.com/que-es-un-filtro-hepa/
-- https://avera.mx/products/purificador-de-aire-inteligente-wifi
+  
+- https://avera.mx/products/purificador-de-aire-inteligente-
 
 ## **Producto 03**: ***Los filtro de carbón activado PM 2.5***
 <br>
