@@ -1,20 +1,26 @@
 # **CAJA NEGRA Y ESQUEMA DE FUNCIONES**
-##  **Caja Negra**
+##  ***Caja Negra***
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Caja_Negra_Esquema_de_Funciones/E04Imagen01.jpg?raw=true" width="600" style="margin: auto;">
 </p>
 
-## **Esquema de Funciones**
+## ***Esquema de Funciones***
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Caja_Negra_Esquema_de_Funciones/E04Imagen02.jpg?raw=true" width="600" style="margin: auto;">
 </p>
 
-### **Definición de Funciones**
+### ***Definición de Funciones***
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Caja_Negra_Esquema_de_Funciones/E04Imagen03.jpg?raw=true" width="600" style="margin: auto;">
 </p>
 
 # **MATRIZ MORFOLÓGICA Y TABLA DE VALORACIÓN**
+## ***Matriz Morfológica***
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Caja_Negra_Esquema_de_Funciones/E04Imagen01.jpg?raw=true" width="600" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Caja_Negra_Esquema_de_Funciones/E04Imagen04.jpg" style="margin: auto;">
+</p>
+
+## ***Tabla de Valoración***
+<p align="center">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Caja_Negra_Esquema_de_Funciones/E04Imagen04.jpg" style="margin: auto;">
 </p>
