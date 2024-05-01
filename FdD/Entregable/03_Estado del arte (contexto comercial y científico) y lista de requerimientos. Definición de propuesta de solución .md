@@ -36,17 +36,40 @@ El artículo científico publicado en la revista "Aerosol Science and Technology
 
 ## **Patentes de Invención**
 
-| <center> Patente 1 </center> |
-| ------------ |
-| <p align="justify">**US 11.835.676 B2 ** - Sistema de detección de incendios de alerta temprana basados en un enfoque multivariable.<br>**Presentado: 05/05/2019<br>Fecha de Publicación:05/11/2020<br> **Inventor(es):** Vasily Antonovich Tremsin, Lafayette,(EEUU)<br></p>Figura01:<p align="center"><img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E02Imagen01.jpg" width="550" style="margin: auto;"></p></p><p align="justify">Un sistema automatizado de detección de incendios incluye una red distribuidora de unidades de sensores independientes que tienen capacidad multifuncional para detectar incendios forestales en su etapa más temprana. Se emplean múltiples modos de verificación, incluyendo imágenes térmicas, análisis espectral, mediciones de infrarrojo cercano e infrarrojo de onda larga, mediciones de la presencia o concentración del humo, detección de temperatura, humedad locales, velocidad y dirección del viento. Un algoritmo dedicado recibe todos los datos de la red y determina la ubicación de las llamas a partir de los sensores de imágenes, combinados con las mediciones de humo, temperatura, humedad y viento en cada dispositivo disperso.<br><br><br></p>|
+<center> Patente 1 </center> 
 
-| <center> Patente 2 </center> |
-| ------------ |
-| <p align="justify">**US 7,256,401 B2 ** -Sistema y método de detección de incendios.<br>** Fecha de Presentación:** 23/07/2004<br> **Fecha de Publicación:06/01/2005**<br> **Inventor(es):** William R. Garmer, San Diego; Jonathan M. Luck, El Cajon; (EEUU)<br></p>Figura 3:<p align="center"><img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E02Imagen02.jpg" width="550" style="margin: auto;"></p></p><p align="justify">Un sistema y método para detectar radiación indicativa de incendio, como por ejemplo un incendio forestal. En una realización se determina un nivel umbral de energía basándose en las condiciones ambientales del sensor. Se puede configurar una unidad de sensor para escanear una área predeterminada en busca de radiación electromagnética. Cualquier radiación electromagnética detectada puede luego filtrarse en paso de banda a un rango de longitud de onda centrado alrededor de una frecuencia predeterminada asociada con la presencia de fuego. La señal del nivel de energía resultante puede entonces filtrarse adicionalmente para dejar pasar sólo aquellas señales que exhiben una frecuencia de "parpadeo". Si la señal filtrada resultante excede la señal umbral, entonces se puede generar una señal de notificación de incendio.<br><br><br></p>|
+<p align="justify"> **US 11.835.676 B2 ** - Sistema de detección de incendios de alerta temprana basados en un enfoque multivariable.<br>** 
+Presentado: 05/05/2019<br>
+Fecha de Publicación:05/11/2020<br> 
+**Inventor(es):** Vasily Antonovich Tremsin, Lafayette,(EEUU)<br></p>
 
-| <center> Patente 3 </center> |
-| ------------ |
-| <p align="justify">**ES 2 301 082 T3** - Procedimiento de vigilancia de territorios para la detección de incendios forestales y de superficie.<br>**Fecha de Presentación:** 16/06/2008<br> <br> **FECHA DE PRESENTACIÓN: 16/06/200**Inventor(es):** Mi Zhang, Biyi FANG, Taiwoo Park.<br></p>Figura 4:<p align="center"><img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen04.jpg" width="550" style="margin: auto;"></p></p><p align="justify">Las tecnologías actuales de supervisión de la calidad del aire interior se centran en mediciones que aumentan la conciencia del público sobre la calidad del aire, pero a menudo carecen de la capacidad para identificar las fuentes específicas de contaminación, lo que resulta en recomendaciones genéricas y poco variadas. Esta divulgación presenta un sistema de análisis de la calidad del aire interior que puede detectar eventos de contaminación e identificar sus fuentes en tiempo real.  Además, el sistema tiene la capacidad de predecir la exposición personal a la contaminación del aire y proporcionar recomendaciones prácticas para mejorar la calidad del aire en interiores.<br><br><br></p>|
+<p align="center"> 
+Figura01:
+
+<p align="center"><img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E02Imagen01.jpg" width="550" style="margin: auto;"></p></p><p align="justify">
+ 
+Un sistema automatizado de detección de incendios incluye una red distribuidora de unidades de sensores independientes que tienen capacidad multifuncional para detectar incendios forestales en su etapa más temprana. Se emplean múltiples modos de verificación, incluyendo imágenes térmicas, análisis espectral, mediciones de infrarrojo cercano e infrarrojo de onda larga, mediciones de la presencia o concentración del humo, detección de temperatura, humedad locales, velocidad y dirección del viento. Un algoritmo dedicado recibe todos los datos de la red y determina la ubicación de las llamas a partir de los sensores de imágenes, combinados con las mediciones de humo, temperatura, humedad y viento en cada dispositivo disperso.<br><br><br></p>|
+
+ <center> Patente 2 </center> 
+ <p align="justify">
+**US 7,256,401 B2 ** -Sistema y método de detección de incendios.<br>**
+**Fecha de Presentación:23/07/2004**<br> 
+**Fecha de Publicación:06/01/2005**<br>
+**Inventor(es):** William R. Garmer, San Diego; Jonathan M. Luck, El Cajon; (EEUU)<br></p>
+<p align="center">
+Figura 02:
+<p align="center"><img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E02Imagen02.jpg" width="550" style="margin: auto;"></p></p><p align="justify">
+Un sistema y método para detectar radiación indicativa de incendio, como por ejemplo un incendio forestal. En una realización se determina un nivel umbral de energía basándose en las condiciones ambientales del sensor. Se puede configurar una unidad de sensor para escanear una área predeterminada en busca de radiación electromagnética. Cualquier radiación electromagnética detectada puede luego filtrarse en paso de banda a un rango de longitud de onda centrado alrededor de una frecuencia predeterminada asociada con la presencia de fuego. La señal del nivel de energía resultante puede entonces filtrarse adicionalmente para dejar pasar sólo aquellas señales que exhiben una frecuencia de "parpadeo". Si la señal filtrada resultante excede la señal umbral, entonces se puede generar una señal de notificación de incendio.<br><br><br></p>|
+
+<center> Patente 3 </center> 
+<p align="justify">**ES 2 301 082 T3** - Procedimiento de vigilancia de territorios para la detección de incendios forestales y de superficie.<br>
+**FECHA DE PRESENTACIÓN: 16/06/200**
+**Inventor(es):** Mi Zhang, Biyi FANG, Taiwoo Park.<br></p>
+<p align="center">
+Figura 03:
+<p align="center"><img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E02Imagen03.jpg" width="550" style="margin: auto;"></p></p><p align="justify">
+ 
+Procedimiento de vigilancia de territorios para la detección de incendios forestales y de superficie, basado en un primer complejo de dispositivos que está situado en como mínimo un lugar de vigilancia y que incluye una cámara, que está dispuesta de forma giratoria e inclinable en un emplazamiento elevado, siendo la amplitud de giro horizontal de como mínimo 360 grados, y una unidad de control y evaluación conectada con ésta, que dispone de un software de procesamiento de imágenes para la detección de humo y/o fuego en las imágenes suministradas por la cámara, y un software de control, sistemas de memoria para eventos e imágenes y una interfaz de conexión con un dispositivo de transmisión; y también un segundo complejo de dispositivos que está situado en una central dotada de personal, que incluye una unidad de procesamiento que dispone de un puesto de operación, visualización y vigilancia, un software de control, sistemas de memoria para eventos e imágenes, dispositivos para la mezcla y salida de imágenes como mínimo en un monitor, y como mínimo dos interfaces para dispositivos de transmisión; y un primer dispositivo de transmisión bidireccional para ficheros de imágenes, datos y servicio de voz, que conecta entre sí el primer y el segundo complejos; y también un segundo dispositivo de transmisión bidireccional para datos y servicio de voz, que conecta el segundo complejo con grupos de intervención dotados de personal.<br><br><br></p>|
 
 # ***Productos***
 ## **Producto 01**: ***Cassette purificación y desinfección de aire y superficies con filtro HEPA***
