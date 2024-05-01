@@ -35,7 +35,7 @@ Somos un grupo de estudiantes que buscan remediar a través de la combinación d
 |            NOMBRE            |            CORREO          |           ROL        |
 |------------------------------|----------------------------|----------------------|
 | Milena Nicol Yalli Espinoza  | milena.yali@upch.pe        | COORDINADORA GENERAL |
-| Greisy Jhoana Delgado        | greisy.delgado@upch.pe     | ENCARGADA DE DESARROLLO TECNOLÓGICOS Y PROTOTIPADO |
+| Greisy Jhoana Delgado Gaona  | greisy.delgado@upch.pe     | ENCARGADA DE DESARROLLO TECNOLÓGICOS Y PROTOTIPADO |
 | Marco Antoni Mendoza Canaza | marco.mendoza.canaza@upch.pe | CORDINADOR DE DISEÑO Y MODELADO 3D |
 | Angie Ysabel Nashely Rodriguez Rios | angie.rodriguez@upch.pe | COORDINADORA DE INVESTIGACIÓN Y PÁGINA WEB |
 | Slim Max Aspur Mendoza | slim.aspur@upch.pe | COORDINADOR DE MANUFACTURA DIGITAL |
@@ -46,11 +46,11 @@ Somos un grupo de estudiantes que buscan remediar a través de la combinación d
 
 <h2 id="Mision">Misión:</h2>
 
-Nos enfocamos en proteger el aire que respiramos, no solo para nosotros, sino también para las futuras generaciones. Recopilamos datos sobre la calidad del aire a nivel mundial, nacional y departamental, con enfoque en las PM 2,5. Utilizamos esta información para desarrollar filtros de limpieza amigables con el medio ambiente y tecnológicamente avanzados. Trabajamos para crear un mundo en el que cada respiración sea pura y saludable, donde todos puedan disfrutar de un aire limpio y fresco.
+Nuestro enfoque es proteger la flora y fauna de los incendios forestales, tanto para nuestra generación como para las futuras. Recopilamos datos a nivel mundial, nacional y local sobre el aumento de incendios forestales y sus impactos. Utilizaremos esta información para desarrollar un sistema de detección temprana de incendios en nuestro país. Nuestro objetivo es promover la conservación de la naturaleza, vital para todas las formas de vida.
 
 <h2 id="vision">Visión</h2>
 
-Imaginamos un futuro en el cual el aire que respiramos sea considerado como un tesoro invaluable y no como una preocupación constante. Utilizando la ciencia y la innovación, nos posicionamos como líderes en la lucha contra la contaminación del aire para encontrar soluciones efectivas y accesibles. Imaginamos un mundo en el que nuestras tecnologías se adopten ampliamente, creando comunidades más saludables y sostenibles en todo el mundo. Queremos dejar una herencia de aire limpio y puro para las generaciones venideras, permitiéndoles florecer y prosperar en un entorno más seguro y limpio.
+Visualizamos un futuro en el que la preservación de la naturaleza sea un valor fundamental y no una preocupación constante. Con el respaldo de la ciencia y la innovación, lideramos la lucha contra los incendios forestales para desarrollar soluciones preventivas efectivas y accesibles. Imaginamos un mundo donde la tecnología nos alerte eficientemente sobre los incendios forestales, mejorando nuestra capacidad de respuesta. Nuestro objetivo es dejar un legado de cuidado y protección de la naturaleza para asegurar un futuro próspero y seguro.
 
 <h2 id="impulsa">¿Qué es lo que nos impulsa?</h2>
 
