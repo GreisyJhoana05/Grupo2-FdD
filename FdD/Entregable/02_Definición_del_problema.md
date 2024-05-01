@@ -3,7 +3,7 @@
  <h1 align="center">Definición Del Problema</h1>
 </p>
 
-**¿Qué es un incendio forstal?**
+**¿Qué es un incendio forestal?**
 
 Un incendio forestal es un tipo de fuego que puede surgir de diversas fuentes y que representa un riesgo significativo para las personas, la propiedad y el entorno natural. Estos incendios se caracterizan por su capacidad de propagarse sin control en áreas rurales, a través de una variedad de vegetación que puede ser tanto viva como muerta, incluyendo árboles, arbustos y hierbas. En resumen, un incendio forestal abarca cualquier fuego que afecte bosques, matorrales y pastizales, con consecuencias potencialmente devastadoras.
 
