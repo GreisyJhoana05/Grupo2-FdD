@@ -4,14 +4,15 @@
 </p>
 
 <p align="justify">
-  ¡Bienvenidos al repositorio del Grupo 2! Estamos felices de compartir con ustedes el producto de nuestro gran compromiso y dedicación en este proyecto. Este repositorio es el paso a paso de como en conjunto nuestras ideas se han materializado en un fin. En este espacio <a href="FdD/README.md">"Fundamentos de Diseño"</a> (enlace a carpeta FdD), encontrarán una colección organizada y estructurada de todos los elementos que conforman nuestro proyecto.
+  ¡Bienvenidos al repositorio del Grupo 2! Estamos felices de compartir con ustedes el producto de nuestro gran compromiso y dedicación en este proyecto. Este repositorio es el paso a paso de cómo en conjunto nuestras ideas se han materializado en un fin. En este espacio "Fundamentos de Diseño" (enlace a carpeta FdD), encontrarán una colección organizada y estructurada de todos los elementos que conforman nuestro proyecto.
 </p>
+Imagen 01: El cambio climático aumenta el riesgo de incendios forestales.
 <p align="center">
-  <img src="https://aap.org.pe/wp-content/uploads/2022/03/aire-1140x763.jpeg" width="750" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/ODS/E00Imagen01.jpg" width="750" style="margin: auto;">
+Fuente: ONU 2022.
 </p>
-<blockquote>
-  <p>Según el estudio World Air Quality Report 2023 de la firma privada IQAir, Perú tiene la calidad del aire más baja en América Latina. De esta manera, con 18.8 μg/m³, nuestra nación ocupa el puesto 51 entre 134 países. https://www.iqair.com/es/world-air-quality-report</p>
-</blockquote>
+Según el informe “Propagándose como un incendio forestal: la creciente amenaza de incendios paisajísticos extraordinarios” realizado por el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA) y GRID-Arendal, prevén que los incendios forestales podrían aumentar tanto en frecuencia como en intensidad debido a cambios en el clima y en cómo usamos la tierra. Este informe proyecta un incremento global de hasta un 14% en incendios extremos para 2030, un 30% para el 2050 y hasta un 50% para finales de siglo.
+El vínculo entre los incendios forestales y el cambio climático es estrecho. Por un lado, el cambio climático propicia condiciones que alimentan los incendios forestales, como sequías, altas temperaturas, baja humedad, relámpagos y vientos fuertes, prolongando y exacerbando las temporadas de incendios. Por otro lado, los incendios forestales agravan el cambio climático al destruir ecosistemas ricos en carbono, como turberas y bosques tropicales, convirtiendo los paisajes en fuentes de combustión que dificultan la contención del calentamiento global.
 
 <h2>Tabla de contenidos:</h2>
 <ul>
@@ -25,8 +26,7 @@
 </ul>
 <h2 id="somos">¿Quiénes somos?</h2>
 <p align="justify">
-Somos un grupo de estudiantes que buscan remediar a través de la combinación de nuestros conocimientos y habilidades la contaminación generada por PM2.5. A continuación podrás observar una imagen del equipo y una tabla con el rol que cada uno cumple en este proyecto.
-</p>
+Somos un equipo de estudiantes universitarios apasionados por la protección del medio ambiente. Con diversas habilidades en ingeniería y ciencias ambientales, estamos comprometidos en desarrollar un sistema de alerta temprana de incendios forestales. Creemos en el poder de la tecnología para abordar este desafío y estamos listos para convertir nuestra idea en una realidad.</p>
 
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Imagenes_de_Nosotros/E01Imagen06.jpg">
@@ -54,27 +54,37 @@ Visualizamos un futuro en el que la preservación de la naturaleza sea un valor 
 
 <h2 id="impulsa">¿Qué es lo que nos impulsa?</h2>
 
-<p>Nos sentimos motivados por el deseo de generar un impacto positivo en nuestro ambiente y en la vida de las personas, promoviendo el cambio hacia un futuro más limpio y sostenible para todos.Creemos firmemente que cada pequeña acción es importante y puede marcar la diferencia en la lucha contra la contaminación del aire, lo cual nos motiva.  
+<p>Creemos en el poder de las acciones individuales y colectivas para mitigar el riesgo de incendios, preservar la biodiversidad y garantizar la seguridad de nuestras comunidades. Nos impulsa el deseo de salvaguardar nuestros bosques y hábitats naturales para las generaciones futuras, y creemos que cada paso que damos en la prevención de incendios puede marcar una diferencia significativa en la salud de nuestro ambiente y la calidad de vida de las personas.
 </p>
 <p>Si desea conocer más información de la problemática que vamos a abordar haga click <a href="/FdD/Entregable/02_Definición_del_problema.md">aqui</p>
 
 <h2 id="ODS">¿Cúal es nuestro ODS?</h2>
 
-<img src="https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2018/07/S_SDG-goals_icons-individual-rgb-11.png" alt ="ODS_13">
-<p>Nuestro Objetivo de Desarrollo Sostenible (ODS) principal es el número 11: Nos centramos en este ODS, "Ciudades y comunidades sostenibles", porque creemos que la calidad del aire es fundamental para la creación de entornos urbanos saludables y habitables. Además, nuestra iniciativa también contribuye indirectamente a otros ODS relacionados con la salud, el medio ambiente y la innovación tecnológica.</p>
+<img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/ODS/E00Imagen02.jpg" alt ="ODS_13">
+<p>Nuestro principal Objetivo de Desarrollo Sostenible (ODS) es el número 15: Vida de Ecosistemas Terrestres. Nos enfocamos en este ODS porque creemos firmemente en la importancia de prevenir los incendios forestales y proteger la biodiversidad de nuestros ecosistemas naturales. Reconocemos que la preservación de nuestros bosques y la prevención de incendios son fundamentales para garantizar la salud de nuestros ecosistemas terrestres y la sostenibilidad de nuestras comunidades. 
+Además, nuestra iniciativa también tiene un impacto positivo en otros ODS relacionados con la salud, el medio ambiente y la gestión sostenible de los recursos naturales.
+</p>
 
 <h2 id="haremos">¿Qué haremos?</h2>
 
 <h3>Objetivo general:</h3>
-<p>Desarrollar e implementar un filtro de limpieza eco amigable y tecnológico para reducir la concentración de PM2.5 en el aire a nivel mundial, nacional y departamental, contribuyendo así a mejorar la calidad del aire y promover entornos más saludables y sostenibles.</p>
+<p>Buscamos desarrollar e implementar un sistema de alerta temprana para la detección de incendios forestales, nuestro objetivo es reducir el tiempo de respuesta para la mitigación de esta problemática y en adición, minimizar los daños a la vida humana, propiedad y medio ambiente.</p>
 
 <h3>Objetivos específicos:</h3>
 <ul>
-<li>Recopilación detallada de datos sobre la calidad del aire a nivel mundial, nacional y departamental enfocándonos en la PM2.5.</li>
-<li>Análisis de los datos recopilados para identificar las áreas con mayor concentración de PM2.5 en y creación de diagramas para la mayor comprensión de la magnitud del problema.</li>
-<li>Investigación y desarrollo de un filtro de limpieza innovador y tecnológicamente avanzado, que sea capaz de capturar y eliminar eficientemente las partículas de PM2.5 del aire.</li>
-<li>Uso de software de modelado 3D para diseñar el aparato o dispositivo que ayudará a abordar el problema identificado. Asegurando considerar las especificaciones técnicas, la funcionalidad y la estética del diseño.</li>
-<li>Ensamblaje de las partes impresas en 3D junto con otros componentes necesarios para construir el aparato completo. Esto puede incluir la instalación de sensores, dispositivos electrónicos, filtros u otros elementos según el diseño del dispositivo.</li>
+<li>Para lograr el objetivo general, se llevarán a cabo las siguientes acciones:
+
+*Recopilación de data acerca de los incendios forestales a nivel mundial, regional y  nacional.
+* Analizar la data recopilada para proceder con la identificación de las áreas con más concentraciones y crear los diagramas para mejor comprensión de la problemática.
+* Iniciar con la investigación sobre la tecnología para la detección temprana de incendios forestales, capaz de identificar variaciones de temperatura significativas que puedan indicar presencia de fuego 
+* Diseñar un dispositivo de detección de incendios con sensores de temperatura, humedad y detección de gases, y sistema de energía renovable.
+*Uso de software de modelado 3D para diseñar el aparato o dispositivo que ayudará a abordar el problema identificado. Asegurando considerar las especificaciones técnicas, la funcionalidad y la estética del diseño.
+* Ensamblaje de las partes impresas en 3D junto con otros componentes necesarios para construir el aparato completo. Esto incluye la instalación de sensores, dispositivos electrónicos u otros elementos según el diseño del dispositivo.
+* Desarrollar un software de procesamiento de datos que analice datos de sensores en tiempo real para detectar incendios.
+Implementar sistema de notificación automática para enviar alertas a usuarios por aplicación móvil.
+* Realizar pruebas de campo y simulaciones para evaluar el rendimiento del sistema en diversas condiciones climáticas y topográficas, ajustando los parámetros y mejorando el funcionamiento o eficacia del sistema.
+Capacitar a los usuarios sobre instalación, operación y respuesta ante alertas del sistema a autoridades y comunidades.
+</li>
 <li>Realizar pruebas del aparato construido para asegurar de que funcione según lo previsto y finalmente hacer los ajustes necesarios en el diseño o la construcción según los resultados de las pruebas.</li>
 </ul>
 
