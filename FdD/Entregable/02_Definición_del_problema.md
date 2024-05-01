@@ -3,137 +3,71 @@
  <h1 align="center">Definición Del Problema</h1>
 </p>
 
-**¿Qué son las PM2,5?**
+**¿Qué es un incendio forstal?**
 
-Las PM2,5 (partículas suspendidas en el aire con un tamaño igual o menor a 2.5 micrómetros) son el principal indicador de calidad de los 6 contaminantes que mide el ICA (índice de calidad del aire).
-Los contaminantes que son medidos por el ICA son:
-- Material particulado con un diámetro menor a 10 micras (PM10).
+Un incendio forestal es un tipo de fuego que puede surgir de diversas fuentes y que representa un riesgo significativo para las personas, la propiedad y el entorno natural. Estos incendios se caracterizan por su capacidad de propagarse sin control en áreas rurales, a través de una variedad de vegetación que puede ser tanto viva como muerta, incluyendo árboles, arbustos y hierbas. En resumen, un incendio forestal abarca cualquier fuego que afecte bosques, matorrales y pastizales, con consecuencias potencialmente devastadoras.
 
-- Material particulado con un diámetro menor a 2.5 micras (PM2.5).
 
-- Monóxido de carbono (CO).
-
-- Dióxido de azufre (SO2).
-
-- Dióxido de nitrógeno (NO2).
-
-- Ozono (O3).
-
-Estas partículas pueden originarse por una variedad de fuentes, ya sean de origen natural (tormentas de polvo, incendios forestales, tormentas de arena, etc.) o antropogénico (motores de combustión, procesos industriales, generación de energía, quema de carbón y madera, actividades agrícolas y construcción), son una preocupación significativa por su importante impacto en la salud humana debido a su capacidad para penetrar profundamente en los pulmones y provocar varios problemas respiratorios y cardiovasculares.
-
--Para ver la cantidad actual de PM2,5 en el mundo ingresa al siguiente enlace: https://www.iqair.com/es/air-quality-map
-
-- **Problemática:** Mayor susceptibilidad a problemas de salud como resultado del aumento de la concentración de PM2.5 en el parque cívico cultural Ceres de Ate
-
-- **Ubicación de estudio:** Parque cívico cultural Ceres de Ate
-
-- **Departamento:** Lima
-
-- **Provincia:** Lima
-
-- **Distrito:** Ate
-
-  Costo anual de los daños a la salud causados por la exposición a PM2,5 , como porcentaje del PIB por grupo de ingresos, 2019
-  
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen01.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen01.jpg" width="600" style="margin: auto;">
 </p>
 
-Nota: EAP = Asia Oriental y el Pacífico; ECA = Europa y Asia Central; ALC = América Latina y
-Caribe; MNA = Oriente Medio y Norte de África, NA = América del Norte; Sudáfrica = Sur de Asia;
-SSA = África subsahariana. Las cifras pueden no coincidir debido al redondeo.
+Sabías que el 98% de los incendios forestales se originan por la falta de control en las quemas agrícolas. Esto suele ocurrir en períodos de sequía prolongada, cuando los vientos son más fuertes y la vegetación está seca, fenómenos que son cada vez más comunes debido al cambio climático, como el fenómeno del Niño global.
 
-Fuente: The Global Health Cost of PM2.5 Air Pollution 
+Además algunas de las consecuencias de los incendios forestales son:
+La alteración de la estructura de los bosques y la biodiversidad, así como el hábitat de la flora y fauna. Según SERFOR estos incendios pueden resultar en la muerte o daño de muchos animales, como primates, perezosos, pecaríes, venados, loros, tucanes, serpientes y lagartijas, entre otros.
+En términos económicos, los incendios forestales provocan daños al paisaje y al patrimonio cultural, lo que resulta en una disminución del turismo y en costosas reparaciones. Además, la pérdida de madera afecta negativamente la economía local.
+En términos de salud humana los incendios forestales también contribuyen al cambio climático al aumentar las emisiones de dióxido de carbono (CO2) y reducir el oxígeno (O2). El humo generado durante y después del incendio puede desencadenar respuestas inflamatorias en el cuerpo, lo que a su vez puede afectar la salud cardiovascular.
 
-Del costo total estimado para la salud mundial por la contaminación del aire por PM2,5 , alrededor del 85 por ciento se debe a la mortalidad prematura y el 15 por ciento a la morbilidad. 
+<p align="center">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen02.jpg" width="600" style="margin: auto;">
+</p>
 
+En base a los estudios recientes a nivel nacional se obtiene mayor número de incendios reportados en Cusco y en contraste con el plan de contingencia para incendios forestales de la DDC Cusco la provincia de “La Convención” en el rango de años del 2017 al 2022 es la provincia con mayor ocurrencia de incendios forestales en la región de Cusco. Por ende se plantea como problemática: Aumento de enfermedades cardiovasculares y pérdida de biodiversidad de ecosistemas naturales del Cusco en la provincia de La Convención a causa de los incendios forestales
+
+<p align="center">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen03.jpg" width="600" style="margin: auto;">
+</p>
 
 # Contexto social y Económico  
 ## 1. Impacto social 
 ### 1.1 **A Nivel Mundial**
 <p align="justify">
-Cada vez que inhalamos, aspiramos diminutas partículas que pueden causar daños a nuestros pulmones, corazón y cerebro, así como ocasionar una variedad de diversos problemas de salud. Las más perjudiciales de estas partículas, que pueden abarcar desde hollín y polvo del suelo hasta sulfatos, son las partículas finas con un diámetro de 2,5 micrómetros o menos, conocidas como PM2.5 (UNEP, 2021).
-La exposición a estas partículas se ha vinculado directamente con problemas de salud, contribuyendo a un elevado número de muertes prematuras y afectando a la salud cardiovascular y respiratoria (Patel et al, 2021).
-
-Tabla 01. Marco de visualización del Informe Mundial sobre la Calidad del Aire 2023
-
- |           Código             |            Puntos de cortes anuales de PM2.5 según la OMS 
- directriz anual de PM2.5 y objetivos provisionales            |            PM2.5          |           Color        |           Niveles de la OMS        |
  
-|------------------------------|------------------------------|----------------------------|----------------------|----------------------|
+Los incendios forestales contribuyen a muchos desastres naturales lo cual afecta a la humanidad de muchas maneras catastróficas en  la cual esta contribuye: cambio climático, calidad  de aire, biodiversidad y ecosistemas, Efecto invernadero.
 
-|  <span style="color:#0000FF;">#0000FF</span> | Cumple con la directriz PM2.5 de la OMS  |      0-5 (µg/m³)    | Azul |      Directriz de la calidad de aire    |
+El avance del cambio climático que va  incrementará en todo el mundo aumentará el riesgo de los incendios forestales devastadores en  las próximas décadas por venir, advierte un estudio divulgado por el programa de las Naciones Unidas para el medio ambiente (PUMA). según el informe de WWF España, aunque la calidad de incendios forestales ha disminuido, los que ocurren son más devastadores y difíciles de controlar, son conocidos como los “incendios de sexta generación”
 
-|        <span style="color:#008000;">#008000</span>  | Supera la directriz PM2.5 de la OMS entre 1 y 2 veces  |     5.1-10 (µg/m³)    | Verde |      Objetivo provisional 4    |
-
-|             <span style="color:#FFFF00;">#FFFF00</span>     | Supera la directriz PM2.5 de la OMS de 2 a 3 veces  |      10.1-15 (µg/m³)    | Amarillo |      Objetivo provisional 3    |
-
-|        <span style="color:#FFA500;">#FFA500</span>   | Supera la directriz PM2.5 de la OMS de 3 a 5 veces  |      15.1-25 (µg/m³)    | Naranja |      Objetivo provisional 2    |
-
-|    <span style="color:#FF0000;">#FF0000</span>     | Supera la directriz PM2.5 de la OMS entre 5 y 7 veces  |      25.1-35 (µg/m³)    | Rojo |      Objetivo provisional 1    |
-
-|   <span style="color:#800080 ;">#800080 </span>  | Supera la directriz PM2.5 de la OMS entre 7 y 10 veces  |      35.1-50 (µg/m³)    | Púrpura |      Supera los niveles objetivo    |
-
-|         <span style="color:#800000 ;">#800000 </span>    | Supera la directriz PM2.5 de la OMS en más de 10 veces  |      >50 (µg/m³)    | Granate |      Supera los niveles objetivo    |
-
-
-Fuente: World Air Quality Report, 2023.
-Mapa global de 2023 codificado por colores según la concentración media anual de PM2,5.
-
+Imagen04: Principales impactos y lugares causados por los incendios forestales en el último año.
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen03.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen04.jpg" width="600" style="margin: auto;">
+ Fuente: WWF España, informe de incendios forestales 2020. El planeta en llamas.
 </p>
-Fuente: World Air Quality Report, 2023.
-<p align="justify">
-Las partículas pequeñas que polucionan nuestra atmósfera se originan principalmente de actividades humanas, como la quema de combustibles fósiles para la producción de energía, el transporte, la incineración de desechos, las prácticas agrícolas (que liberan metano y amoníaco) y las operaciones en las industrias química y minera.
-La combustión de combustibles fósiles, en particular el carbón, la gasolina y el diésel, constituye una significativa fuente de partículas finas en la atmósfera (PM2.5) y es un elemento esencial que contribuye a la carga global de enfermedades y muertes (Vohra et al, 2021).
-Exceso estimado de muertes anuales debido a la exposición a PM2.5 ambiental generada por la quema de combustibles fósiles.
 
- <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen04.jpg" width="600" style="margin: auto;">
-</p>
 <p align="justify">
- Fuente: Environmental Research, 2021
-El informe de la UNEP sobre acciones para mejorar la calidad del aire ofrece un análisis exhaustivo de las políticas implementadas por gobiernos de todo el mundo con el objetivo de mejorar la calidad del aire. 
-Esta evaluación abarca diversas áreas clave que contribuyen a la contaminación del aire, como las emisiones industriales (mediante incentivos para una producción más limpia), el transporte (mediante estándares de calidad de combustible y emisiones vehiculares), la gestión de residuos sólidos (a través de regulaciones sobre la quema de residuos a cielo abierto), la contaminación del aire doméstico (mediante incentivos para el uso de energías limpias en cocinas y calefacción residencial) y la agricultura (a través de prácticas agrícolas sostenibles). 
+Los incendios forestales contribuyen al cambio climático al liberar grandes cantidades de dióxido de carbono (CO2) a la atmósfera. En la calidad del aire los incendios están empeorando la calidad del aire que se respira y esto puede provocar efectos perjudiciales para la salud humana, los incendios forestales presentan partículas finas y gases nocivos que se liberan durante este proceso. La biodiversidad y ecosistemas es uno de los otros factores preocupantes ya que estos son devastadores destruyendo los hábitats la cual pueden llevar a la extinción de algunas especies.
 
 ### 1.2 **A Nivel Regional**
 <p align="justify">
-De acuerdo con la clasificación regional a nivel de Sudamérica es nuestra nación quien ocupa el primer lugar con una concentración por PM2,5 media anual para el año 2023 de 18,8 μg/m³ que es 3,8 veces el valor de guía anual de calidad del aire de la OMS.<
+Las temperaturas excepcionalmente altas, la baja humedad del aire y la sequía severa provocaron períodos de incendios forestales sin precedentes en muchos países de América del Sur. En enero y febrero, la Argentina y el Paraguay registraron un aumento del 283% y el 258%, respectivamente.Los incendios forestales en Sudamérica este año están afectando de manera extensiva. Las llamas están quemando gran parte del Pantanal , un ejemplo es el humedal más grande del mundo, el cual está ubicado en Brasil, Bolivia y Paraguay.
 
+Imagen04: Icendios forestales en América Latina: Estos son algunos de los puntos más afectados.
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen05.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen05.jpg" width="600" style="margin: auto;">
+ Fuente: FIRMS (Información de incendios para el sistema de gestión de recursos), 28/04/2024.
 </p>
 
-Mapa de contaminación del aire por PM2,5 en Sudamérica
-Fuente: IQAir 2023
-PERÚ
-En el país de Perú con concentración media de PM2,5 en 2023 en Perú 3.4 veces el valor guía anual de calidad del aire de la OMS con un valor de 17µg/m³.
+Los incendios forestales son representados como desastres naturales actuales con mayor repercusión en América Latina. Únicamente en Brasil se contabilizaron aproximadamente 189.900 brotes de incendios forestales a lo largo del 2023, Bolivia registró el segundo con más de 40.000 brotes(los brotes de incendios se refieren a una situación en la que se produce una pequeña llama que puede convertirse en un incendio mayor si no se controla adecuadamente).
 
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen06.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen06.jpg" width="600" style="margin: auto;">
 </p>
 
-Mapa de contaminación del aire por PM2,5 en tiempo real en Perú 
-Fuente: IQAir 2023
-CHILE
-En el país de Chile con concentración media de PM2,5 en 2023 en Chile 3.7 veces el valor guía anual de calidad del aire de la OMS con un valor de 18,6 μg/m³.
 
 <p align="center">
  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen07.jpg" width="600" style="margin: auto;">
+Fuente: Statista, América del sur 2023.
  
-Mapa de contaminación del aire por PM2,5 en tiempo real en Chile
-Fuente: IQAir 2023
-De dicho país es la ciudad de Temuco de la región de la Araucanía con una concentración media de PM2,5 de 44 μg/m³ que es 8.8 veces superior a la guía anual de la calidad del aire de la OMS.
-COLOMBIA
-Es el país de Chile con concentración media de PM2,5 en 2023 en Chile 2,8 veces el valor guía anual de calidad del aire de la OMS con un valor de 14,1 μg/m³.
-Mapa de contaminación del aire por PM2,5 en tiempo real en Colombia
-
-<p align="center">
- <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen08.jpg" width="600" style="margin: auto;">
- 
-Fuente: IQAir 2023
-De dicho país es la ciudad de Bogotá con una concentración media de PM2,5 de 21,3 μg/m³ que es 4,3 veces superior a la guía anual de la calidad del aire de la OMS.
 ### 1.3 **A NIVEL NACIONAL:**
 Según el último reporte de IQAir 2023, Lima es la ciudad más contaminada del Perú y además uno de los seis contaminantes medidos por el ICA que impacta más para el resultado son las PM2,5 con una concentración 17,1 μg/m³.
 Gráfica comparativa de los ICA en Lima 
