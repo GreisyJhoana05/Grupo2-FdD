@@ -36,7 +36,7 @@ El artículo científico publicado en la revista "Aerosol Science and Technology
 
 ## **Patentes de Invención**
 
-<center> Patente 1 </center> 
+**Patente 1**
 
 <p align="justify"> **US 11.835.676 B2 ** - Sistema de detección de incendios de alerta temprana basados en un enfoque multivariable.<br>** 
 Presentado: 05/05/2019<br>
@@ -48,9 +48,9 @@ Figura01:
 
 <p align="center"><img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E02Imagen01.jpg" width="550" style="margin: auto;"></p></p><p align="justify">
  
-Un sistema automatizado de detección de incendios incluye una red distribuidora de unidades de sensores independientes que tienen capacidad multifuncional para detectar incendios forestales en su etapa más temprana. Se emplean múltiples modos de verificación, incluyendo imágenes térmicas, análisis espectral, mediciones de infrarrojo cercano e infrarrojo de onda larga, mediciones de la presencia o concentración del humo, detección de temperatura, humedad locales, velocidad y dirección del viento. Un algoritmo dedicado recibe todos los datos de la red y determina la ubicación de las llamas a partir de los sensores de imágenes, combinados con las mediciones de humo, temperatura, humedad y viento en cada dispositivo disperso.<br><br><br></p>|
+Un sistema automatizado de detección de incendios incluye una red distribuidora de unidades de sensores independientes que tienen capacidad multifuncional para detectar incendios forestales en su etapa más temprana. Se emplean múltiples modos de verificación, incluyendo imágenes térmicas, análisis espectral, mediciones de infrarrojo cercano e infrarrojo de onda larga, mediciones de la presencia o concentración del humo, detección de temperatura, humedad locales, velocidad y dirección del viento. Un algoritmo dedicado recibe todos los datos de la red y determina la ubicación de las llamas a partir de los sensores de imágenes, combinados con las mediciones de humo, temperatura, humedad y viento en cada dispositivo disperso.
 
- <center> Patente 2 </center> 
+ **Patente 2** 
  <p align="justify">
 **US 7,256,401 B2 ** -Sistema y método de detección de incendios.<br>**
 **Fecha de Presentación:23/07/2004**<br> 
@@ -59,9 +59,9 @@ Un sistema automatizado de detección de incendios incluye una red distribuidora
 <p align="center">
 Figura 02:
 <p align="center"><img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E02Imagen02.jpg" width="550" style="margin: auto;"></p></p><p align="justify">
-Un sistema y método para detectar radiación indicativa de incendio, como por ejemplo un incendio forestal. En una realización se determina un nivel umbral de energía basándose en las condiciones ambientales del sensor. Se puede configurar una unidad de sensor para escanear una área predeterminada en busca de radiación electromagnética. Cualquier radiación electromagnética detectada puede luego filtrarse en paso de banda a un rango de longitud de onda centrado alrededor de una frecuencia predeterminada asociada con la presencia de fuego. La señal del nivel de energía resultante puede entonces filtrarse adicionalmente para dejar pasar sólo aquellas señales que exhiben una frecuencia de "parpadeo". Si la señal filtrada resultante excede la señal umbral, entonces se puede generar una señal de notificación de incendio.<br><br><br></p>|
-
-<center> Patente 3 </center> 
+Un sistema y método para detectar radiación indicativa de incendio, como por ejemplo un incendio forestal. En una realización se determina un nivel umbral de energía basándose en las condiciones ambientales del sensor. Se puede configurar una unidad de sensor para escanear una área predeterminada en busca de radiación electromagnética. Cualquier radiación electromagnética detectada puede luego filtrarse en paso de banda a un rango de longitud de onda centrado alrededor de una frecuencia predeterminada asociada con la presencia de fuego. La señal del nivel de energía resultante puede entonces filtrarse adicionalmente para dejar pasar sólo aquellas señales que exhiben una frecuencia de "parpadeo". Si la señal filtrada resultante excede la señal umbral, entonces se puede generar una señal de notificación de incendio.<br>
+ 
+ **Patente 3**
 <p align="justify">**ES 2 301 082 T3** - Procedimiento de vigilancia de territorios para la detección de incendios forestales y de superficie.<br>
 **FECHA DE PRESENTACIÓN: 16/06/200**
 **Inventor(es):** Mi Zhang, Biyi FANG, Taiwoo Park.<br></p>
