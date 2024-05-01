@@ -74,7 +74,7 @@ Además, nuestra iniciativa también tiene un impacto positivo en otros ODS rela
 <ul>
 <li>Para lograr el objetivo general, se llevarán a cabo las siguientes acciones:
 
-*Recopilación de data acerca de los incendios forestales a nivel mundial, regional y  nacional.
+* Recopilación de data acerca de los incendios forestales a nivel mundial, regional y  nacional.
 * Analizar la data recopilada para proceder con la identificación de las áreas con más concentraciones y crear los diagramas para mejor comprensión de la problemática.
 * Iniciar con la investigación sobre la tecnología para la detección temprana de incendios forestales, capaz de identificar variaciones de temperatura significativas que puedan indicar presencia de fuego 
 * Diseñar un dispositivo de detección de incendios con sensores de temperatura, humedad y detección de gases, y sistema de energía renovable.
@@ -84,9 +84,6 @@ Además, nuestra iniciativa también tiene un impacto positivo en otros ODS rela
 Implementar sistema de notificación automática para enviar alertas a usuarios por aplicación móvil.
 * Realizar pruebas de campo y simulaciones para evaluar el rendimiento del sistema en diversas condiciones climáticas y topográficas, ajustando los parámetros y mejorando el funcionamiento o eficacia del sistema.
 Capacitar a los usuarios sobre instalación, operación y respuesta ante alertas del sistema a autoridades y comunidades.
-</li>
-<li>Realizar pruebas del aparato construido para asegurar de que funcione según lo previsto y finalmente hacer los ajustes necesarios en el diseño o la construcción según los resultados de las pruebas.</li>
-</ul>
 
 ## Referencias bibliográficas 
 
