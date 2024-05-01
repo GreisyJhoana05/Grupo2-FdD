@@ -41,6 +41,7 @@ El avance del cambio climático que va  incrementará en todo el mundo aumentar�
 Imagen04: Principales impactos y lugares causados por los incendios forestales en el último año.
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen04.jpg" width="600" style="margin: auto;">
+ <p align="center">
  Fuente: WWF España, informe de incendios forestales 2020. El planeta en llamas.
 </p>
 
@@ -54,18 +55,15 @@ Las temperaturas excepcionalmente altas, la baja humedad del aire y la sequía s
 Imagen04: Icendios forestales en América Latina: Estos son algunos de los puntos más afectados.
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen05.jpg" width="600" style="margin: auto;">
+ <p align="center">
  Fuente: FIRMS (Información de incendios para el sistema de gestión de recursos), 28/04/2024.
 </p>
 
 Los incendios forestales son representados como desastres naturales actuales con mayor repercusión en América Latina. Únicamente en Brasil se contabilizaron aproximadamente 189.900 brotes de incendios forestales a lo largo del 2023, Bolivia registró el segundo con más de 40.000 brotes(los brotes de incendios se refieren a una situación en la que se produce una pequeña llama que puede convertirse en un incendio mayor si no se controla adecuadamente).
 
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen06.jpg" width="600" style="margin: auto;">
-</p>
-
-
+ <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen06.jpg" width="600" style="margin: auto;">
 <p align="center">
- <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen07.jpg" width="600" style="margin: auto;">
 Fuente: Statista, América del sur 2023.
  
 ### 1.3 **A NIVEL NACIONAL:**
