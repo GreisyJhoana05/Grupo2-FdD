@@ -37,8 +37,7 @@ El artículo científico publicado en la revista "Aerosol Science and Technology
 ## **Patentes de Invención**
 
 **Patente 1**
-
-<p align="justify"> **US 11.835.676 B2 ** - Sistema de detección de incendios de alerta temprana basados en un enfoque multivariable.<br>** 
+**US 11.835.676 B2 ** - Sistema de detección de incendios de alerta temprana basados en un enfoque multivariable.<br>** 
 Presentado: 05/05/2019<br>
 Fecha de Publicación:05/11/2020<br> 
 **Inventor(es):** Vasily Antonovich Tremsin, Lafayette,(EEUU)<br></p>
@@ -51,10 +50,9 @@ Figura01:
 Un sistema automatizado de detección de incendios incluye una red distribuidora de unidades de sensores independientes que tienen capacidad multifuncional para detectar incendios forestales en su etapa más temprana. Se emplean múltiples modos de verificación, incluyendo imágenes térmicas, análisis espectral, mediciones de infrarrojo cercano e infrarrojo de onda larga, mediciones de la presencia o concentración del humo, detección de temperatura, humedad locales, velocidad y dirección del viento. Un algoritmo dedicado recibe todos los datos de la red y determina la ubicación de las llamas a partir de los sensores de imágenes, combinados con las mediciones de humo, temperatura, humedad y viento en cada dispositivo disperso.
 
  **Patente 2** 
- <p align="justify">
 **US 7,256,401 B2 ** -Sistema y método de detección de incendios.<br>**
-**Fecha de Presentación:23/07/2004**<br> 
-**Fecha de Publicación:06/01/2005**<br>
+Fecha de Presentación:23/07/2004<br> 
+Fecha de Publicación:06/01/2005<br>
 **Inventor(es):** William R. Garmer, San Diego; Jonathan M. Luck, El Cajon; (EEUU)<br></p>
 <p align="center">
 Figura 02:
@@ -62,8 +60,8 @@ Figura 02:
 Un sistema y método para detectar radiación indicativa de incendio, como por ejemplo un incendio forestal. En una realización se determina un nivel umbral de energía basándose en las condiciones ambientales del sensor. Se puede configurar una unidad de sensor para escanear una área predeterminada en busca de radiación electromagnética. Cualquier radiación electromagnética detectada puede luego filtrarse en paso de banda a un rango de longitud de onda centrado alrededor de una frecuencia predeterminada asociada con la presencia de fuego. La señal del nivel de energía resultante puede entonces filtrarse adicionalmente para dejar pasar sólo aquellas señales que exhiben una frecuencia de "parpadeo". Si la señal filtrada resultante excede la señal umbral, entonces se puede generar una señal de notificación de incendio.<br>
  
  **Patente 3**
-<p align="justify">**ES 2 301 082 T3** - Procedimiento de vigilancia de territorios para la detección de incendios forestales y de superficie.<br>
-**FECHA DE PRESENTACIÓN: 16/06/200**
+**ES 2 301 082 T3** - Procedimiento de vigilancia de territorios para la detección de incendios forestales y de superficie.<br>
+FECHA DE PRESENTACIÓN: 16/06/200
 **Inventor(es):** Mi Zhang, Biyi FANG, Taiwoo Park.<br></p>
 <p align="center">
 Figura 03:
