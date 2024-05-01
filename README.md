@@ -90,8 +90,9 @@ Capacitar a los usuarios sobre instalación, operación y respuesta ante alertas
 
 ## Referencias bibliográficas 
 
-1. (S/f). Iqair.com. Recuperado el 6 de abril de 2024, de https://www.iqair.com/dl/2023_World_Air_Quality_Report.pdf?utm_source=pdf&utm_medium=download&utm_campaign=waqr23&utm_id=waqr23&utm_term=ft#msdynmkt_trackingcontext=7da1f782-67b2-41bd-9ceb-3cb1606275be
+1. Chen, H., Samet, J.M., Bromberg, P.A. et al. Cardiovascular health impacts of wildfire smoke exposure. Part Fibre Toxicol 18, 2 (2021). https://doi.org/10.1186/s12989-020-00394-8
 
+2.GRID-Arendal. (2022, 23 de febrero). [Informe sobre incendios forestales]. Recuperado de https://gridarendal-website-live.s3.amazonaws.com/production/documents/:s_document/894/original/ESP_Wildfires_report_Press_Release_14022022.pdf?1645602631
 
 
 
