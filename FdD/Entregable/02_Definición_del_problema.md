@@ -31,7 +31,7 @@ En base a los estudios recientes a nivel nacional se obtiene mayor número de in
 
 # Contexto social y Económico  
 ## 1. Impacto social 
-### 1.1 **A Nivel Mundial**
+### 1.1 ***A Nivel Mundial***
 <p align="justify">
  
 Los incendios forestales contribuyen a muchos desastres naturales lo cual afecta a la humanidad de muchas maneras catastróficas en  la cual esta contribuye: cambio climático, calidad  de aire, biodiversidad y ecosistemas, Efecto invernadero.
@@ -48,7 +48,7 @@ Imagen04: Principales impactos y lugares causados por los incendios forestales e
 <p align="justify">
 Los incendios forestales contribuyen al cambio climático al liberar grandes cantidades de dióxido de carbono (CO2) a la atmósfera. En la calidad del aire los incendios están empeorando la calidad del aire que se respira y esto puede provocar efectos perjudiciales para la salud humana, los incendios forestales presentan partículas finas y gases nocivos que se liberan durante este proceso. La biodiversidad y ecosistemas es uno de los otros factores preocupantes ya que estos son devastadores destruyendo los hábitats la cual pueden llevar a la extinción de algunas especies.
 
-### 1.2 **A Nivel Regional**
+### 1.2 ***A Nivel Regional***
 <p align="justify">
 Las temperaturas excepcionalmente altas, la baja humedad del aire y la sequía severa provocaron períodos de incendios forestales sin precedentes en muchos países de América del Sur. En enero y febrero, la Argentina y el Paraguay registraron un aumento del 283% y el 258%, respectivamente.Los incendios forestales en Sudamérica este año están afectando de manera extensiva. Las llamas están quemando gran parte del Pantanal , un ejemplo es el humedal más grande del mundo, el cual está ubicado en Brasil, Bolivia y Paraguay.
 
@@ -66,49 +66,20 @@ Los incendios forestales son representados como desastres naturales actuales con
 <p align="center">
 Fuente: Statista, América del sur 2023.
  
-### 1.3 **A NIVEL NACIONAL:**
-Según el último reporte de IQAir 2023, Lima es la ciudad más contaminada del Perú y además uno de los seis contaminantes medidos por el ICA que impacta más para el resultado son las PM2,5 con una concentración 17,1 μg/m³.
-Gráfica comparativa de los ICA en Lima 
- 
- <p align="center">
- <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen09.jpg" width="600" style="margin: auto;">
-  
- La concentración de PM2,5 en Lima es actualmente 3.4 veces superior al valor guía anual de calidad del aire de la OMS. Fuente: IQAir 2023
-
-<p align="justify">
-El parque automovilístico antiguo, la alta concentración de actividades industriales en Lima, junto con factores climáticos y una legislación débil y un tanto precaria sobre la calidad del aire, causan los peores niveles de PM2.5 en el país. En el área de Lima Metropolitana, el comportamiento de los vientos es un factor decisivo a nivel natural, por lo que la contaminación se transporta hacia la parte alta de Lima Este gracias a estos vientos que suelen venir del mar, de manera que se entiende sería una de las zonas más contaminadas.
-</p>
-Tabla 02. Zonas, nombres y ubicación de las estaciones de monitoreo de la calidad del aire.
+### 1.3 ***A NIVEL NACIONAL:***
+Según los datos del Centro de Operaciones de Emergencia Nacional (COEN), se observa un aumento del 115,51% en los incendios forestales durante los últimos cinco años en Perú. En 2019, se registraron 664 incendios forestales, cifra que aumentó a 1.343 al año siguiente y luego descendió a 817 en 2021. Sin embargo, en 2021 volvió a incrementarse, alcanzando los 1.431 eventos. Solo en el período comprendido entre el 1 de enero y el 20 de octubre de 2023, según la misma fuente, se contabilizaron 1.161 incendios forestales. 
+<p align="center">
+ Gráfica 3: Consolidado anual de incendios forestales
+ <img src="" width="600" style="margin: auto;">
 
 <p align="center">
-<img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen10.jpg?raw=true" width="600" style="margin: auto;">
- 
-Fuente: BOLETÍN DE VIGILANCIA DE CALIDAD DEL AIRE 
- Área metropolitana de Lima y Callao - Mayo 2023
-Ubicación de las estaciones de monitoreo de la calidad del aire en el AMLC.
-
- <p align="center">
-<img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen11.jpg" width="600" style="margin: auto;">
-  
-Fuente: BOLETÍN DE VIGILANCIA DE CALIDAD DEL AIRE 
- Área metropolitana de Lima y Callao - Mayo 2023
-
-
 <p align="justify">
-En adición, el SENAMHI realiza la vigilancia de la calidad del aire en el Área Metropolitana de Lima y Callao (AMLC) - MAYO 2023, por lo que cuenta con una Red de Monitoreo Automático de la Calidad del Aire (REMCA), la función de la red es medir las concentraciones horarias de ciertos contaminantes entre ellos el PM 2.5. 
-Gracias a esta red de monitoreo se pueden hacer mediciones constantes para determinar la presencia de material particulado y sus concentraciones en el aire, pero también se determinó que en Lima Metropolitana hay grandes niveles de contaminación por PM 2.5 y la Ley N° 28611.
-“Ley General del Ambiente define al estándar de calidad ambiental (ECA) como "la medida que establece el nivel de concentración o del grado de elementos, sustancias o parámetros físicos, químicos y biológicos presentes en el aire, agua y suelo en su condición de cuerpo receptor, que no representa riesgo significativo para la salud de las personas ni al ambiente". Por lo tanto, para el caso de los contaminantes del aire, las concentraciones de cada uno de estos no deben superar su respectivo Estándar de Calidad Ambiental para Aire (ECA-aire) a fin de evitar problemas en la salud de las personas y el ambiente. Asimismo, los valores de los ECA-aire son establecidos por el Ministerio del Ambiente (MINAM) y estipulados en el D.S. N° 003-2017-MINAM.” (Ley N.° 28611, s. f.)
- Dentro de Lima podemos visualizar como en el mapa a continuación en el distrito de Ate la estación de Ceres registra la mayor contaminación por PM2,5 con una concentración 46.7µg/m³.
-
-
-
 </p>
-Mapa de contaminación del aire por PM2,5 en los distritos de Lima en tiempo real
-
 <p align="center">
-<img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen12.jpg" width="600" style="margin: auto;">
+<p align="center">
+<p align="justify">
+<p align="center">
 
- Fuente: IQAir 2023
 
 ## 2. Contexto Económico
 
