@@ -39,7 +39,7 @@ Los incendios forestales contribuyen a muchos desastres naturales lo cual afecta
 El avance del cambio climático que va  incrementará en todo el mundo aumentará el riesgo de los incendios forestales devastadores en  las próximas décadas por venir, advierte un estudio divulgado por el programa de las Naciones Unidas para el medio ambiente (PUMA). según el informe de WWF España, aunque la calidad de incendios forestales ha disminuido, los que ocurren son más devastadores y difíciles de controlar, son conocidos como los “incendios de sexta generación”
 
 <p align="center">
- Imagen04: Principales impactos y lugares causados por los incendios forestales en el último año.
+ Imagen03: Principales impactos y lugares causados por los incendios forestales en el último año.
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen04.jpg" width="600" style="margin: auto;">
  <p align="center">
@@ -54,7 +54,7 @@ Los incendios forestales contribuyen al cambio climático al liberar grandes can
 Las temperaturas excepcionalmente altas, la baja humedad del aire y la sequía severa provocaron períodos de incendios forestales sin precedentes en muchos países de América del Sur. En enero y febrero, la Argentina y el Paraguay registraron un aumento del 283% y el 258%, respectivamente.Los incendios forestales en Sudamérica este año están afectando de manera extensiva. Las llamas están quemando gran parte del Pantanal , un ejemplo es el humedal más grande del mundo, el cual está ubicado en Brasil, Bolivia y Paraguay.
 
 <p align="center">
- Imagen05: Icendios forestales en América Latina: Estos son algunos de los puntos más afectados.
+ Imagen04: Icendios forestales en América Latina: Estos son algunos de los puntos más afectados.
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen05.jpg" width="600" style="margin: auto;">
  <p align="center">
