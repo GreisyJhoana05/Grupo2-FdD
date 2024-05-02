@@ -177,19 +177,21 @@ Referencias bibliográficas:
 4. Gonzales Zúñiga Guzmán, L. A. (Director Ejecutivo). (octubre de 2023). Incendios forestales.Lima.https://www.congreso.gob.pe/Docs/comisiones2023/PueblosAndinos/files/sesiones/extraordinarias/04_se/expo_midagri_4ta_se_cpaaae_24_10_23.pdf
 
 5. Dirección Desconcentrada de Cultura de Cusco. (Noviembre de 2023). Plan de Contingencia para Incendios Forestales de la DDC Cusco 2023-2024. Cusco, Perú.https://www.culturacusco.gob.pe/wp-content/uploads/2017/07/PLAN-CONTINGENCIA-INCENDIOS-FORESTALES-2023-2024.pdf
-Hernandéz, L. (2020). WWF España. Obtenido de WWF España: https://www.wwf.es/?54921/Informe-incendios-forestales-2020-El-planeta-en-llamas
 
-6. Devadiga, S. (28 de 04 de 2024). Nasa. Obtenido de FIRMS(Información de incendios para el sistema de gestión de recursos): https://firms.modaps.eosdis.nasa.gov/map/#d:2024-04-27..2024-04-28,2024-04-27;l:fires_all,countries,landsat_human,protected_areas,earth;@-64.8,-20.7,3.7z
+6. Hernandéz, L. (2020). WWF España. Obtenido de WWF España: https://www.wwf.es/?54921/Informe-incendios-forestales-2020-El-planeta-en-llamas
 
-7. Statista Research Department. (2024 de 01 de 2024). Obtenido de Statista Research Department: https://es.statista.com/estadisticas/1268107/america-del-sur-numero-de-incendios-forestales/
-Vishnu, Chippagiri & Katti, Pareekshith. (2023). The Economic Impact of Wildfires: A Comprehensive Research Study. 10.13140/RG.2.2.15539.20001.
+7. Devadiga, S. (28 de 04 de 2024). Nasa. Obtenido de FIRMS(Información de incendios para el sistema de gestión de recursos): https://firms.modaps.eosdis.nasa.gov/map/#d:2024-04-27..2024-04-28,2024-04-27;l:fires_all,countries,landsat_human,protected_areas,earth;@-64.8,-20.7,3.7z
 
-8. Wang, D., Guan, D., Zhu, S. et al. (2021). Economic footprint of California wildfires in
+8. Statista Research Department. (2024 de 01 de 2024). Obtenido de Statista Research Department: https://es.statista.com/estadisticas/1268107/america-del-sur-numero-de-incendios-forestales/
+
+9. Vishnu, Chippagiri & Katti, Pareekshith. (2023). The Economic Impact of Wildfires: A Comprehensive Research Study. 10.13140/RG.2.2.15539.20001.
+
+10. Wang, D., Guan, D., Zhu, S. et al. (2021). Economic footprint of California wildfires in
 2018. Nat Sustain 4, 252–260.
 
-9. Biao, J. (2023). El aumento de los incendios descontrolados hace que la adopción de estrategias integradas para los bosques, el clima y la sostenibilidad sea más urgente que nunca. Naciones Unidas (ONU).
+11. Biao, J. (2023). El aumento de los incendios descontrolados hace que la adopción de estrategias integradas para los bosques, el clima y la sostenibilidad sea más urgente que nunca. Naciones Unidas (ONU).
 
-10. Slocum, Susan L. 2022. "Airbnb Host’s Perspectives on Climate Change: Wildfire Threats to Rural Tourism" Sustainability 14, no. 23: 15874. 
+12. Slocum, Susan L. 2022. "Airbnb Host’s Perspectives on Climate Change: Wildfire Threats to Rural Tourism" Sustainability 14, no. 23: 15874. 
 
 
 
