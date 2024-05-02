@@ -76,23 +76,14 @@ Mapa mental 1:
 
 # Estrategia de solución
 <p align="justify">
-Nuestra propuesta de solución tiene como objetivo el desarrollo de un dispositivo que contará con un sensor el cual será capaz de medir la concentración de PM 2.5 presente en el aire y recopilar la información que obtenga para almacenarla en un database. Adicionalmente tendrá un filtro High Efficiency Particulate Air (HEPA) que permita la remoción y purificación de partículas contaminantes encontradas en el aire, en nuestro caso las PM 2.5. El uso de este dispositivo estará dirigido para las personas que residan a los alrededores de la Plaza Cultural de Ceres en Ate, puesto que es el lugar con más presencia del contaminante en Lima Metropolitana.
+Nuestra propuesta de solución tiene como objetivo desarrollar y poner en funcionamiento un sistema de alerta temprana para la detección de incendios forestales, estará implementado con sensores que serán capaces de medir temperatura, humedad, concentración de humo para proporcionar contexto adicional a la detección de incendios.
 </p>
 <br>
 
 # Bibliografía
 
-- Chen, C. F., Hsu, C. H., Chang, Y. J., Lee, C. H., & Lee, D. L. (2022). Efficacy of HEPA air cleaner on improving indoor particulate matter 2.5 concentration. International Journal of Environmental Research and Public Health, 19(18), 11517.
+- 
 
-- Craig Morse, Ross Trzcinski (2020). High efficiency particulate air filtration system (U.S. Patent No. US 20200376424A1). ProMedica Health System , Inc. 
-
-- Hua, J., Zhang, Y., de Foy, B., Mei, X., Shang, J., Zhang, Y., … Zhou, D. (2021). Improved PM2.5 concentration estimates from low-cost sensors using calibration models categorized by relative humidity. Aerosol Science and Technology, 55(5), 600–613.
-  
-- Mi Zhang, Biyi FANG, Taiwoo Park (2021). Intelligent sensing system for indoor air quality analytics (U.S. Patent No. US10982869B2). Board of Trustees of Michigan State University. 
-
-- Ralph David Brown (2022). High - Efficiency particulate air filter assembly (U.S. Patent No. US20220233986A1). Vironaire Inc. U.S. 
-
-- Thangavel, P., Park, D., & Lee, Y. C. (2022). Recent insights into particulate matter (PM2. 5)-mediated toxicity in humans: an overview. International journal of environmental research and public health, 19(12), 7511.
 
 
 
