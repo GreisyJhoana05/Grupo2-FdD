@@ -158,7 +158,7 @@ El pronóstico de tendencia aditiva estimó un costo total de supresión de $4,3
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen14.jpg?raw=true">
 </p>
 
-Mayor susceptibilidad a problemas de salud como resultado del aumento de la concentración de PM2.5 en el parque cívico cultural Ceres de Ate
+Aumento de enfermedades cardiovasculares y pérdida de biodiversidad de ecosistemas naturales del Cusco en la provincia de La Convención a causa de los incendios forestales.
 
 ## 6. Mapa de Empatía 
 <p align="center">
