@@ -106,11 +106,14 @@ Cada año, una amplia variedad de regiones alrededor del mundo, desde Canadá y 
 Los incendios forestales provocan daños por miles de millones de dólares cada año, una cifra que no hace más que aumentar gracias a los efectos del cambio climático.
 El pronóstico de tendencia aditiva estimó un costo total de supresión de $4,390 mil millones para el año 2030 y el pronóstico de tendencia multiplicativa estimó un costo total de supresión de $5,125 mil millones para el año 2030 (Chippagiri & Pareekshith, 2023). 
 <p align="center">
- <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen09.jpg" width="600" style="margin: auto;">
+ Costo total de supresión con tendencia aditiva
 <p align="center">
- Fuente: CENEPRED <br>
+ <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen10.jpg" width="600" style="margin: auto;"><br>
 
-
+<p align="center">
+ Costo total de supresión con tendencia multiplicativa
+<p align="center">
+ <img src="" width="600" style="margin: auto;"><br>
 
 
 ### 2.2 **A Nivel Nacional y  Regional**
