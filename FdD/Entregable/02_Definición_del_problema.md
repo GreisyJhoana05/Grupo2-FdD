@@ -186,8 +186,7 @@ Referencias bibliográficas:
 
 9. Vishnu, Chippagiri & Katti, Pareekshith. (2023). The Economic Impact of Wildfires: A Comprehensive Research Study. 10.13140/RG.2.2.15539.20001.
 
-10. Wang, D., Guan, D., Zhu, S. et al. (2021). Economic footprint of California wildfires in
-2018. Nat Sustain 4, 252–260.
+10. Wang, D., Guan, D., Zhu, S. et al. (2021). Economic footprint of California wildfires in 2018. Nat Sustain 4, 252–260.
 
 11. Biao, J. (2023). El aumento de los incendios descontrolados hace que la adopción de estrategias integradas para los bosques, el clima y la sostenibilidad sea más urgente que nunca. Naciones Unidas (ONU).
 
