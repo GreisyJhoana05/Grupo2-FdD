@@ -151,7 +151,7 @@ El pronóstico de tendencia aditiva estimó un costo total de supresión de $4,3
 
 ## 4. Mapa de Viaje del cliente
 <p align="center">
-  <img src="" width="800" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen16.JPG?raw=true">
 </p>
 
 ## 5. Definición formal del problema
