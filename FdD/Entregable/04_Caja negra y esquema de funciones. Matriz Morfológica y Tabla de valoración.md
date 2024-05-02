@@ -26,5 +26,5 @@
 </p>
 
 ## ***Conclusión***
-<p align="center">
+<p align="justify">
   El uso de la matriz morfológica y la tabla de valoración nos ha ayudado a encontrar cuatro posibles conjuntos de soluciones para nuestro desafío. Después de un análisis detallado, el CS4 se ha destacado como la mejor opción debido a su accesibilidad, rentabilidad y viabilidad para el éxito de nuestro prototipo. 
