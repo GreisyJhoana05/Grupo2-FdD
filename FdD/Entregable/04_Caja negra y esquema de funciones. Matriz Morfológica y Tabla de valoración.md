@@ -17,10 +17,10 @@
 # **MATRIZ MORFOLÓGICA Y TABLA DE VALORACIÓN**
 ## ***Matriz Morfológica***
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Caja_Negra_Esquema_de_Funciones/E04IMAGEN4.png" style="margin: auto;">
+  <img src="" style="margin: auto;">
 </p>
 
 ## ***Tabla de Valoración***
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Caja_Negra_Esquema_de_Funciones/E04IMAGEN5.JPG" style="margin: auto;">
+  <img src="" style="margin: auto;">
 </p>
