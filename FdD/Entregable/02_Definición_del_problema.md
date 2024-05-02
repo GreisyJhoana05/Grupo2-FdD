@@ -3,7 +3,7 @@
  <h1 align="center">Definición Del Problema</h1>
 </p>
 
-**¿Qué es un incendio forestal?**
+***¿Qué es un incendio forestal?***
 
 Un incendio forestal es un tipo de fuego que puede surgir de diversas fuentes y que representa un riesgo significativo para las personas, la propiedad y el entorno natural. Estos incendios se caracterizan por su capacidad de propagarse sin control en áreas rurales, a través de una variedad de vegetación que puede ser tanto viva como muerta, incluyendo árboles, arbustos y hierbas. En resumen, un incendio forestal abarca cualquier fuego que afecte bosques, matorrales y pastizales, con consecuencias potencialmente devastadoras.
 
@@ -67,7 +67,8 @@ Los incendios forestales son representados como desastres naturales actuales con
 Fuente: Statista, América del sur 2023.
  
 ### 1.3 ***A Nivel Nacional***
-Según los datos del Centro de Operaciones de Emergencia Nacional (COEN), se observa un aumento del 115,51% en los incendios forestales durante los últimos cinco años en Perú. En 2019, se registraron 664 incendios forestales, cifra que aumentó a 1.343 al año siguiente y luego descendió a 817 en 2021. Sin embargo, en 2021 volvió a incrementarse, alcanzando los 1.431 eventos. Solo en el período comprendido entre el 1 de enero y el 20 de octubre de 2023, según la misma fuente, se contabilizaron 1.161 incendios forestales. 
+<p align="justify">
+ Según los datos del Centro de Operaciones de Emergencia Nacional (COEN), se observa un aumento del 115,51% en los incendios forestales durante los últimos cinco años en Perú. En 2019, se registraron 664 incendios forestales, cifra que aumentó a 1.343 al año siguiente y luego descendió a 817 en 2021. Sin embargo, en 2021 volvió a incrementarse, alcanzando los 1.431 eventos. Solo en el período comprendido entre el 1 de enero y el 20 de octubre de 2023, según la misma fuente, se contabilizaron 1.161 incendios forestales. 
 <p align="center">
  Gráfica 3: Consolidado anual de incendios forestales
 <p align="center">
@@ -90,23 +91,25 @@ El informe sobre los posibles escenarios de riesgo por incendios forestales en l
  Gráfico 5: Incendios registrados por año en la región Cusco
 Y representa la ecuación exponencial de tendencia de ocurrencias de incendio 
 <p align="center">
- <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen08.jpg" width="600" style="margin: auto;">
+ <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen09.jpg" width="600" style="margin: auto;">
 <p align="center">
- Fuente: COEN<br>
-
-
-
-
-</p>
-<p align="center">
-<p align="center">
-<p align="justify">
-<p align="center">
-
+ Fuente: CENEPRED <br>
 
 ## 2. Contexto Económico
 
 ### 2.1 **A Nivel Mundial**
+<p align="justify">
+ El cambio climático y el aumento de las temperaturas han hecho que los incendios forestales sean extremadamente destructivos, lo que dificulta su control. Además, se han convertido en un catalizador de grandes desastres ambientales causando enormes pérdidas económicas en la región afectada debido a una disminución de las precipitaciones, la humedad y un aumento de las temperaturas (Daoping Wang et al., 2020). 
+
+Cada año, una amplia variedad de regiones alrededor del mundo, desde Canadá y Estados Unidos hasta el Amazonas y el Ártico, pasando por África, Asia y Europa, son afectadas por devastadores incendios forestales. Estos incendios no solo causan graves daños al medio ambiente y la fauna, sino que también tienen un impacto negativo en la vida humana y la infraestructura. Aunque los costos conocidos de estos incendios generalmente se enfocan en las pérdidas económicas directas para el sector público, como los gastos de extinción, los seguros y la destrucción de activos, también generan efectos amplios y duraderos en la sostenibilidad social, económica y medioambiental (Biao, 2023).
+
+Los incendios forestales provocan daños por miles de millones de dólares cada año, una cifra que no hace más que aumentar gracias a los efectos del cambio climático.
+El pronóstico de tendencia aditiva estimó un costo total de supresión de $4,390 mil millones para el año 2030 y el pronóstico de tendencia multiplicativa estimó un costo total de supresión de $5,125 mil millones para el año 2030 (Chippagiri & Pareekshith, 2023). 
+<p align="center">
+ <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen09.jpg" width="600" style="margin: auto;">
+<p align="center">
+ Fuente: CENEPRED <br>
+
 
 
 
