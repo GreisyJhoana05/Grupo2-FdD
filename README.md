@@ -1,6 +1,6 @@
 <p align="left">
   <img src="https://upchvirtual.edu.pe/ued/images/logo-upch.png" width="150">
-  <h1 align="center">SafeForest</h1>
+  <h1 align="center">Wildfire Watch</h1>
 </p>
 
 <p align="justify">
