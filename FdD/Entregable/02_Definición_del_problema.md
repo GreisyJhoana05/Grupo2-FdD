@@ -146,7 +146,7 @@ El pronóstico de tendencia aditiva estimó un costo total de supresión de $4,3
 
 ## 3. Diagrama de Ishikawa - Causa y efecto
 <p align="center">
-  <img src="" width="800" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen15.JPG?raw=true">
 </p>
 
 ## 4. Mapa de Viaje del cliente
