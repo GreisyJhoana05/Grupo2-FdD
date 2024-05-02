@@ -4,30 +4,23 @@
 
 # **Contexto Científico**
 
-## Artículo 1 : *Recent Insights into Particulate Matter (PM2.5)-Mediated Toxicity in Humans: An Overview*
-***(Conocimientos recientes sobre la toxicidad mediada por partículas (PM2.5) en humanos: una descripción general)***
+## Artículo 1 : *Forest Fire Detection System Based on IoT.*
+***(Sistema de Detección de Incendios Forestales Basado en IoT.)***
+<br><br><p align="justify">
+Un innovador sistema de detección de incendios en bosques, basado en la tecnología del Internet de las Cosas (IoT), ha surgido como una herramienta esencial en la prevención y gestión moderna de incendios forestales. Este sistema supervisa en tiempo real posibles incendios mediante una red de sensores en áreas boscosas, recolectando datos de temperatura, humedad y gases ambientales. Estos datos se analizan en una estación central, utilizando algoritmos avanzados para identificar patrones de incendios y minimizar alarmas falsas. Cuando se detecta un incendio potencial, el sistema envía alertas instantáneas a autoridades y equipos de respuesta, permitiendo una acción rápida para mitigar daños ecológicos y económicos. A pesar de enfrentar desafíos como la eficiencia energética y la seguridad de datos, su implementación cuidadosa promete mejorar la prevención de incendios, protegiendo tanto la naturaleza como las comunidades humanas.
 <br><br>
 
+## Artículo 2: *Forest Fire Detection and Notification Method Based on AI and IoT Approaches* 
+***(Método de detección y notificación de incendios forestales basado en enfoques de IA e IoT)***
+<br><br><p align="justify">
+El método de detección y notificación de incendios forestales descrito en el artículo utiliza una combinación de tecnologías de Internet de las Cosas (IoT) y You Only Look Once Version 5 (YOLOv5). Esta convergencia de tecnologías permite la detección temprana y la clasificación de incendios en entornos forestales, mejorando la seguridad de los seres vivos en el bosque. La integración de IoT y YOLOv5 facilita la monitorización en tiempo real, la identificación precisa de áreas de riesgo de incendio y la notificación rápida de incidentes, lo que contribuye a una respuesta más eficiente y a la mitigación oportuna de los incendios forestales.
 <br><br>
 
-Figura 1:
-<p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen01.jpg" width="600" style="margin: auto;">
-</p>
+## Artículo 3: *A Design and Development of the Smart Forest Alert Monitoring System Using IoT*
+***(Un diseño y desarrollo del sistema inteligente de monitoreo de alertas forestales utilizando IoT)***
 <br><br>
-
-## Artículo 2: *Efficacy of HEPA Air Cleaner on Improving Indoor Particulate Matter 2.5 Concentration* 
-
-***(Eficacia del filtro de aire HEPA para mejorar la concentración de partículas en interiores 2.5)***
-<br><br>
-<br><br>
-
-## Artículo 3: *Improved PM2.5 concentration estimates from low-cost sensors using calibration models categorized by relative humidity*
-***(Estimaciones mejoradas de la concentración de PM 2,5 a partir de sensores de bajo costo que utilizan modelos de calibración categorizados por humedad relativa)***
-<br><br>
+El artículo sobre el Diseño y Desarrollo del Sistema de Monitoreo de Alerta Inteligente para Bosques utilizando IoT aborda la importancia de proteger los bosques de desastres naturales como incendios forestales y actividades de deforestación. El sistema propuesto utiliza tecnología IoT con sensores de temperatura, humedad, gas, vibración y PIR alimentados por energía solar. Estos sensores detectan eventos como incendios, humo y actividad humana, enviando alertas en tiempo real a las autoridades. El sistema también activa rociadores de agua y extintores de incendios automáticamente para mitigar los incendios. Además, monitorea la actividad de deforestación y puede tomar medidas preventivas. En resumen, este sistema inteligente de monitoreo de bosques ofrece una rápida detección de incendios, alertas automáticas y acciones de mitigación de daños para proteger los recursos forestales de manera efectiva.
 <br><br><br>
-
-
 
 # **CONTEXTO COMERCIAL**
 
