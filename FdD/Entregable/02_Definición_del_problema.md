@@ -1,4 +1,3 @@
-
 <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="200">
  <h1 align="center">Definición Del Problema</h1>
 </p>
@@ -7,9 +6,12 @@
 
 Un incendio forestal es un tipo de fuego que puede surgir de diversas fuentes y que representa un riesgo significativo para las personas, la propiedad y el entorno natural. Estos incendios se caracterizan por su capacidad de propagarse sin control en áreas rurales, a través de una variedad de vegetación que puede ser tanto viva como muerta, incluyendo árboles, arbustos y hierbas. En resumen, un incendio forestal abarca cualquier fuego que afecte bosques, matorrales y pastizales, con consecuencias potencialmente devastadoras.
 
-
+<p align="center">
+  Imagen 01:
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen01.jpg" width="600" style="margin: auto;">
+ <p align="center">
+  Fuente :SERFOR 2023
 </p>
 
 Sabías que el 98% de los incendios forestales se originan por la falta de control en las quemas agrícolas. Esto suele ocurrir en períodos de sequía prolongada, cuando los vientos son más fuertes y la vegetación está seca, fenómenos que son cada vez más comunes debido al cambio climático, como el fenómeno del Niño global.
@@ -20,13 +22,24 @@ En términos económicos, los incendios forestales provocan daños al paisaje y 
 En términos de salud humana los incendios forestales también contribuyen al cambio climático al aumentar las emisiones de dióxido de carbono (CO2) y reducir el oxígeno (O2). El humo generado durante y después del incendio puede desencadenar respuestas inflamatorias en el cuerpo, lo que a su vez puede afectar la salud cardiovascular.
 
 <p align="center">
+  Figura 1: Ruta esquemática que muestra los mecanismos fisiopatológicos propuestos de los efectos cardiovasculares inducidos por la exposición al humo de los incendios forestales.
+<p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen02.jpg" width="600" style="margin: auto;">
+ <p align="center">
+  Fuente:Cardiovascular health impacts of wildfire smoke exposure 
+
+  El humo de los incendios forestales contiene PM, gases, HAP y COV, etc. Estos componentes pueden afectar el sistema cardiovascular por vía inhalatoria, con la contribución de la exposición dérmica. El humo de los incendios forestales puede provocar efectos cardiovasculares a través de tres vías posibles: activación del reflejo autónomo, estrés oxidativo e inflamación sistémica, e interacción directa con la vasculatura. Abreviaturas: BP: presión arterial, CO: monóxido de carbono, EV: vesícula extracelular, VFC: variabilidad de la frecuencia cardíaca, miRNA: microRNA, NOx: óxidos de nitrógeno, HAP: hidrocarburos aromáticos policíclicos, PM: partículas, ROS: especies reactivas de oxígeno.
+
 </p>
 
 En base a los estudios recientes a nivel nacional se obtiene mayor número de incendios reportados en Cusco y en contraste con el plan de contingencia para incendios forestales de la DDC Cusco la provincia de “La Convención” en el rango de años del 2017 al 2022 es la provincia con mayor ocurrencia de incendios forestales en la región de Cusco. Por ende se plantea como problemática: Aumento de enfermedades cardiovasculares y pérdida de biodiversidad de ecosistemas naturales del Cusco en la provincia de La Convención a causa de los incendios forestales
 
 <p align="center">
+Gráfica 1: Provincias con mayor ocurrencia de incendios forestales en la región de Cusco
+ <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen03.jpg" width="600" style="margin: auto;">
+  <p align="center">
+  Fuente: Oficina de Gestión de Riesgo del GORE Cusco
 </p>
 
 # Contexto social y Económico  
@@ -39,7 +52,7 @@ Los incendios forestales contribuyen a muchos desastres naturales lo cual afecta
 El avance del cambio climático que va  incrementará en todo el mundo aumentará el riesgo de los incendios forestales devastadores en  las próximas décadas por venir, advierte un estudio divulgado por el programa de las Naciones Unidas para el medio ambiente (PUMA). según el informe de WWF España, aunque la calidad de incendios forestales ha disminuido, los que ocurren son más devastadores y difíciles de controlar, son conocidos como los “incendios de sexta generación”
 
 <p align="center">
- Imagen03: Principales impactos y lugares causados por los incendios forestales en el último año.
+Imagen 2: Principales impactos y lugares causados por los incendios forestales en el último año.
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen04.jpg" width="600" style="margin: auto;">
  <p align="center">
@@ -54,7 +67,7 @@ Los incendios forestales contribuyen al cambio climático al liberar grandes can
 Las temperaturas excepcionalmente altas, la baja humedad del aire y la sequía severa provocaron períodos de incendios forestales sin precedentes en muchos países de América del Sur. En enero y febrero, la Argentina y el Paraguay registraron un aumento del 283% y el 258%, respectivamente.Los incendios forestales en Sudamérica este año están afectando de manera extensiva. Las llamas están quemando gran parte del Pantanal , un ejemplo es el humedal más grande del mundo, el cual está ubicado en Brasil, Bolivia y Paraguay.
 
 <p align="center">
- Imagen04: Icendios forestales en América Latina: Estos son algunos de los puntos más afectados.
+ Imagen 3: Icendios forestales en América Latina: Estos son algunos de los puntos más afectados.
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen05.jpg" width="600" style="margin: auto;">
  <p align="center">
@@ -64,10 +77,13 @@ Las temperaturas excepcionalmente altas, la baja humedad del aire y la sequía s
 Los incendios forestales son representados como desastres naturales actuales con mayor repercusión en América Latina. Únicamente en Brasil se contabilizaron aproximadamente 189.900 brotes de incendios forestales a lo largo del 2023, Bolivia registró el segundo con más de 40.000 brotes(los brotes de incendios se refieren a una situación en la que se produce una pequeña llama que puede convertirse en un incendio mayor si no se controla adecuadamente).
 
 <p align="center">
+ Gráfica 2: Número de incendios forestales en América del Sur en 2023 por país.
+ <p align="center">
  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen06.jpg" width="600" style="margin: auto;">
 <p align="center">
 Fuente: Statista, América del sur 2023.
- 
+</p>
+
 ### 1.3 ***A Nivel Nacional***
 <p align="justify">
  Según los datos del Centro de Operaciones de Emergencia Nacional (COEN), se observa un aumento del 115,51% en los incendios forestales durante los últimos cinco años en Perú. En 2019, se registraron 664 incendios forestales, cifra que aumentó a 1.343 al año siguiente y luego descendió a 817 en 2021. Sin embargo, en 2021 volvió a incrementarse, alcanzando los 1.431 eventos. Solo en el período comprendido entre el 1 de enero y el 20 de octubre de 2023, según la misma fuente, se contabilizaron 1.161 incendios forestales. 
@@ -76,7 +92,9 @@ Fuente: Statista, América del sur 2023.
 <p align="center">
  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen07.jpg" width="600" style="margin: auto;">
 <p align="center">
- Fuente: COEN<br>
+ Fuente: COEN
+</p>
+
 <p align="justify">
  Tradicionalmente, estos sucesos solían concentrarse principalmente en la región montañosa de Perú. Sin embargo, en los últimos años, la Amazonía ha emergido como un nuevo epicentro de incendios forestales. Según los datos proporcionados por el COEN, entre el 1 de enero y el 20 de octubre de 2023, se registraron 1.161 incidentes en todo el país, que afectaron a 23 regiones, 142 provincias y 512 distritos en las áreas costeras, montañosas y selváticas. Cusco lidera la lista como la región más afectada, con 306 incendios reportados. 
 <p align="center">
@@ -84,9 +102,10 @@ Gráfica 4: Incendios forestales por región
 <p align="center">
  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen08.jpg" width="600" style="margin: auto;">
 <p align="center">
- Fuente: COEN<br>
+ Fuente: COEN
+</p>
 <p align="justify">
- De acuerdo con los datos del COEN, Cusco experimentó el mayor impacto de los incendios forestales, y la previsión de lluvias reducidas podría seguir afectando a esta área. Hasta el momento, se han perdido más de 2.792 hectáreas de vegetación y 254 hectáreas de cultivos en la región. Además, una persona falleció y otra resultó herida debido a estos sucesos.
+De acuerdo con los datos del COEN, Cusco experimentó el mayor impacto de los incendios forestales, y la previsión de lluvias reducidas podría seguir afectando a esta área. Hasta el momento, se han perdido más de 2.792 hectáreas de vegetación y 254 hectáreas de cultivos en la región. Además, una persona falleció y otra resultó herida debido a estos sucesos.
 
 El informe sobre los posibles escenarios de riesgo por incendios forestales en la región, elaborado por el Centro Nacional de Estimación, Prevención y Reducción del Riesgo de Desastres (Cenepred), indica que alrededor de 1.491 comunidades se encuentran en un riesgo muy elevado. En otras palabras, aproximadamente el 21,6% del territorio de Cusco, que abarca más de 1,5 millones de hectáreas, está expuesto a este nivel de peligro. Según el documento, se observó un aumento en la incidencia de incendios en la región durante el período 2003-2022, con un incremento especialmente notable entre los años 2018 y 2020.
 <p align="center">
@@ -95,7 +114,8 @@ Y representa la ecuación exponencial de tendencia de ocurrencias de incendio
 <p align="center">
  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen09.jpg" width="600" style="margin: auto;">
 <p align="center">
- Fuente: CENEPRED <br>
+ Fuente: CENEPRED 
+</p>
 
 ## 2. Contexto Económico
 
