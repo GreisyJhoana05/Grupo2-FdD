@@ -66,11 +66,16 @@ Los incendios forestales son representados como desastres naturales actuales con
 <p align="center">
 Fuente: Statista, América del sur 2023.
  
-### 1.3 ***A NIVEL NACIONAL:***
+### 1.3 ***A Nivel Nacional***
 Según los datos del Centro de Operaciones de Emergencia Nacional (COEN), se observa un aumento del 115,51% en los incendios forestales durante los últimos cinco años en Perú. En 2019, se registraron 664 incendios forestales, cifra que aumentó a 1.343 al año siguiente y luego descendió a 817 en 2021. Sin embargo, en 2021 volvió a incrementarse, alcanzando los 1.431 eventos. Solo en el período comprendido entre el 1 de enero y el 20 de octubre de 2023, según la misma fuente, se contabilizaron 1.161 incendios forestales. 
 <p align="center">
  Gráfica 3: Consolidado anual de incendios forestales
- <img src="" width="600" style="margin: auto;">
+<p align="center">
+ <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen07.jpg" width="600" style="margin: auto;">
+<p align="center">
+ Fuente: COEN<br>
+<p align="justify">
+ Tradicionalmente, estos sucesos solían concentrarse principalmente en la región montañosa de Perú. Sin embargo, en los últimos años, la Amazonía ha emergido como un nuevo epicentro de incendios forestales. Según los datos proporcionados por el COEN, entre el 1 de enero y el 20 de octubre de 2023, se registraron 1.161 incidentes en todo el país, que afectaron a 23 regiones, 142 provincias y 512 distritos en las áreas costeras, montañosas y selváticas. Cusco lidera la lista como la región más afectada, con 306 incendios reportados. 
 
 <p align="center">
 <p align="justify">
