@@ -155,7 +155,7 @@ El pronóstico de tendencia aditiva estimó un costo total de supresión de $4,3
 
 ## 5. Definición formal del problema
 <p align="center">
-  <img src="" width="950" style="margin: auto;">
+  <img src=""FdD/Imagenes/Definición_del_problema/Definición del problema.PNG">
 </p>
 
 Mayor susceptibilidad a problemas de salud como resultado del aumento de la concentración de PM2.5 en el parque cívico cultural Ceres de Ate
