@@ -83,7 +83,15 @@ Nuestra propuesta de solución tiene como objetivo desarrollar y poner en funcio
 
 # Bibliografía
 
-- 
+- Avazov, K., Hyun, AE, Sami S, AA, Khaitov, A., Abdusalomov, AB y Cho, YI (2023). Método de detección y notificación de incendios forestales basado en enfoques de IA e IoT. Internet del futuro , 15 (2), 61.https://www.mdpi.com/1999-5903/15/2/61
+
+- Krishnamoorthy, M., Asif, M., Kumar, PP, Nuvvula, RS, Khan, B. y Colak, I. (2023). Un diseño y desarrollo del sistema inteligente de monitoreo de alertas forestales utilizando IoT. Revista de Sensores , 2023 .https://www.hindawi.com/journals/js/2023/8063524/
+  
+- Mendhe, D., Padole, M., Jodhe, M., Badole, S., Iqbal, R., & Samarth, U. (2023). Forest Fire Detection System Based on IoT. Journal of network & information security, 11(2). https://openurl.ebsco.com/EPDB%3Agcd%3A15%3A25720879/detailv2 sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A174228257&crl=c
+  
+- Vasily Antonovich Tremsin, L. (05 de 11 de 2020). Patentes de EEUU. Obtenido de https://patentimages.storage.googleapis.com/cd/15/2f/9db5109e29aa3e/US11835676.pdf
+- Wireless GmbH Carl-Scheele-Strasse 14 12489 Berlin, D. D.-u. (16 de 06 de 2008). OFICINA ESPAÑOLA DE PATENTES. Obtenido de https://patentimages.storage.googleapis.com/6f/77/cb/cf7092842b17fe/ES2301082T3.pdf
+- William R. Garmer, S. D., Jonathan M. Luck, E. C., & (EEUU). (06 de 01 de 2005). patentes estadounidense . Obtenido de https://patentimages.storage.googleapis.com/2e/07/21/5d304092c569d3/US7256401.pdf
 
 
 
