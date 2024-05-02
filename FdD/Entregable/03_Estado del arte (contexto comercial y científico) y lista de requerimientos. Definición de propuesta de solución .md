@@ -62,17 +62,18 @@ Procedimiento de vigilancia de territorios para la detección de incendios fores
 
 # Lista de requerimientos
 ## Funcionales
-
-Mapa mental 1:
-<p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E03Imagen09.jpg" width="950" style="margin: auto;">
-</p>
+- *Monitoreo y alerta en tiempo real:* El sistema debe ser capaz de proporcionar un monitoreo continuo y enviar alertas en tiempo real.
+- *Cobertura amplia:* Debe tener una cobertura geográfica amplia para maximizar la detección.
+- *Registro de datos:* El sistema debe mantener un registro de las detecciones y alertas para análisis posterior y mejora continua.
+- *Mediciones ambientales adicionales:* Los sensores integrados deben ser capaces de medir temperatura, humedad, velocidad y dirección del viento, para proporcionar contexto adicional a la detección de incendios.
+- *Alerta automática:* El sistema debe tener la capacidad de emitir alertas automáticas, incluyendo la ubicación y la gravedad del incendio detectado.
 
 ## No Funcionales
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GreisyJhoana05/Grupo2-FdD/main/FdD/Imagenes/Estado_del_Arte/E03Imagen10.jpg" width="950" style="margin: auto;">
-</p>
+- *Precisión:* El sistema debe tener un alto grado de precisión para evitar falsos positivos o negativos.
+- *Practicidad:* Debe ser fácil de instalar, mantener y operar.
+- *Adaptabilidad:* El sistema debe ser adaptable para funcionar en diversos entornos.
+- *Accesibilidad:* El costo del sistema debe ser razonable para que se encuentre más asequible.
+- *Durabilidad:* Debe ser resistente y capaz de funcionar en distintas condiciones climáticas.<br><br><br><br>
 
 # Estrategia de solución
 <p align="justify">
