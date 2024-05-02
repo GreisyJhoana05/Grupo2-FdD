@@ -76,9 +76,27 @@ Según los datos del Centro de Operaciones de Emergencia Nacional (COEN), se obs
  Fuente: COEN<br>
 <p align="justify">
  Tradicionalmente, estos sucesos solían concentrarse principalmente en la región montañosa de Perú. Sin embargo, en los últimos años, la Amazonía ha emergido como un nuevo epicentro de incendios forestales. Según los datos proporcionados por el COEN, entre el 1 de enero y el 20 de octubre de 2023, se registraron 1.161 incidentes en todo el país, que afectaron a 23 regiones, 142 provincias y 512 distritos en las áreas costeras, montañosas y selváticas. Cusco lidera la lista como la región más afectada, con 306 incendios reportados. 
-
 <p align="center">
+Gráfica 4: Incendios forestales por región
+<p align="center">
+ <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen08.jpg" width="600" style="margin: auto;">
+<p align="center">
+ Fuente: COEN<br>
 <p align="justify">
+ De acuerdo con los datos del COEN, Cusco experimentó el mayor impacto de los incendios forestales, y la previsión de lluvias reducidas podría seguir afectando a esta área. Hasta el momento, se han perdido más de 2.792 hectáreas de vegetación y 254 hectáreas de cultivos en la región. Además, una persona falleció y otra resultó herida debido a estos sucesos.
+
+El informe sobre los posibles escenarios de riesgo por incendios forestales en la región, elaborado por el Centro Nacional de Estimación, Prevención y Reducción del Riesgo de Desastres (Cenepred), indica que alrededor de 1.491 comunidades se encuentran en un riesgo muy elevado. En otras palabras, aproximadamente el 21,6% del territorio de Cusco, que abarca más de 1,5 millones de hectáreas, está expuesto a este nivel de peligro. Según el documento, se observó un aumento en la incidencia de incendios en la región durante el período 2003-2022, con un incremento especialmente notable entre los años 2018 y 2020.
+<p align="center">
+ Gráfico 5: Incendios registrados por año en la región Cusco
+Y representa la ecuación exponencial de tendencia de ocurrencias de incendio 
+<p align="center">
+ <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen08.jpg" width="600" style="margin: auto;">
+<p align="center">
+ Fuente: COEN<br>
+
+
+
+
 </p>
 <p align="center">
 <p align="center">
