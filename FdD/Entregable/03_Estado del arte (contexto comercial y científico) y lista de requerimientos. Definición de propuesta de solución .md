@@ -45,7 +45,7 @@ Fecha de Publicación:05/11/2020<br>
 <p align="center"> 
 Figura01:
 
-<p align="center"><img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E02Imagen01.jpg" width="550" style="margin: auto;"></p></p><p align="justify">
+<p align="center"><img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E02Imagen01.jpg" style="margin: auto;"></p></p><p align="justify">
  
 Un sistema automatizado de detección de incendios incluye una red distribuidora de unidades de sensores independientes que tienen capacidad multifuncional para detectar incendios forestales en su etapa más temprana. Se emplean múltiples modos de verificación, incluyendo imágenes térmicas, análisis espectral, mediciones de infrarrojo cercano e infrarrojo de onda larga, mediciones de la presencia o concentración del humo, detección de temperatura, humedad locales, velocidad y dirección del viento. Un algoritmo dedicado recibe todos los datos de la red y determina la ubicación de las llamas a partir de los sensores de imágenes, combinados con las mediciones de humo, temperatura, humedad y viento en cada dispositivo disperso.
 
@@ -65,7 +65,7 @@ FECHA DE PRESENTACIÓN: 16/06/200
 **Inventor(es):** Mi Zhang, Biyi FANG, Taiwoo Park.<br></p>
 <p align="center">
 Figura 03:
-<p align="center"><img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E02Imagen03.jpg" width="550" style="margin: auto;"></p></p><p align="justify">
+<p align="center"><img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Estado_del_Arte/E02Imagen03.jpg" style="margin: auto;"></p></p><p align="justify">
  
 Procedimiento de vigilancia de territorios para la detección de incendios forestales y de superficie, basado en un primer complejo de dispositivos que está situado en como mínimo un lugar de vigilancia y que incluye una cámara, que está dispuesta de forma giratoria e inclinable en un emplazamiento elevado, siendo la amplitud de giro horizontal de como mínimo 360 grados, y una unidad de control y evaluación conectada con ésta, que dispone de un software de procesamiento de imágenes para la detección de humo y/o fuego en las imágenes suministradas por la cámara, y un software de control, sistemas de memoria para eventos e imágenes y una interfaz de conexión con un dispositivo de transmisión; y también un segundo complejo de dispositivos que está situado en una central dotada de personal, que incluye una unidad de procesamiento que dispone de un puesto de operación, visualización y vigilancia, un software de control, sistemas de memoria para eventos e imágenes, dispositivos para la mezcla y salida de imágenes como mínimo en un monitor, y como mínimo dos interfaces para dispositivos de transmisión; y un primer dispositivo de transmisión bidireccional para ficheros de imágenes, datos y servicio de voz, que conecta entre sí el primer y el segundo complejos; y también un segundo dispositivo de transmisión bidireccional para datos y servicio de voz, que conecta el segundo complejo con grupos de intervención dotados de personal.<br><br><br></p>|
 
