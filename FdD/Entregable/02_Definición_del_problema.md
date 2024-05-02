@@ -155,16 +155,12 @@ El pronóstico de tendencia aditiva estimó un costo total de supresión de $4,3
 </p>
 
 ## 5. Definición formal del problema
+Aumento de enfermedades cardiovasculares y pérdida de biodiversidad de ecosistemas naturales del Cusco en la provincia de La Convención a causa de los incendios forestales.
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen14.jpg?raw=true">
 </p>
 
-Aumento de enfermedades cardiovasculares y pérdida de biodiversidad de ecosistemas naturales del Cusco en la provincia de La Convención a causa de los incendios forestales.
 
-## 6. Mapa de Empatía 
-<p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen18.jpg?raw=true" width="800" style="margin: auto;">
-</p>
 
 ## REFERENCIAS BIBLIOGRÁFICAS 
 Referencias bibliográficas:
