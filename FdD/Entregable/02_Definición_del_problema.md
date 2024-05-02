@@ -106,32 +106,34 @@ Cada año, una amplia variedad de regiones alrededor del mundo, desde Canadá y 
 Los incendios forestales provocan daños por miles de millones de dólares cada año, una cifra que no hace más que aumentar gracias a los efectos del cambio climático.
 El pronóstico de tendencia aditiva estimó un costo total de supresión de $4,390 mil millones para el año 2030 y el pronóstico de tendencia multiplicativa estimó un costo total de supresión de $5,125 mil millones para el año 2030 (Chippagiri & Pareekshith, 2023). 
 <p align="center">
- Costo total de supresión con tendencia aditiva
+ Gráfica 6: Costo total de supresión con tendencia aditiva
 <p align="center">
- <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen10.jpg" width="600" style="margin: auto;"><br>
+ <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen10.jpg" style="margin: auto;"><br>
 
 <p align="center">
- Costo total de supresión con tendencia multiplicativa
+ Gráfica 7: Costo total de supresión con tendencia multiplicativa
 <p align="center">
- <img src="" width="600" style="margin: auto;"><br>
+ <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen11.jpg"  style="margin: auto;"><br><br>
 
+<p align="justify">
+ En algunos casos, es posible que las actividades turísticas que dependen de los bosques no puedan recuperarse completamente de los efectos de un incendio forestal. Esto puede tener un impacto económico perjudicial a largo plazo, ya que puede conducir a una disminución de los ingresos de las industrias relacionadas con el turismo durante el desastre, así como a una disminución continua de la demanda y el gasto turístico (Slocum et al., 2022).
 
 ### 2.2 **A Nivel Nacional y  Regional**
 
 
 ## 3. Diagrama de Ishikawa - Causa y efecto
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen15.jpg?raw=true" width="800" style="margin: auto;">
+  <img src="" width="800" style="margin: auto;">
 </p>
 
 ## 4. Mapa de Viaje del cliente
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen16.jpg?raw=true" width="800" style="margin: auto;">
+  <img src="" width="800" style="margin: auto;">
 </p>
 
 ## 5. Definición formal del problema
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n%20del%20problema/E02Imagen17.jpg?raw=true" width="950" style="margin: auto;">
+  <img src="" width="950" style="margin: auto;">
 </p>
 
 Mayor susceptibilidad a problemas de salud como resultado del aumento de la concentración de PM2.5 en el parque cívico cultural Ceres de Ate
