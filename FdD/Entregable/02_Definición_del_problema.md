@@ -110,11 +110,12 @@ De acuerdo con los datos del COEN, Cusco experimentó el mayor impacto de los in
 El informe sobre los posibles escenarios de riesgo por incendios forestales en la región, elaborado por el Centro Nacional de Estimación, Prevención y Reducción del Riesgo de Desastres (Cenepred), indica que alrededor de 1.491 comunidades se encuentran en un riesgo muy elevado. En otras palabras, aproximadamente el 21,6% del territorio de Cusco, que abarca más de 1,5 millones de hectáreas, está expuesto a este nivel de peligro. Según el documento, se observó un aumento en la incidencia de incendios en la región durante el período 2003-2022, con un incremento especialmente notable entre los años 2018 y 2020.
 <p align="center">
  Gráfico 5: Incendios registrados por año en la región Cusco
-Y representa la ecuación exponencial de tendencia de ocurrencias de incendio 
 <p align="center">
  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen09.jpg" width="600" style="margin: auto;">
 <p align="center">
  Fuente: CENEPRED 
+<p align="center">
+ "Y" Representa la ecuación exponencial de tendencia de ocurrencias de incendio 
 </p>
 
 ## 2. Contexto Económico
