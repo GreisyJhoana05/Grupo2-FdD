@@ -6,7 +6,7 @@
 
 ## ***Esquema de Funciones***
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Caja_Negra_Esquema_de_Funciones/E04IMAGEN2.JPG"  Style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Caja_Negra_Esquema_de_Funciones/E04Imagen02.jpg"  Style="margin: auto;">
 </p>
 
 ### ***Definición de Funciones***
