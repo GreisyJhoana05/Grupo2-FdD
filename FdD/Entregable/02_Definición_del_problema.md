@@ -142,7 +142,12 @@ El pronóstico de tendencia aditiva estimó un costo total de supresión de $4,3
  En algunos casos, es posible que las actividades turísticas que dependen de los bosques no puedan recuperarse completamente de los efectos de un incendio forestal. Esto puede tener un impacto económico perjudicial a largo plazo, ya que puede conducir a una disminución de los ingresos de las industrias relacionadas con el turismo durante el desastre, así como a una disminución continua de la demanda y el gasto turístico (Slocum et al., 2022).
 
 ### 2.2 **A Nivel Nacional y  Regional**
+<p align="justify">
+Según la Federación Argentina de la Industria Maderera y Afines (FAIMA) se estimó que las pérdidas por los incendios forestales que afectan a buena parte del país ya ascienden a 3.500 millones de pesos (S/. 14,700,000 ) por cada 1000 hectáreas de bosques implantados.
+Solamente en 2020 se quemaron en la Argentina 1.100.000 hectáreas de bosques, por lo tanto la estimación de FAIMA de pérdidas por incendios forestales asciende a 3.850 billones de pesos (S/. 16,170,000,000). Por lo que se tiene entendido, la cifra representa más de 3 veces la recaudación de la Administración Federal de Ingresos Públicos (AFIP) de diciembre de 2021. 
+En relación con el manejo del fuego en diferentes provincias de Argentina. Se trata de inversiones y acuerdos firmados por el ministro de Ambiente, Juan Cabandié, y autoridades locales, para fortalecer la capacidad de prevención y combate de incendios forestales.
 
+<p align="center">
 
 ## 3. Diagrama de Ishikawa - Causa y efecto
 <p align="center">
