@@ -146,6 +146,11 @@ El pronóstico de tendencia aditiva estimó un costo total de supresión de $4,3
 Según la Federación Argentina de la Industria Maderera y Afines (FAIMA) se estimó que las pérdidas por los incendios forestales que afectan a buena parte del país ya ascienden a 3.500 millones de pesos (S/. 14,700,000 ) por cada 1000 hectáreas de bosques implantados.
 Solamente en 2020 se quemaron en la Argentina 1.100.000 hectáreas de bosques, por lo tanto la estimación de FAIMA de pérdidas por incendios forestales asciende a 3.850 billones de pesos (S/. 16,170,000,000). Por lo que se tiene entendido, la cifra representa más de 3 veces la recaudación de la Administración Federal de Ingresos Públicos (AFIP) de diciembre de 2021. 
 En relación con el manejo del fuego en diferentes provincias de Argentina. Se trata de inversiones y acuerdos firmados por el ministro de Ambiente, Juan Cabandié, y autoridades locales, para fortalecer la capacidad de prevención y combate de incendios forestales.
+1. Chaco: Con una inversión cercana a los $207 millones de pesos, S/. 868,200  aproximadamente.
+## -Gastos: Cesión gratuita de maquinaria a la provincia para el combate de incendios forestales, incluyendo retroexcavadora, minicargadora, chipeadora forestal, chipeadora, camión volcador, camión autobomba, camioneta, tanques australianos y herramientas de interfase.
+## -Asistencia financiera: Financiamiento para la adquisición de bienes y servicios, con la provincia a cargo de la licitación y adquisición de la maquinaria.
+
+
 
 <p align="center">
 
