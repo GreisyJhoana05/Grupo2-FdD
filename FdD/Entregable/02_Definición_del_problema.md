@@ -146,14 +146,36 @@ El pronóstico de tendencia aditiva estimó un costo total de supresión de $4,3
 Según la Federación Argentina de la Industria Maderera y Afines (FAIMA) se estimó que las pérdidas por los incendios forestales que afectan a buena parte del país ya ascienden a 3.500 millones de pesos (S/. 14,700,000 ) por cada 1000 hectáreas de bosques implantados.
 Solamente en 2020 se quemaron en la Argentina 1.100.000 hectáreas de bosques, por lo tanto la estimación de FAIMA de pérdidas por incendios forestales asciende a 3.850 billones de pesos (S/. 16,170,000,000). Por lo que se tiene entendido, la cifra representa más de 3 veces la recaudación de la Administración Federal de Ingresos Públicos (AFIP) de diciembre de 2021. 
 En relación con el manejo del fuego en diferentes provincias de Argentina. Se trata de inversiones y acuerdos firmados por el ministro de Ambiente, Juan Cabandié, y autoridades locales, para fortalecer la capacidad de prevención y combate de incendios forestales.
-1. Chaco: Con una inversión cercana a los $207 millones de pesos, S/. 868,200  aproximadamente.
-## -Gastos: Cesión gratuita de maquinaria a la provincia para el combate de incendios forestales, incluyendo retroexcavadora, minicargadora, chipeadora forestal, chipeadora, camión volcador, camión autobomba, camioneta, tanques australianos y herramientas de interfase.
-## -Asistencia financiera: Financiamiento para la adquisición de bienes y servicios, con la provincia a cargo de la licitación y adquisición de la maquinaria.
-
-
-
 <p align="center">
 
+<p align="justify">
+1. Chaco: Con una inversión cercana a los $207 millones de pesos, S/. 868,200  aproximadamente.
+ <p align="center">
+<p align="justify">
+- Gastos: Cesión gratuita de maquinaria a la provincia para el combate de incendios forestales, incluyendo retroexcavadora, minicargadora, chipeadora forestal, chipeadora, camión volcador, camión autobomba, camioneta, tanques australianos y herramientas de interfase.
+<p align="center">
+<p align="justify">
+ - Asistencia financiera: Financiamiento para la adquisición de bienes y servicios, con la provincia a cargo de la licitación y adquisición de la maquinaria.
+<p align="center">
+<p align="justify">
+2. Córdoba:Con una inversión cercana a los $158 millones de pesos, S/. 663,600 aproximadamente.
+<p align="center">
+<p align="justify">
+Gastos: Adquisición de bienes y servicios por $58,5 millones (S/. 245,700), financiados por el Ministerio de Ambiente nacional y el Servicio Nacional de Manejo del Fuego (SNMF).
+<p align="center">
+<p align="justify">
+Cesión de maquinaria: Más de $99 millones (S/. 415,800) en chipeadora forestal, camión volcador, camión autobomba y camioneta.
+<p align="center">
+<p align="justify">
+3. Préstamo de USD 50 millones (S/. 185 millones) para manejo del fuego del Banco de Desarrollo de América Latina (CAF).
+<p align="center">
+<p align="justify">
+Gastos: Inversión en equipamiento para el combate de incendios, mitigación de los incendios, prevención, fortalecimiento de recursos de las provincias para el ataque del fuego y reducción de gases de efecto invernadero.
+<p align="center">
+<p align="justify">
+Mendoza: Con un financiamiento cercano a los $61 millones (S/. 256,200) del Servicio Nacional de Manejo del Fuego (SNMF) para la adquisición de bienes y servicios, provenientes de fondos del Banco Argentino de Desarrollo (BICE) y cesión de maquinaria de $100 millones (S/. 420,000) del Fondo Nacional de Manejo del Fuego, incluyendo camión autobomba, camioneta, chipeadora y camión volcador. Los $61 millones + $100 millones hacen $161 millones (S/. 676,200).
+<p align="center">
+ 
 ## 3. Diagrama de Ishikawa - Causa y efecto
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen15.JPG?raw=true">
