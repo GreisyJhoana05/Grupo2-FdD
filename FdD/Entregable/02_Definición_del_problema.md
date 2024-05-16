@@ -141,7 +141,8 @@ El pronóstico de tendencia aditiva estimó un costo total de supresión de $4,3
 <p align="justify">
  En algunos casos, es posible que las actividades turísticas que dependen de los bosques no puedan recuperarse completamente de los efectos de un incendio forestal. Esto puede tener un impacto económico perjudicial a largo plazo, ya que puede conducir a una disminución de los ingresos de las industrias relacionadas con el turismo durante el desastre, así como a una disminución continua de la demanda y el gasto turístico (Slocum et al., 2022).
 
-### 2.2 **A Nivel Nacional y  Regional**
+### 2.2 **A Nivel Regional**
+## Argentina
 <p align="justify">
 Según la Federación Argentina de la Industria Maderera y Afines (FAIMA) se estimó que las pérdidas por los incendios forestales que afectan a buena parte del país ya ascienden a 3.500 millones de pesos (S/. 14,700,000 ) por cada 1000 hectáreas de bosques implantados.
 Solamente en 2020 se quemaron en la Argentina 1.100.000 hectáreas de bosques, por lo tanto la estimación de FAIMA de pérdidas por incendios forestales asciende a 3.850 billones de pesos (S/. 16,170,000,000). Por lo que se tiene entendido, la cifra representa más de 3 veces la recaudación de la Administración Federal de Ingresos Públicos (AFIP) de diciembre de 2021. 
@@ -150,7 +151,7 @@ En relación con el manejo del fuego en diferentes provincias de Argentina. Se t
 
 <p align="justify">
 1. Chaco: Con una inversión cercana a los $207 millones de pesos, S/. 868,200  aproximadamente.
- <p align="center">
+<p align="center">
 <p align="justify">
 - Gastos: Cesión gratuita de maquinaria a la provincia para el combate de incendios forestales, incluyendo retroexcavadora, minicargadora, chipeadora forestal, chipeadora, camión volcador, camión autobomba, camioneta, tanques australianos y herramientas de interfase.
 <p align="center">
@@ -158,7 +159,7 @@ En relación con el manejo del fuego en diferentes provincias de Argentina. Se t
  - Asistencia financiera: Financiamiento para la adquisición de bienes y servicios, con la provincia a cargo de la licitación y adquisición de la maquinaria.
 <p align="center">
 <p align="justify">
-2. Córdoba:Con una inversión cercana a los $158 millones de pesos, S/. 663,600 aproximadamente.
+2. Córdoba: Con una inversión cercana a los $158 millones de pesos, S/. 663,600 aproximadamente.
 <p align="center">
 <p align="justify">
 Gastos: Adquisición de bienes y servicios por $58,5 millones (S/. 245,700), financiados por el Ministerio de Ambiente nacional y el Servicio Nacional de Manejo del Fuego (SNMF).
@@ -174,6 +175,55 @@ Gastos: Inversión en equipamiento para el combate de incendios, mitigación de 
 <p align="center">
 <p align="justify">
 Mendoza: Con un financiamiento cercano a los $61 millones (S/. 256,200) del Servicio Nacional de Manejo del Fuego (SNMF) para la adquisición de bienes y servicios, provenientes de fondos del Banco Argentino de Desarrollo (BICE) y cesión de maquinaria de $100 millones (S/. 420,000) del Fondo Nacional de Manejo del Fuego, incluyendo camión autobomba, camioneta, chipeadora y camión volcador. Los $61 millones + $100 millones hacen $161 millones (S/. 676,200).
+<p align="center">
+<p align="justify">
+Cada uno de estos acuerdos implica inversiones importantes para fortalecer la capacidad de las provincias en la prevención y combate de incendios forestales, lo que contribuye a la protección de los recursos naturales y a la mitigación de los daños causados por el fuego.
+<p align="center">
+
+## Bolivia
+<p align="justify">
+Según el gobierno municipal de Urubichá y su plan de contingencia contra los incendios forestales, existe un presupuesto para el Plan de Contingencia contra Incendios responde a los objetivos y acciones de preparación y respuesta definidas.
+<p align="center">
+
+ *Presupuesto Plan de Contingencia Incendios Forestales de Urubichá
+Fuente:Gobierno Municipal Autónomo de Urubichá*
+ 
+<p align="justify">
+Gracias al anterior cuadro podemos interpretar el presupuesto de un programa de prevención de riesgos y atención a desastres, específicamente enfocado en un plan de contingencia contra incendios forestales. El programa se divide en dos fases principales: preparación y atención, donde incluyen los montos requeridos en cada fase: servicios, materiales y suministros, y maquinarias y equipos. 
+<p align="center">
+<p align="justify">
+Detalles de presupuesto por fase:
+<p align="center">
+<p align="justify">
+1. Fase de Preparación
+<p align="center">
+<p align="justify">
+* Monto total requerido: 433,610 BOB, aproximadamente S/. 229,729.30
+<p align="center">
+<p align="justify">
+* Servicios: 46,900 BOB, aproximadamente S/. 24,877
+<p align="center">
+<p align="justify">
+* Materiales y suministros: 71,710 BOB, aproximadamente  S/. 38,008.30
+<p align="center">
+<p align="justify">
+* Maquinarias y equipos: 315,000 BOB, aproximadamente S/. 166,950
+<p align="center">
+<p align="justify">
+2. Fase de Atención
+<p align="center">
+<p align="justify">
+* Monto total requerido: 35,704 BOB, aproximadamente S/. 18,900.12
+<p align="center">
+<p align="justify">
+* Servicios: 12,500 BOB, aproximadamente S/. 6,625
+<p align="center">
+<p align="justify">
+* Materiales y suministros: 23,204 BOB, aproximadamente S/. 12,307.12
+Total del Presupuesto 469,314 BOB, aproximadamente S/. 248,932.42
+<p align="center">
+<p align="justify">
+Total del Presupuesto 469,314 BOB, aproximadamente S/. 248,932.42
 <p align="center">
  
 ## 3. Diagrama de Ishikawa - Causa y efecto
