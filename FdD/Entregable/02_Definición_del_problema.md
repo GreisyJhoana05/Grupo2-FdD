@@ -220,12 +220,14 @@ Detalles de presupuesto por fase:
 <p align="center">
 <p align="justify">
 * Materiales y suministros: 23,204 BOB, aproximadamente S/. 12,307.12
-Total del Presupuesto 469,314 BOB, aproximadamente S/. 248,932.42
 <p align="center">
 <p align="justify">
 Total del Presupuesto 469,314 BOB, aproximadamente S/. 248,932.42
 <p align="center">
- 
+<p align="justify">
+Este informe no ayuda con una percepción clara del presupuesto requerido por cada fase, así como los recursos asignados. La conversión de los montos en soles brinda un contexto adicional para facilitar la comprensión y comparación de los valores internacionales.
+<p align="center">
+
 ## 3. Diagrama de Ishikawa - Causa y efecto
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Definici%C3%B3n_del_problema/E01Imagen15.JPG?raw=true">
