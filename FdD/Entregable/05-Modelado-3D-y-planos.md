@@ -9,6 +9,6 @@
       </p>
 
 <p align="center">
-  <img src="" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Modelado-3D-Plano/ENTREGABLE%205%20(1).jpg" style="margin: auto;">
 
 
