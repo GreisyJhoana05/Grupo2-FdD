@@ -31,3 +31,7 @@ Tenemos que el boceto ganador fue
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Modelado-3D-Plano/PLANO%20SOPORTE%20PANEL%20SOLAR.jpeg" style="margin: auto;">
 
+   ## ***Plano tapa de flama***
+<p align="center">
+  <img src="" style="margin: auto;">
+
