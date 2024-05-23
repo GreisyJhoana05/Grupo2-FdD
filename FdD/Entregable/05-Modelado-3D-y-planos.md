@@ -1,7 +1,10 @@
 # **MODELADO 3D**
 ## ***Link de OnShape***
-<p align="center">
-  Tenemos que el boceto ganador fue
+Tenemos que el boceto ganador fue
+ <p align="center">
+    <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Modelado-3D-Plano/HITO%201%20-%20GRUPO%202%20.jpg"  Style="margin: auto;"
+      </p>
+
 
 ## ***Link de OnShape***
 <p align="center">
