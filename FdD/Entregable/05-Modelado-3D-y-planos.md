@@ -1,15 +1,15 @@
 # **Modelado 3D**
+## ***Link de OnShape***
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Caja_Negra_Esquema_de_Funciones/E04Imagen01.jpg?raw=true" style="margin: auto;">
-</p>
+  "https://cad.onshape.com/documents/4023bfa4c0c23fc0dcc2a642/w/231a02f7b5beb1456412f4fc/e/9141d259a2f2dcdc44084f64?renderMode=0&uiState=664fb6b35420b94ae84ed75a"
+  
+  ## ***VISTA EXPLOSIVA***
+  <p align="center">
+    <img src=""  Style="margin: auto;"
+      </p>
 
-## ***Plano para el case general prototipado***
+##
 <p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Caja_Negra_Esquema_de_Funciones/E04Imagen02.jpg"  Style="margin: auto;">
-</p>
-
-### ***Plano para el case con soporte***
-<p align="center">
-  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Caja_Negra_Esquema_de_Funciones/E04Imagen03.jpg?raw=true" style="margin: auto;">
+  <img src="" style="margin: auto;">
 </p>
 
