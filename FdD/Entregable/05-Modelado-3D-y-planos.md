@@ -18,4 +18,4 @@
   
 ## ***Plano base de flama***
 <p align="center">
-  <img src="" style="margin: auto;">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Modelado-3D-Plano/PLANO%20DE%20LA%20BASE.jpeg" style="margin: auto;">
