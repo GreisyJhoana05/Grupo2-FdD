@@ -14,4 +14,8 @@
 # **PLANOS DEL MODELADO**
 ## ***Plano contenedor de componentes en forma de flama***
 <p align="center">
+  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Modelado-3D-Plano/PLANO%20FLAMA.jpeg" style="margin: auto;">
+  
+## ***Plano base de flama***
+<p align="center">
   <img src="" style="margin: auto;">
