@@ -27,7 +27,7 @@ Tenemos que el boceto ganador fue
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Modelado-3D-Plano/PLANO%20DE%20LA%20BASE.jpeg" style="margin: auto;">
 
-  ## ***Plano soporto de panel solar***
+  ## ***Plano soporte de panel solar***
 <p align="center">
   <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Modelado-3D-Plano/PLANO%20SOPORTE%20PANEL%20SOLAR.jpeg" style="margin: auto;">
 
