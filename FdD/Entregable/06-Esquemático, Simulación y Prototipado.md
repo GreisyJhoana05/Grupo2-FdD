@@ -12,19 +12,6 @@
 
 <p align="center" float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Entre8_CircuitoE2.png?raw=true" width="800" height="650" /> </p>
 
-# Diagrama de flujo
-
-### Diagrama de flujo completo
-
-<p align="center" float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Entre8_Diagrama1.jpeg?raw=true" width="800" height="700" /> </p>
-
-### Diagrama de flujo de la estación de evaluación
-
-<p align="center" float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Entre8_Diagrama2.jpeg?raw=true" width="800" height="650" /> </p>
-
-### Diagrama de flujo de la estación de notificación
-
-<p align="center" float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Entre8_Diagrama3.jpeg?raw=true" width="800" height="200" /> </p>
 
 # Avance del prototipo
 
