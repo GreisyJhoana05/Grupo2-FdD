@@ -3,32 +3,32 @@
 
 ## *Circuito eléctrico completo*
 
-<p align="center" float="left">  <img src="" width="800" height="650" /> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/Schematic_ESQUEMA-ELECTR%C3%93NICO_2024-05-29%20(1).png"  /> </p>
 
 ## *Circuito eléctrico (TRANSFORMAR - REGULAR - CARGAR - ALIMENTAR)*
 
-<p align="center" float="left">  <img src="" width="800" height="650" /> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/esquema1.png" /> </p>
 
 ## *Circuito eléctrico (SENSAR - LOCALIZAR - PROCESAR)*
 
-<p align="center" float="left">  <img src="" width="800" height="650" /> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/esquema2.png"  /> </p>
 
 
 # *Avance del prototipo*
 
 ## *Codigo del prototipo:*
 
-<p align="center" float="left">  <img src="" width="800" height="600" /> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/codigo1.png"/> </p>
 
-<p align="center" float="left">  <img src="" width="800" height="600" /> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/codigo2.png" /> </p>
 
-<p align="center" float="left">  <img src="" width="800" height="600" /> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/codigo3.png"  /> </p>
 
 ### *Codigo del Módulo GPS:*
 
-<p align="center" float="left">  <img src="" width="800" height="600" /> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/GPS1.png"  /> </p>
 
-<p align="center" float="left">  <img src="" width="800" height="600" /> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/GPS2.png"  /> </p>
 
 ## Avance del circuito eléctrico
 
