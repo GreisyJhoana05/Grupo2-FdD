@@ -1,30 +1,39 @@
-﻿# Circuito eléctrico
 
-### Circuito eléctrico completo
+ # *Circuito eléctrico*
 
-<p align="center" float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Entre8_CircuitoE3.png?raw=true" width="800" height="650" /> </p>
+## *Circuito eléctrico completo*
 
-### Circuito eléctrico de la estación de evaluación
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/Schematic_ESQUEMA-ELECTR%C3%93NICO_2024-05-29%20(1).png"  /> </p>
 
-<p align="center" float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Entre8_CircuitoE1.png?raw=true" width="800" height="650" /> </p>
+## *Circuito eléctrico (TRANSFORMAR - REGULAR - CARGAR - ALIMENTAR)*
 
-### Circuito eléctrico de la estación de notificación
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/esquema1.png" /> </p>
 
-<p align="center" float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Entre8_CircuitoE2.png?raw=true" width="800" height="650" /> </p>
+## *Circuito eléctrico (SENSAR - LOCALIZAR - PROCESAR)*
+
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/esquema2.png"  /> </p>
 
 
-# Avance del prototipo
+# *Avance del prototipo*
 
-# Codigo del prototipo:
+## *Codigo del prototipo:*
 
-<p align="center" float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Entr8_Cod1.jpeg?raw=true" width="800" height="600" /> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/codigo1.png"/> </p>
 
-<p align="center" float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Entre8_Cod2.jpeg?raw=true" width="800" height="600" /> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/codigo2.png" /> </p>
 
-# Avance del circuito eléctrico
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/codigo3.png"  /> </p>
 
-<p align="center" float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Entre9_Real1.jpeg?raw=true" width="800" height="600" /> </p>
+### *Codigo del Módulo GPS:*
 
-<p align="center" float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Entre9_Real2.jpeg?raw=true" width="800" height="600" /> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/GPS1.png"  /> </p>
 
-<p align="center" float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Entre9_Real3.jpeg?raw=true" width="800" height="600" /> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/GPS2.png"  /> </p>
+
+## Avance del circuito eléctrico
+
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/prototipo1.jpg"  /> </p>
+
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/PROTOTIPO2.jpg"  /> </p>
+
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/PROTOTIPO3.jpg"  /> </p>
