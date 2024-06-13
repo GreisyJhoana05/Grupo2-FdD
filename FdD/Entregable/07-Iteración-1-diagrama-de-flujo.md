@@ -19,23 +19,23 @@
 
 ### *Código del Receptor*
 
-<p align="center" float="left">  <img src=""/> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/RECEPT1.png"/> </p>
 
-<p align="center" float="left">  <img src=""/> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/RECEPT2.png"/> </p>
 
 ## *Prototipo Electrónico*
 
 ### *INTENTO N°1*
 
-<p align="center" float="left">  <img src=""/> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/INTENTOA1.jpg"/> </p>
 
-<p align="center" float="left">  <img src=""/> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/INTENTOA2.jpg""/> </p>
 
 ### *INTENTO N°2*
 
-<p align="center" float="left">  <img src=""/> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/INTENTOB1.jpg""/> </p>
 
-<p align="center" float="left">  <img src=""/> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/INTENTOB2.jpg""/> </p>
 
 
 
