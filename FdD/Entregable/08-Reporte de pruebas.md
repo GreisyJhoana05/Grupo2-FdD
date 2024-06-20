@@ -8,4 +8,12 @@
 
 <p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Reporte%20de%20pruebas/E08%20Imagen01.jpg"/> </p>
 
+## *Código del receptor con envío a Firebase (Database)*
 
+<p align="center" float="left">  <img src=""/> </p>
+
+<p align="center" float="left">  <img src="" /> </p>
+
+<p align="center" float="left">  <img src=""  /> </p>
+
+<p align="center" float="left">  <img src=""  /> 
