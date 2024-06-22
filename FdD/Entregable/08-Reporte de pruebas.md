@@ -12,7 +12,7 @@
 
 * RETOS: El modelado de los espacios para los componentes, porque tienen que ser precisos en tamaño, además por la cantidad del material de la falma y el tamaño que no se puede realizar una impresión 3D debemos  cambiar a corte láser.
   
- <p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Reporte%20de%20pruebas/E08%20Imagen01.jpg"/> </p>
+ <p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Reporte%20de%20pruebas/E08-Imagen03.jpg"/> </p>
 
 * POSIBLES SOLUCIONES: Modificar algunas partes del diseño inicial del modelado, para que se adapte mejor al corte láse y de esta forma ser precisos en la medición, para que los tornillos se ajusten a los componentes utilizados.
 
