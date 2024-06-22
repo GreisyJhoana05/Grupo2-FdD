@@ -1,8 +1,15 @@
 # *Entregable N° 8: Reporte de Pruebas, Retos y Limitaciones*
 
 ## *Parte Electrónica*
+
+
 ### *Video de reporte (Correcto funcionamiento del transmisor y receptor)*
 ### *Retos y limitaciones en la parte electrónica*
+
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Reporte%20de%20pruebas/ELECT1.png"/> </p>
+
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Reporte%20de%20pruebas/ELECT2.png"/> </p>
+
 
 ## *Manufactura digital: Modelado 3D*
 
@@ -12,14 +19,3 @@
 
   <p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Reporte%20de%20pruebas/E08-Imagen03.jpg"/> </p>
   
-## *Código del receptor con envío a Firebase (Database)*
-
-<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Reporte%20de%20pruebas/R1.png"/> </p>
-
-<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Reporte%20de%20pruebas/R2.png"/> </p>
-
-<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Reporte%20de%20pruebas/R3.png"/> </p>
-
-<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Reporte%20de%20pruebas/R4.png"/> </p>
-
-<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Reporte%20de%20pruebas/R5.png"/> </p>
