@@ -1,4 +1,4 @@
-## *Planos*
+## *Manufactura digital: Modelado 3D*
 
 ### *Plano de la tapa*
 
