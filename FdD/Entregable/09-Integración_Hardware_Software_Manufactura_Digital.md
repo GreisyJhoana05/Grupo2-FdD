@@ -1,6 +1,7 @@
 <h1 align = "center">Integración Hardware - Software - Manufactura Digital</h1>
 <h2 align = "left">Verificación de Diseño (Software)</h2>
 
+<p align="center" float="left">  <img src=""/> </p>
 
 | **REQUERIMIENTO DE DISEÑO (INICIALES)**                    | **REQUERIMIENTO DE DISEÑO (FINALES)**                           | **RESULTADO DE TEST**                                                                                           |
 |------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
