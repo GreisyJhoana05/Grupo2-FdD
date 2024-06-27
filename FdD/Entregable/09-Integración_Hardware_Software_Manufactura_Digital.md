@@ -1,7 +1,7 @@
 <h1 align = "center">Integración Hardware - Software - Manufactura Digital</h1>
 <h2 align = "left">Verificación de Diseño (Software)</h2>
 
-<p align="center" float="left">  <img src=""/> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Integraci%C3%B3n%20Hardware%20y%20Software/F1.png"/> </p>
 
 | **REQUERIMIENTO DE DISEÑO (INICIALES)**                    | **REQUERIMIENTO DE DISEÑO (FINALES)**                           | **RESULTADO DE TEST**                                                                                           |
 |------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
@@ -13,5 +13,6 @@
 | Recibe datos del transmisor LoRa.                          | Recepción de datos precisa mediante LoRa.                       | Algunos errores en la recepción de datos del transmisor LoRa.                                                  |
 | Envía correctamente los datos recibidos a Firebase.        | Datos enviados a Firebase con integridad.                       | Algunos errores en el envío de datos hacia la base de datos en Firebase.                                        |
 | Visualiza los datos en la aplicación.                      | Datos presentados de manera clara y accesible en la app.        | Pendiente de prueba.                                                                                           |
+### Reporte de Pruebas
 
 <h2 align = "left">Verificación de Diseño (Hardware)</h2>
