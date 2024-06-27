@@ -14,5 +14,7 @@
 | Envía correctamente los datos recibidos a Firebase.        | Datos enviados a Firebase con integridad.                       | Algunos errores en el envío de datos hacia la base de datos en Firebase.                                        |
 | Visualiza los datos en la aplicación.                      | Datos presentados de manera clara y accesible en la app.        | Pendiente de prueba.                                                                                           |
 ### Reporte de Pruebas
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Integraci%C3%B3n%20Hardware%20y%20Software/F2.png"/> </p>
+<p align="left" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Integraci%C3%B3n%20Hardware%20y%20Software/F3.png"/> </p>
 
 <h2 align = "left">Verificación de Diseño (Hardware)</h2>
