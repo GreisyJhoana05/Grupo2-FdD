@@ -18,3 +18,10 @@
 <p align="left" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Integraci%C3%B3n%20Hardware%20y%20Software/F3.png"/> </p>
 
 <h2 align = "left">Verificación de Diseño (Hardware)</h2>
+
+| **REQUERIMIENTOS DE DISEÑO INICIALES**                     | **RESULTADO DE TEST**                                                                                           |
+|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Los componentes deben encajar bien y estar bien sujetos.   | Los componentes encajan correctamente y están bien sujetos, garantizando la estabilidad y el funcionamiento.    |
+| El dispositivo debe ser de fácil transporte y manejo.      | El dispositivo es ligero y portátil, facilitando su transporte y manejo en diferentes entornos.                 |
+| El sistema debe ser independiente y autónomo con energía solar.    | El sistema funciona de manera autónoma con una fuente de energía solar, sin necesidad de intervención constante.|
+
