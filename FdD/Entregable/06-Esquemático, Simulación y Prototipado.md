@@ -3,10 +3,10 @@
 
 ## *Circuito eléctrico completo del Transmisor*
 
-<p align="center" float="left">  <img src=""  /> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/ESQUEMA%20TRANSMISOR.png"  /> </p>
 
 ## *Circuito eléctrico completo del Receptor*
-<p align="center" float="left">  <img src=""  /> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/ESQUEMA%20RECEPTOR.png"  /> </p>
 
 # *Avance del prototipo*
 
