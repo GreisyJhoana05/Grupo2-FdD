@@ -6,27 +6,27 @@
 
 ### *Código del Transmisor*
 
-<p align="center" float="left">  <img src=""/> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/T1.png"/> </p>
 
-<p align="center" float="left">  <img src=""/> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/T2.png"/> </p>
 
-<p align="center" float="left">  <img src=""/> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/T3.png"/> </p>
 
-<p align="center" float="left">  <img src=""/> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/T4.png"/> </p>
 
-<p align="center" float="left">  <img src=""/> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/T5.png"/> </p>
 
 ### *Código del Receptor*
 
-<p align="center" float="left">  <img src=""/> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/RC1.png"/> </p>
 
-<p align="center" float="left">  <img src=""/> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/RC2.png"/> </p>
 
-<p align="center" float="left">  <img src=""/> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/RC3.png"/> </p>
 
-<p align="center" float="left">  <img src=""/> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/RC4.png"/> </p>
 
-<p align="center" float="left">  <img src=""/> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/RC5.png"/> </p>
 
 ## *Prototipo Electrónico*
 
