@@ -44,10 +44,10 @@
 
 ## *Diagramas de flujos*
 ### *Diagrama de flujo de los Sensores Y Transmisor*
-<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/E07-Imagen11.jpg""/> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/E07-Imagen11.jpg.png""/> </p>
 
 ### *Diagrama de flujo de Recepción LoRa*
-<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/E07-Imagen12.jpg""/> </p>
+<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/E07-Imagen11.jpg.png""/> </p>
 
 ### *Diagrama de flujo de la Aplicación*
 <p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/E07-Imagen13.jpg""/> </p>
