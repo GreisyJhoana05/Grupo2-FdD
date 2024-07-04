@@ -6,19 +6,27 @@
 
 ### *Código del Transmisor*
 
-<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/E07-Imagen01.jpg"/> </p>
+<p align="center" float="left">  <img src=""/> </p>
 
-<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/E07-Imagen02.jpg" /> </p>
+<p align="center" float="left">  <img src=""/> </p>
 
-<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/E07-Imagen03.jpg"  /> </p>
+<p align="center" float="left">  <img src=""/> </p>
 
-<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/E07-Imagen04.jpg"  /> </p>
+<p align="center" float="left">  <img src=""/> </p>
+
+<p align="center" float="left">  <img src=""/> </p>
 
 ### *Código del Receptor*
 
-<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/E07-Imagen05.jpg"/> </p>
+<p align="center" float="left">  <img src=""/> </p>
 
-<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Iteraci%C3%B3n-1-diagrama-de-flujo/E07-Imagen06.jpg"/> </p>
+<p align="center" float="left">  <img src=""/> </p>
+
+<p align="center" float="left">  <img src=""/> </p>
+
+<p align="center" float="left">  <img src=""/> </p>
+
+<p align="center" float="left">  <img src=""/> </p>
 
 ## *Prototipo Electrónico*
 
