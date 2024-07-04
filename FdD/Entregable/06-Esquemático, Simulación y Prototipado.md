@@ -1,18 +1,12 @@
 
  # *Circuito eléctrico*
 
-## *Circuito eléctrico completo*
+## *Circuito eléctrico completo del Transmisor*
 
-<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/E06Imagen01.jpg"  /> </p>
+<p align="center" float="left">  <img src=""  /> </p>
 
-## *Circuito eléctrico (TRANSFORMAR - REGULAR - CARGAR - ALIMENTAR)*
-
-<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/E06Imagen02.jpg" /> </p>
-
-## *Circuito eléctrico (SENSAR - LOCALIZAR - PROCESAR)*
-
-<p align="center" float="left">  <img src="https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Esquem%C3%A1tico%2C%20Simulaci%C3%B3n%20y%20Prototipado/E06Imagen03.jpg"  /> </p>
-
+## *Circuito eléctrico completo del Receptor*
+<p align="center" float="left">  <img src=""  /> </p>
 
 # *Avance del prototipo*
 
