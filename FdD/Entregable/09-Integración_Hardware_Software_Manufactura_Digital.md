@@ -19,9 +19,16 @@
 
 <h2 align = "left">Verificación de Diseño (Hardware)</h2>
 
+### ACTUALIZACIÓN
+<p align="center" float="left">  <img src=""/> </p>
+<p align="center" float="left">  <img src=""/> </p>
+
+
 | **REQUERIMIENTOS DE DISEÑO INICIALES**                     | **RESULTADO DE TEST**                                                                                           |
 |------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | Los componentes deben encajar bien y estar bien sujetos.   | Los componentes encajan correctamente y están bien sujetos, garantizando la estabilidad y el funcionamiento.    |
 | El dispositivo debe ser de fácil transporte y manejo.      | El dispositivo es ligero y portátil, facilitando su transporte y manejo en diferentes entornos.                 |
 | El sistema debe ser independiente y autónomo con energía solar.    | El sistema funciona de manera autónoma con una fuente de energía solar, sin necesidad de intervención constante.|
 
+<p align="center" float="left">  <img src=""/> </p>
+<p align="center" float="left">  <img src=""/> </p>
