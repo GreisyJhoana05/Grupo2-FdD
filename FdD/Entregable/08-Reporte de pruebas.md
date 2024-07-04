@@ -3,7 +3,7 @@
 ## *Parte Electrónica*
 ### *Video de reporte (Correcto funcionamiento del transmisor y receptor)*
 
-https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Reporte%20de%20pruebas/PRUEBA%20DE%20TRANMISI%C3%93N%20Y%20RECEPCI%C3%93N%20DE%20DATOS.mp4
+https://github.com/GreisyJhoana05/Grupo2-FdD/blob/main/FdD/Imagenes/Reporte%20de%20pruebas/WhatsApp%20Video%202024-07-03%20at%2020.29.47.mp4
 
 ## *Retos y limitaciones en la parte electrónica*
 
